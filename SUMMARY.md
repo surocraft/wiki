@@ -10,6 +10,7 @@
 ## Ranky
 
 * [Ranky](ranky/ranky.md)
+* [Příkazy a Výhody](ranky/help.md)
 
 ## Special <a id="features"></a>
 

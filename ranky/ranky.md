@@ -12,8 +12,10 @@ description: List ranků a jejich výhody
 * `/delwarp`
 * keepinv \(automaticky\)
 * keepxp \(automaticky\)
-* 10x home
-* Vlastní suffix
+* Limit 20x home
+* Nekonečná výška pro vytvoření výtahu \([?](../features/vytahy.md)\)
+* Nekonečný limit Shopkeeperů \([?](../features/shopkeepers.md)\)
+* Vlastní suffix podle libosti
 * _Poloviční sleva na příští nákup_
 
 ### Diamond
@@ -21,15 +23,20 @@ description: List ranků a jejich výhody
 * `/back` \(Vrátí tě na místo, kde jsi umřel\)
 * `/hat` \(Drž v ruce blok, který si chceš nasadit na hlavu\)
 * `/warp`
-* Možnost psát barevně do chatu \([Jak psát barevně?](https://minecraft.fandom.com/wiki/Formatting_codes)\)
-* 
+* Limit 5x home
+* Limit 130 bloků pro vytvoření výtahu \([?](../features/vytahy.md)\)
+* Limit 8 Shopkeeperů \([?](../features/shopkeepers.md)\)
+* Možnost psát barevně do chatu \([?](help.md#psani-barevne-do-chatu)\)
+
 ### Gold
 
-* 5x home
 * `/heal` \(Vyplní životy - časově omezené na 1min\)
 * `/feed` \(Vyplní hlad - časově omezené na 1min\)
 * `/anvil` \(Otevře kovadlinu\)
 * `/stonecutter` \(Otevře kameník\)
+* Limit 5x home
+* Limit 80 bloků pro vytvoření výtahu \([?](../features/vytahy.md)\)
+* Limit 4 Shopkeepeři \([?](../features/shopkeepers.md)\) 
 
 ### Iron
 
@@ -37,7 +44,9 @@ description: List ranků a jejich výhody
 * `/kit iron` \(Udělí ti OP nástroje a brnění\)
 * `/nick` \(Změní ti jméno v chatu\)
 * `/workbench` \(Otevře crafting table 3x3\)
-* 3x home
+* Limit 3x home
+* Limit 10 bloků pro vytvoření výtahu \([?](../features/vytahy.md)\)
+* Limit 1 Shopkeeper
 
 ### Wood
 
