@@ -1,6 +1,7 @@
 # Table of contents
 
 * [ÚVOD](README.md)
+* [Přispět](donate.md)
 
 ## Server
 
