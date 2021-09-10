@@ -1,7 +1,7 @@
 # ÚVOD
 
-Tato wiki slouží usnadnění vašeho hledání a zároveň k uvolnění času našeho staff týmu.  
-Zde by jste měli najít všechny důležité odpovědi.
+Tato wiki slouží k usnadnění tvého hledání a zároveň k uvolnění času našeho admin teamu.  
+Zde by jsi měl najít všechny důležité odpovědi.
 
 Samozřejmě, pokud je nenajdete, neváhejte založit ticket v kanálu **\#ticket** na [**Discord serveru**](https://dsc.gg/surocraft).
 
@@ -20,7 +20,7 @@ Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**
 | Java Edition | suro.petyxbron.cz:17032 |  |
 | Bedrock Edition | suro.petyxbron.cz | 17033 |
 
-Připojením na server souhlasíš s našimi [pravidli](server/rules.md).
+Připojením na server souhlasíš s našimi [pravidly](server/rules.md).
 
 {% hint style="info" %}
 Nevíš jak se připojit na 'speciální' server s herní konzolí?  
@@ -38,4 +38,18 @@ Vyzkoušej aplikaci [**MC Server Connector**](https://play.google.com/store/apps
 ![](.gitbook/assets/image%20%282%29.png)
 {% endtab %}
 {% endtabs %}
+
+## Přispět
+
+_**Líbí se ti naše práce? Rád hraješ na serveru?**_ _**Podpoř nás prosím!**_
+
+_Platit můžeš službou PayPal, nebo platební kartou._ _Je možnost i poslat peníze na bankovní účet zmíněný dole._
+
+> _\*\*\*\*_[_**Podmínky**_              ](https://tinyurl.com/yfyhmgxr)-&gt; [https://tinyurl.com/yfyhmgxr](https://tinyurl.com/yfyhmgxr)  
+> [_**Odkaz**_                     ](https://linktr.ee/surocraft)-&gt; [https://linktr.ee/surocraft](https://linktr.ee/surocraft)  
+> [_**Číslo Bank. Účtu**_](https://tinyurl.com/yho2rv7m)  -&gt; [https://tinyurl.com/yho2rv7m](https://tinyurl.com/yho2rv7m)
+
+_Do poznámek platby mi prosím uveďte přezdívku, po které vás poznám. - jinak nezískáte odměnu_
+
+**Odměna:** Každý podporovatel získá jeden **diamantový blok**.
 
