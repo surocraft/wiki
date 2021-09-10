@@ -1,6 +1,10 @@
+---
+description: Pravidla Minecraft i Discord serveru
+---
+
 # Pravidla
 
-## Pravidla Minecraft i Discord serveru
+## Pravidla
 
  _Admin Team má plnou moc rozhodnout o vážnosti porušení pravidel a tím pádem, také určit jejich potrestání. Admin Team může trestat i kvůli vlastnímu důvodu. Samotný pověřený vyšetřoval může udělit varování, ztlumení, vyhození, dočasného zablokování, či trvalé zablokování._
 
