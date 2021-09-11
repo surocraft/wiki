@@ -13,7 +13,7 @@ description: List ranků a jejich výhody
 * keepinv \(automaticky\)
 * keepxp \(automaticky\)
 * Limit 20x home
-* Nekonečná výška pro vytvoření výtahu \([?](../features/vytahy.md)\)
+* Nekonečná výška pro vytvoření výtahu \([?](../features/elevator.md)\)
 * Nekonečný limit Shopkeeperů \([?](../features/shopkeepers.md)\)
 * Vlastní suffix podle libosti
 * _Poloviční sleva na příští nákup_
@@ -24,7 +24,7 @@ description: List ranků a jejich výhody
 * `/hat` \(Drž v ruce blok, který si chceš nasadit na hlavu\)
 * `/warp`
 * Limit 5x home
-* Limit 130 bloků pro vytvoření výtahu \([?](../features/vytahy.md)\)
+* Limit 130 bloků pro vytvoření výtahu \([?](../features/elevator.md)\)
 * Limit 8 Shopkeeperů \([?](../features/shopkeepers.md)\)
 * Možnost psát barevně do chatu \([?](help.md#psani-barevne-do-chatu)\)
 
@@ -35,7 +35,7 @@ description: List ranků a jejich výhody
 * `/anvil` \(Otevře kovadlinu\)
 * `/stonecutter` \(Otevře kameník\)
 * Limit 5x home
-* Limit 80 bloků pro vytvoření výtahu \([?](../features/vytahy.md)\)
+* Limit 80 bloků pro vytvoření výtahu \([?](../features/elevator.md)\)
 * Limit 4 Shopkeepeři \([?](../features/shopkeepers.md)\) 
 
 ### Iron
@@ -45,7 +45,7 @@ description: List ranků a jejich výhody
 * `/nick` \(Změní ti jméno v chatu\)
 * `/workbench` \(Otevře crafting table 3x3\)
 * Limit 3x home
-* Limit 10 bloků pro vytvoření výtahu \([?](../features/vytahy.md)\)
+* Limit 10 bloků pro vytvoření výtahu \([?](../features/elevator.md)\)
 * Limit 1 Shopkeeper
 
 ### Wood

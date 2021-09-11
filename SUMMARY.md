@@ -18,6 +18,6 @@
 * [Pozemky](features/pozemky.md)
 * [Propojení ůčtů](features/linkaccount.md)
 * [Shopkeepers](features/shopkeepers.md)
-* [Výtahy](features/vytahy.md)
+* [Výtahy](features/elevator.md)
 * [AutoCrafter](features/autocrafter.md)
 
