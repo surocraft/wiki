@@ -227,6 +227,8 @@ Ještě si pamatuji.. Vlastnil jsem pouze Bedrock server a kamarádi s Minecraft
 
 ### Geyser
 
+Laicky - Geyser je plugin na serveru který umožňuje Bedrock hráčům hrát na serveru Java. A to je náš případ.
+
 Geyser je proxy, který vytvaří most nad propastí mezi servery Minecraft: Bedrock Edition a Minecraft: Java Edition. Konečným cílem tohoto projektu je umožnit uživatelům Minecraft: Bedrock Edition připojit se k serverům Minecraft: Java Edition tak hladce, jak je to jen možné, a umožnit tak skutečnou platformu.
 
 Geyser je middleware, který překládá všechny příchozí a odchozí pakety. Geyser funguje jako samostatný proxy, což znamená, že jej můžete použít k připojení k jakémukoli modernímu serveru Minecraft Java.  
