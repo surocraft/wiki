@@ -4,6 +4,8 @@
 
 ### Homes
 
+* [x] **Rank Wood+**
+
 Říkáme tomu cize, homes. Je to předem nastavené místo, kam se můžeš teleportovat kdykoliv, odkudkoliv.  
 Např. end portál je příliš daleko a tak se k němu portneš pomocí příkazu.  
 Pozor! Home si musíš nejdříve nastavit.  
