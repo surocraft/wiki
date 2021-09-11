@@ -14,3 +14,5 @@ Po použití příkazu se aktuální předmět nebo blok přesune do druhé ruky
 
 ![](../.gitbook/assets/ezgif.com-gif-maker.gif)
 
+Tento příkaz je dostupný pouze Bedrock hráče a na Javě je zablokovaný. Pokud chceš si chceš na Javě dát do druhé ruky předmět nebo blok, výchoze je to nastaveno na klávese `f`. Nebo v inventáři můžeš taky předmět nebo blok přetáhnout do okénka se štítem.
+

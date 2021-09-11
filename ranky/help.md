@@ -2,6 +2,30 @@
 
 ## Příkazy
 
+### Homes
+
+Říkáme tomu cize, homes. Je to předem nastavené místo, kam se můžeš teleportovat kdykoliv, odkudkoliv.  
+Např. end portál je příliš daleko a tak se k němu portneš pomocí příkazu.  
+Pozor! Home si musíš nejdříve nastavit.  
+Homes je vlastně krásné usnadnění hry.
+
+#### Výtvoření Homu
+
+Home vytvoříš pomocí příkazu `/sethome [název]`. Např. `/sethome end`  
+Později už budeš moci použít příkaz `/home end` a budeš u portálu.
+
+#### Limity podle ranku
+
+| Rank | Homes |
+| :--- | :--- |
+| Netherite | 20x |
+| Diamond | 5x |
+| Gold | 5x |
+| Iron | 3x |
+| Wood | postel |
+
+\*\*\*\*[**Wood rank** ](ranky.md#wood)může použít příkaz `/home`, který ho portne ke své posteli. Nemůže si nastavit vlastní, ale pokud se chceš rychle dostat domů, hodí se.
+
 ## Ostatní Výhody
 
 ### Psaní barevně do chatu
