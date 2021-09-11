@@ -45,11 +45,12 @@ _**Líbí se ti naše práce? Rád hraješ na serveru?**_ _**Podpoř nás prosí
 
 _Platit můžeš službou PayPal, nebo platební kartou._ _Je možnost i poslat peníze na bankovní účet zmíněný dole._
 
-> _\*\*\*\*_[_**Podmínky**_              ](https://tinyurl.com/yfyhmgxr)-&gt; [https://tinyurl.com/yfyhmgxr](https://tinyurl.com/yfyhmgxr)  
-> [_**Odkaz**_                     ](https://linktr.ee/surocraft)-&gt; [https://linktr.ee/surocraft](https://linktr.ee/surocraft)  
-> [_**Číslo Bank. Účtu**_](https://tinyurl.com/yho2rv7m)  -&gt; [https://tinyurl.com/yho2rv7m](https://tinyurl.com/yho2rv7m)
+_\*\*\*\*_[_**Přispět zde**_](https://linktr.ee/surocraft) \(Podpora platebních karet, PayPal\)  
+[_**Číslo Bankovního účtu zde**_](https://tinyurl.com/yho2rv7m)  
+[_podmínky_](https://tinyurl.com/yfyhmgxr)\_\_
 
-_Do poznámek platby mi prosím uveďte přezdívku, po které vás poznám. - jinak nezískáte odměnu_
+_Do poznámek platby mi prosím uveďte přezdívku, po které vás poznám._  
+_- jinak nezískáte odměnu_
 
 **Odměna:** Každý podporovatel získá jeden **diamantový blok**.
 

@@ -2,14 +2,11 @@
 
 ## Příkazy
 
-### Nástroje v příkazech
-
-Nebaví tě tahat s sebou crafting? Nebo si pořád opotřebovávat kovadlinu?  
-Tyto příkazy ti usnadní hru.
-
 ## Ostatní Výhody
 
 ### Psaní barevně do chatu
+
+* [x] **Rank Diamond+**
 
 Od ranku Diamond se tato výhoda odemče.  
 Existuje určitý syntax, kódy pro každou barvu. Ty jsou důležité znát aby jsi věděl jaká barva se skrývá pod kterým písmenkem nebo číslem. Ty najdeš [**zde**](https://minecraft.fandom.com/wiki/Formatting_codes#Color_codes) ve sloupci 'codes'.  

@@ -14,6 +14,7 @@
 
 ## Jak Na To <a id="features"></a>
 
+* [Užitečné](features/uzitecne.md)
 * [Pozemky](features/pozemky.md)
 * [Propojení ůčtů](features/linkaccount.md)
 * [Shopkeepers](features/shopkeepers.md)
