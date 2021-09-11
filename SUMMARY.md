@@ -7,10 +7,10 @@
 * [Pravidla](server/rules.md)
 * [Slovníček](server/slovnik.md)
 
-## Ranky
+## Ranky <a id="ranks"></a>
 
-* [Ranky](ranky/ranky.md)
-* [Příkazy a Výhody](ranky/help.md)
+* [Ranky](ranks/ranky.md)
+* [Příkazy a Výhody](ranks/help.md)
 
 ## Jak Na To <a id="features"></a>
 
