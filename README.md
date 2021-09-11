@@ -17,8 +17,8 @@ Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**
 
 | EDICE | IP | PORT |
 | :--- | :--- | :--- |
-| Java Edition | suro.petyxbron.cz:17032 |  |
-| Bedrock Edition | suro.petyxbron.cz | 17033 |
+| Java Edition       1.17.1 | suro.petyxbron.cz:17032 |  |
+| Bedrock Edition 1.17.11 | suro.petyxbron.cz | 17033 |
 
 Připojením na server souhlasíš s našimi [pravidly](server/rules.md).
 
