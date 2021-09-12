@@ -4,6 +4,27 @@ description: Užitečné příkazy a triky jak si zlepšit hru.
 
 # Užitečné
 
+## Příkazy
+
+### Portovací příkazy
+
+* [x] Rank Hráč+
+
+Pro ulehčení práce vaším kostičkovaným nohám jsme přidali příkazy
+
+* `/spawn`
+* `/end`
+
+Logicky, `/spawn` příkaz tě portne na spawn. Na spawnu máme obchody a výstavku. Jedná se tak o "Serverové tržiště", či "Serverové Náměstí".
+
+![Obr&#xE1;zek Spawnu](../.gitbook/assets/image%20%288%29.png)
+
+Příkaz `/end` tě portne k End portálu.
+
+{% hint style="warning" %}
+**Příkaz `/end` má cooldown 10 minut.**
+{% endhint %}
+
 ### Přehození předmětu do druhé ruky
 
 * [x] **Pouze Bedrock hráči**
