@@ -52,3 +52,5 @@ Pokud si tak ještě neudělal, přečti si [pravidla serveru](../server/rules.m
 
 Běž v Discord serveru do kanálu **\#ticket**, zde uvidíš zprávu pod které je tlačítko. Na to klikneš a vytvoří se nový kanál, tam si můžeme začít psát.
 
+![Vytvo&#x159;en&#xED; ticketu na Discord serveru](../.gitbook/assets/ticket-create.gif)
+
