@@ -1,0 +1,32 @@
+---
+description: Obrázky - screenshoty ze serveru
+---
+
+# GALERIE
+
+{% hint style="info" %}
+**Chceš přispět do galerie? Založ** [**ticket**](features/uzitecne.md#ticket)**.**
+{% endhint %}
+
+![](.gitbook/assets/2021-09-12_16.24.31.png)
+
+![](.gitbook/assets/2021-09-12_16.30.11.png)
+
+![](.gitbook/assets/2021-09-12_16.31.15.png)
+
+![](.gitbook/assets/2021-09-12_16.32.14.png)
+
+![](.gitbook/assets/2021-09-12_16.32.37.png)
+
+![](.gitbook/assets/unknown.png)
+
+![](.gitbook/assets/unknown1.png)
+
+![](.gitbook/assets/unknown2.png)
+
+![](.gitbook/assets/unknown3.png)
+
+![](.gitbook/assets/unknown4.jpg)
+
+![](.gitbook/assets/unknown5.jpg)
+

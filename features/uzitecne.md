@@ -17,7 +17,7 @@ Pro ulehčení práce vaším kostičkovaným nohám jsme přidali příkazy
 
 Logicky, `/spawn` příkaz tě portne na spawn. Na spawnu máme obchody a výstavku. Jedná se tak o "Serverové tržiště", či "Serverové Náměstí".
 
-![Obr&#xE1;zek Spawnu](../.gitbook/assets/image%20%288%29.png)
+![Obr&#xE1;zek Spawnu](../.gitbook/assets/image.png)
 
 Příkaz `/end` tě portne k End portálu.
 
