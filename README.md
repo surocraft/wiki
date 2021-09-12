@@ -3,7 +3,7 @@
 Tato wiki slouží k usnadnění tvého hledání a zároveň k uvolnění času našeho admin teamu.  
 Zde by jsi měl najít všechny důležité odpovědi.
 
-Samozřejmě, pokud je nenajdete, neváhejte založit ticket v kanálu **\#ticket** na [**Discord serveru**](https://dsc.gg/surocraft).
+Samozřejmě, pokud je nenajdete, neváhejte založit [**ticket**](features/uzitecne.md#ticket) na [**Discord serveru**](https://dsc.gg/surocraft).
 
 ## Připojení na server <a id="connect"></a>
 

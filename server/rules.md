@@ -63,6 +63,6 @@ Griefing, cheating - hacking jsou ty nejhroznější případy.
 Jakékoliv nalezení chyb \(bugů\), musí být co nejdříve a neprodleně nahlášeno admin teamu. Zneužívání chyb se velmi přísně trestá.
 
 {% hint style="info" %}
-Admin tean můžeš kontaktovat na [Discordu](https://dsc.gg/surocraft). Třeba založ ticket v kanálu \#ticket.
+Admin tean můžeš kontaktovat na [Discordu](https://dsc.gg/surocraft). Třeba založ [**ticket** ](../features/uzitecne.md#ticket)v kanálu **\#ticket**.
 {% endhint %}
 
