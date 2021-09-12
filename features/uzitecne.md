@@ -39,3 +39,16 @@ Tento příkaz je dostupný pouze Bedrock hráče a na Javě je zablokovaný. Po
 
 ## Ostatní
 
+### Podpora - Založení ticketu <a id="ticket"></a>
+
+Nevíš jak kontaktovat Admin Team? Zde máš návod.
+
+#### 1. Připojení k Discordu <a id="discord-connect"></a>
+
+Nejdříve se musíš připojit na Discord server. Odkaz [**zde**](https://dsc.gg/surocraft).  
+Pokud si tak ještě neudělal, přečti si [pravidla serveru](../server/rules.md).
+
+#### 2. Založení ticketu v kanále <a id="ticket-create"></a>
+
+Běž v Discord serveru do kanálu **\#ticket**, zde uvidíš zprávu pod které je tlačítko. Na to klikneš a vytvoří se nový kanál, tam si můžeme začít psát.
+
