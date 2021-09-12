@@ -6,7 +6,7 @@ description: Užitečné příkazy a triky jak si zlepšit hru.
 
 ## Příkazy
 
-### Portovací příkazy
+### Portovací příkazy <a id="tp"></a>
 
 * [x] Rank Hráč+
 
@@ -25,7 +25,7 @@ Příkaz `/end` tě portne k End portálu.
 **Příkaz `/end` má cooldown 10 minut.**
 {% endhint %}
 
-### Přehození předmětu do druhé ruky
+### Přehození předmětu do druhé ruky <a id="offhand"></a>
 
 * [x] **Pouze Bedrock hráči**
 * [x] **Rank Hráč+**
@@ -36,4 +36,6 @@ Po použití příkazu se aktuální předmět nebo blok přesune do druhé ruky
 ![](../.gitbook/assets/ezgif.com-gif-maker.gif)
 
 Tento příkaz je dostupný pouze Bedrock hráče a na Javě je zablokovaný. Pokud chceš si chceš na Javě dát do druhé ruky předmět nebo blok, výchoze je to nastaveno na klávese `f`. Nebo v inventáři můžeš taky předmět nebo blok přetáhnout do okénka se štítem.
+
+## Ostatní
 

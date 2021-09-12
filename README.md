@@ -5,7 +5,7 @@ Zde by jsi měl najít všechny důležité odpovědi.
 
 Samozřejmě, pokud je nenajdete, neváhejte založit ticket v kanálu **\#ticket** na [**Discord serveru**](https://dsc.gg/surocraft).
 
-## Připojení na server
+## Připojení na server <a id="connect"></a>
 
 {% hint style="warning" %}
 **Je nutné se nejdříve připojit na** [**Discord server**](https://dsc.gg/surocraft)**.**
@@ -39,7 +39,7 @@ Vyzkoušej aplikaci [**MC Server Connector**](https://play.google.com/store/apps
 {% endtab %}
 {% endtabs %}
 
-## Přispět
+## Přispět <a id="donate"></a>
 
 _**Líbí se ti naše práce? Rád hraješ na serveru?**_ _**Podpoř nás prosím!**_
 

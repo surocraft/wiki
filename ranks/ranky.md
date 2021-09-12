@@ -59,7 +59,7 @@ Rank za vote.
 * `/tpa` \(Zeptat se hráče, jestli se můžeš za ním teleportovat\)
 * 1x home postel
 
-## Jak získat ranky
+## Jak získat ranky <a id="prices"></a>
 
 {% hint style="danger" %}
 **Zakoupení ranků je nyní možné pouze zaplacením přímo majiteli serveru na PayPal, či bankovním převodem. Kontaktuj Petyho nebo staff team pro více info.**

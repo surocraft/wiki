@@ -1,6 +1,7 @@
 # Table of contents
 
 * [ÚVOD](README.md)
+* [OBRÁZKY](obrazky.md)
 
 ## Server
 

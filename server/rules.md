@@ -21,7 +21,7 @@ Zákaz veřejného propagování jakékoliv služby, kdekoliv na serveru. Buďte
 **DM** znamená **Direct Message** - **Přímá Zpráva**
 {% endhint %}
 
-### Pornografický obsah
+### Pornografický obsah <a id="nsfw"></a>
 
  [NSFW](https://cs.m.wikipedia.org/wiki/Not_safe_for_work) nebo jiný nevhodný materiál pro děti a mladistvé je povolen pouze v [threads](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ).
 
@@ -33,15 +33,15 @@ Zákaz veřejného propagování jakékoliv služby, kdekoliv na serveru. Buďte
 
 Přísný zákaz rozsáhlého spamu. Spam nedefinujeme jako 2 zprávy napsané velkými písmeny.
 
-### Komunitní chování
+### Komunitní chování <a id="behaviour"></a>
 
 Buď ohleduplný k ostatním členům. Snaž se neobtěžovat, zbytečně nepingovat ostatní členy a nevyvolávat zbytečné konflikty. Příšerně přísně trestáme rasismus, xenofobii, šikanu, diskriminaci. Nemůžeme Vám přikazovat ať se držíte společně se všemi hráči a vycházet s nimi dobře. Ale je důležité respektovat toto základní chování.
 
-### Vulgarita, Mluva
+### Vulgarita, Mluva <a id="vulgarita"></a>
 
 Snažme se vyjadřovat co nejméně vulgárně a tak naznačit světu, že jsme správně vychováni. Sprostá mluva není zakázána, ale omezena. Jakékoliv přehánění vulgarity bude trestáno.
 
-### Cheating - Podvádění
+### Cheating - Podvádění <a id="cheating"></a>
 
 Hackovaní je špatný výraz.  
 "Černé" hackování ve zlém smyslu je podle zákona § 257a zakázáno.  
@@ -51,14 +51,14 @@ Jedná se například o ToolBox. Nezakazujeme Optifine, BadTiger, BadLion, Lunar
 Tyto klienty Vám nesmí udělovat žádné předměty, efekty, vylepšení mocí atd. Většina těchto klientů Vám jen vylepšují vzhled a hratelnost hry. Ne zlepšení oproti ostatním hráčům, proto jsou povolené. Forge, Fabric atd. jsou obecně povoleny ale pouze na stejné bázi. Je povolené užívat módy jako mapu, vylepšení hud atd. Ale je zakázáno používat módy jako x-ray a další.  
 **O instalaci klientů a módů, Vám doporučujeme konzultovat s admin teamem. Máte potom jistotu, že neporušujete pravidla.**
 
-### Griefing - Kažení hry ostatním hráčům
+### Griefing - Kažení hry ostatním hráčům <a id="griefing"></a>
 
 Není hezké ostatním hráčům kazit hru. Jsme tu od toho, aby jsme společně budovali. Griefing velmi omezujeme. Hráč, kterému jiný kazí hru získává plné právo si stěžovat admin teamu.  
 Admin team je schopný získat důkazy o poškození a ztratéch.  
 Griefing deifnujeme česky jako kažení hry a týká se kradení předmětů, ničení staveb a vytvorů, obtěžování, pronásledování, opakované zabíjení, narušování pozemků - týká se i tehdy, když druhý hráč nemá nastavený příkazem pozemek.  
 Griefing, cheating - hacking jsou ty nejhroznější případy.
 
-### Bugy, chyby
+### Bugy, chyby <a id="bugs"></a>
 
 Jakékoliv nalezení chyb \(bugů\), musí být co nejdříve a neprodleně nahlášeno admin teamu. Zneužívání chyb se velmi přísně trestá.
 

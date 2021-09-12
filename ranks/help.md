@@ -11,12 +11,12 @@ Např. end portál je příliš daleko a tak se k němu portneš pomocí příka
 Pozor! Home si musíš nejdříve nastavit.  
 Homes je vlastně krásné usnadnění hry.
 
-#### Výtvoření Homu
+#### Výtvoření Homu <a id="create-home"></a>
 
 Home vytvoříš pomocí příkazu `/sethome [název]`. Např. `/sethome end`  
 Později už budeš moci použít příkaz `/home end` a budeš u portálu.
 
-#### Limity podle ranku
+#### Limity podle ranku <a id="limits-homes"></a>
 
 | Rank | Homes |
 | :--- | :--- |
@@ -28,9 +28,9 @@ Později už budeš moci použít příkaz `/home end` a budeš u portálu.
 
 \*\*\*\*[**Wood rank** ](ranky.md#wood)může použít příkaz `/home`, který ho portne ke své posteli. Nemůže si nastavit vlastní, ale pokud se chceš rychle dostat domů, hodí se.
 
-## Ostatní Výhody
+## Ostatní Výhody <a id="vyhody"></a>
 
-### Psaní barevně do chatu
+### Psaní barevně do chatu <a id="psani-barevne"></a>
 
 * [x] **Rank Diamond+**
 
