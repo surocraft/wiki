@@ -17,7 +17,8 @@
 
 * [Užitečné](features/uzitecne.md)
 * [Pozemky](features/pozemky.md)
-* [Propojení ůčtů](features/linkaccount.md)
+* [Propojení účtů](features/linkaccount/README.md)
+  * [Untitled](features/linkaccount/untitled.md)
 * [Shopkeepers](features/shopkeepers.md)
 * [Výtahy](features/elevator.md)
 * [AutoCrafter](features/autocrafter.md)

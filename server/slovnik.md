@@ -20,7 +20,7 @@ Tehdy se Microsoft spíše zaměřil na **Bedrock Edici**, kam byl později při
 #### Jakou verzi podporuje tedy SuroCraft?
 
 Překvapivě, díky pluginu Geyser \([?](slovnik.md#geyser)\), můžete na SuroCraftu hrát s **Bedrock** i **Java** edicí.  
-Je možné si dokonce oba účty propojit pro snadnější hraní. Více o propojení účtech [zde](../features/linkaccount.md).
+Je možné si dokonce oba účty propojit pro snadnější hraní. Více o propojení účtech [zde](../features/linkaccount/).
 
 {% hint style="info" %}
 Chceš na SuroCraftu hrát s herní konzolí? ****Vyzkoušej aplikaci [**MC Server Connector**](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector) pro **Android**.
