@@ -23,7 +23,7 @@ description: List ranků a jejich výhody
 * `/back` \(Vrátí tě na místo, kde jsi umřel\)
 * `/hat` \(Drž v ruce blok, který si chceš nasadit na hlavu\)
 * `/warp`
-* Limit 5x home
+* Limit 10x home
 * Limit 130 bloků pro vytvoření výtahu \([?](../features/elevator.md)\)
 * Limit 8 Shopkeeperů \([?](../features/shopkeepers.md)\)
 * Možnost psát barevně do chatu \([?](help.md#psani-barevne-do-chatu)\)
