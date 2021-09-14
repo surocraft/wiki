@@ -72,7 +72,7 @@ Admin tean můžeš kontaktovat na [Discordu](https://dsc.gg/surocraft). Třeba 
 Připojením na server souhlasíš se sběrem tvých dat.  
 Neboj se, netýká se nic osobního. Nikdo tě nepřijede navštívit, pokud budeš na internetu opatrný.
 
-Pokud ti tu přijde něco zvláštního, to je dobře. Protože o sběru tvých dat by jsi se měl něco více dozvědět, nejsem tu od toho, abych tě poučoval jak se chovat na internetu, ale je opravdu důležité se věci více jak jednou kontrolovat. I v reálném životě uděláš jednu chybičku a kvůli špatné, nebo žádné kontrole se všechno pokazí. To se stává. Já ti ale právě předvedu, jaké data o tobě schromažďujeme.
+Pokud ti tu přijde něco zvláštního, to je dobře. Protože o sběru tvých dat by jsi se měl něco více dozvědět, nejsem tu od toho, abych tě poučoval jak se chovat na internetu, ale je opravdu důležité se věci více jak jednou kontrolovat. I v reálném životě uděláš jednu chybičku a kvůli špatné, nebo žádné kontrole a všechno se pokazí. To se stává. Já ti ale právě předvedu, jaké data o tobě shromažďujeme.
 
 Pokud nebudeš chtít, aby jsme si nechali tvé data v naší databázi, založ [**ticket**](../features/uzitecne.md#ticket).
 
@@ -81,7 +81,7 @@ Pokud nebudeš chtít, aby jsme si nechali tvé data v naší databázi, založ 
 _Neukládáme žádné data o uživatelů na Discord serveru._
 
 * **Ukládáme Stát, z kterého si se připojil.** Např. Slovensko, Česko _Tvojí podrobnější adresu nikam neukládáme._
-* **Ukládáme Tvé Nahrané hodiny.** Kolik času si strávil na serveru i můžeme zveřejnit s ostatními hráči. A také další údaje - první datum připojení, délka nečinnosti, délka relace, počet relací, poslední navštívení serveru, zabití mobů, zabití hráčů, počet smrtí, položené bloky, zničené bloky a další informace co děláš ve hře. Tím tak můžeme zjistit, kdo spáchal určité porušení pravidel a následně ho potrestat. Jedná se tak o ochranu ostatních hráčů.
+* **Ukládáme tvou aktivitu na serveru.** _Kolik času si strávil na serveru i můžeme zveřejnit s ostatními hráči._ A také další údaje - první datum připojení, délka hraní, délka nečinnosti, délka relace, počet relací, poslední navštívení serveru, zabití mobů, zabití hráčů, počet smrtí, položené bloky, zničené bloky a další informace co děláš ve hře. _Tím tak můžeme zjistit, kdo spáchal určité porušení pravidel a následně ho potrestat. Jedná se tak o ochranu ostatních hráčů._
 
 ## Jak chráníme ostatní hráče?
 
