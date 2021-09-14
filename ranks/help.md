@@ -26,7 +26,7 @@ Později už budeš moci použít příkaz `/home end` a budeš u portálu.
 | Iron | 3x |
 | Wood | postel |
 
-\*\*\*\*[**Wood rank** ](ranky.md#wood)může použít příkaz `/home`, který ho portne ke své posteli. Nemůže si nastavit vlastní, ale pokud se chceš rychle dostat domů, hodí se.
+\*\*\*\*[**Wood rank** ](r.md#wood)může použít příkaz `/home`, který ho portne ke své posteli. Nemůže si nastavit vlastní, ale pokud se chceš rychle dostat domů, hodí se.
 
 ## Ostatní Výhody <a id="vyhody"></a>
 

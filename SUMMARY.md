@@ -10,7 +10,7 @@
 
 ## Ranky <a id="ranks"></a>
 
-* [Ranky](ranks/ranky.md)
+* [Ranky](ranks/r.md)
 * [Příkazy a Výhody](ranks/help.md)
 
 ## Jak Na To <a id="features"></a>
