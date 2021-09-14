@@ -30,3 +30,9 @@ description: Obrázky - screenshoty ze serveru
 
 ![](.gitbook/assets/unknown5.jpg)
 
+![](.gitbook/assets/screenshot_20210911-211917_minecraft.png)
+
+![](.gitbook/assets/screenshot_20210912-135046_minecraft.png)
+
+![](.gitbook/assets/ezgif.com-gif-maker-1-.gif)
+
