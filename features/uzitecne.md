@@ -19,7 +19,10 @@ Logicky, `/spawn` příkaz tě portne na spawn. Na spawnu máme obchody a výsta
 
 ![Obr&#xE1;zek Spawnu](../.gitbook/assets/image.png)
 
-Příkaz `/end` tě portne k End portálu.
+Pozor! `/spawn` příkaz je funkční pouze ve světě overworld \([?](https://minecraft.fandom.com/wiki/Overworld)\).  
+Když ho použiješ v Netheru \([?](https://minecraft.fandom.com/wiki/The_Nether)\), portne tě na spawn Netheru \([?](https://minecraft.fandom.com/wiki/The_Nether)\) a když v Endu \([?](https://minecraft.fandom.com/wiki/The_End)\), napíše ti to, že nemáš právo. Je to takové mírně otravné, ale zase ti to tak neulehčuje hru.
+
+Příkaz `/end` tě portne k End portálu \([?](https://minecraft.fandom.com/wiki/End_portal)\).
 
 {% hint style="warning" %}
 **Příkaz `/end` má cooldown 10 minut.**

@@ -6,7 +6,8 @@ description: Pravidla Minecraft i Discord serveru
 
 ## Pravidla
 
- _Admin Team má plnou moc rozhodnout o vážnosti porušení pravidel a tím pádem, také určit jejich potrestání. Admin Team může trestat i kvůli vlastnímu důvodu. Samotný pověřený vyšetřoval může udělit varování, ztlumení, vyhození, dočasného zablokování, či trvalé zablokování._
+ _Admin Team má plnou moc rozhodnout o vážnosti porušení pravidel a tím pádem, také určit jejich potrestání. Admin Team může trestat i kvůli vlastnímu důvodu. Samotný pověřený vyšetřoval může udělit varování, ztlumení, vyhození, dočasného zablokování, či trvalé zablokování.  
+Připojením jak na Discord, tak Minecraft sevrer, předpokládáme že jsi si okamžitě přečetl pravidla. Připojením souhlasíš s pravidly a jejich neznalost tě absolutně neomlouvá._
 
 ### Discord TOS <a id="discord-tos"></a>
 
@@ -64,5 +65,29 @@ Jakékoliv nalezení chyb \(bugů\), musí být co nejdříve a neprodleně nahl
 
 {% hint style="info" %}
 Admin tean můžeš kontaktovat na [Discordu](https://dsc.gg/surocraft). Třeba založ [**ticket** ](../features/uzitecne.md#ticket)v kanálu **\#ticket**.
+{% endhint %}
+
+### Sběr dat <a id="data-collection"></a>
+
+Připojením na server souhlasíš se sběrem tvých dat.  
+Neboj se, netýká se nic osobního. Nikdo tě nepřijede navštívit, pokud budeš na internetu opatrný.
+
+Pokud ti tu přijde něco zvláštního, to je dobře. Protože o sběru tvých dat by jsi se měl něco více dozvědět, nejsem tu od toho, abych tě poučoval jak se chovat na internetu, ale je opravdu důležité se věci více jak jednou kontrolovat. I v reálném životě uděláš jednu chybičku a kvůli špatné, nebo žádné kontrole se všechno pokazí. To se stává. Já ti ale právě předvedu, jaké data o tobě schromažďujeme.
+
+Pokud nebudeš chtít, aby jsme si nechali tvé data v naší databázi, založ [**ticket**](../features/uzitecne.md#ticket).
+
+#### Ukládané data o hráčích
+
+_Neukládáme žádné data o uživatelů na Discord serveru._
+
+* **Ukládáme Stát, z kterého si se připojil.** Např. Slovensko, Česko _Tvojí podrobnější adresu nikam neukládáme._
+* **Ukládáme Tvé Nahrané hodiny.** Kolik času si strávil na serveru i můžeme zveřejnit s ostatními hráči. A také další údaje - první datum připojení, délka nečinnosti, délka relace, počet relací, poslední navštívení serveru, zabití mobů, zabití hráčů, počet smrtí, položené bloky, zničené bloky a další informace co děláš ve hře. Tím tak můžeme zjistit, kdo spáchal určité porušení pravidel a následně ho potrestat. Jedná se tak o ochranu ostatních hráčů.
+
+## Jak chráníme ostatní hráče?
+
+Máme své systémy jak zjistit, kdo, kdy, kde, zničil jaký blok, jaký předmět upustil, koho zabil atd. Tím máme jistotu, že když Pepíček zničil Tondovi postel, tak že to byl on a můžeme ho potrestat. Neberte to zlehka, pokud nějakou nekalost vytvoříte na Minecraft serveru, po nahlášení, my to zjistíme.
+
+{% hint style="info" %}
+Pokud se ni něco stalo na serveru, neváhej [**založit ticket**](../features/uzitecne.md#ticket).
 {% endhint %}
 

@@ -1,4 +1,4 @@
-# Příkazy a Výhody
+# Návod k výhodám
 
 ## Příkazy
 

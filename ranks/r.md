@@ -2,7 +2,7 @@
 description: List ranků a jejich výhody
 ---
 
-# Ranky
+# Ranky a jejich výhody
 
 ## Výhody
 
@@ -46,18 +46,19 @@ description: List ranků a jejich výhody
 * `/workbench` \(Otevře crafting table 3x3\)
 * Limit 3x home
 * Limit 10 bloků pro vytvoření výtahu \([?](../features/elevator.md)\)
-* Limit 1 Shopkeeper
+* Limit 2 Shopkeepeři \([?](../features/shopkeepers.md)\)
 
 ### Wood
 
-Rank za vote.
+**Rank za vote** \([?](../#vote)\).
 
-{% hint style="danger" %}
-**Nyní nedostupné. O rank si zažádejte.**
+{% hint style="info" %}
+**Hlasuj pro náš server** [**zde**](https://vote.petyxbron.cz/) **a získej Wood rank!**
 {% endhint %}
 
 * `/tpa` \(Zeptat se hráče, jestli se můžeš za ním teleportovat\)
 * 1x home postel
+* Limit 1 Shopkeeper \([?](../features/shopkeepers.md)\)
 
 ## Jak získat ranky <a id="prices"></a>
 

@@ -10,15 +10,14 @@
 
 ## Ranky <a id="ranks"></a>
 
-* [Ranky](ranks/r.md)
-* [Příkazy a Výhody](ranks/help.md)
+* [Ranky a jejich výhody](ranks/r.md)
+* [Návod k výhodám](ranks/help.md)
 
 ## Jak Na To <a id="features"></a>
 
 * [Užitečné](features/uzitecne.md)
 * [Pozemky](features/pozemky.md)
-* [Propojení účtů](features/linkaccount/README.md)
-  * [Untitled](features/linkaccount/untitled.md)
+* [Propojení účtů](features/linkaccount.md)
 * [Shopkeepers](features/shopkeepers.md)
 * [Výtahy](features/elevator.md)
 * [AutoCrafter](features/autocrafter.md)
