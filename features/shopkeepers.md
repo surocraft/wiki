@@ -21,6 +21,10 @@ Pokud samozřejmě chceš něco ze zásob koupit, musíš vložit do prvního ok
 
 Poté klikneme na 32 kůže, za které my platíme a obchod bude proveden.
 
+#### GIF Ukázka
+
+![](../.gitbook/assets/ezgif.com-gif-maker1.gif)
+
 ## Návod <a id="tutorial"></a>
 
 {% hint style="info" %}
