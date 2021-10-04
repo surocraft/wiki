@@ -9,6 +9,21 @@ Samozřejmě, pokud je nenajdete, neváhejte založit [**ticket**](features/uzit
 **Už si dnes hlasoval pro server? Ne?! Hlasuj ihned** [**zde**](./#vote) **a získej odměnu!**
 {% endhint %}
 
+#### Co na našem serveru najdeš?
+
+Jsme primární survival server. Vše funguje převážně vanilkově. Hmmm mňam...  
+Ale aby jsme si hru trochu zlepšili a více se bavili, máme tu pár funkcí, které jsou super!
+
+#### Funkce na našem serveru \(pluginy\)
+
+* **BlockLocker** - zabezpečení beden a více bloků
+* **Coordinates** - příkaz `/coords` pro zorbazení souřadnic na java edici \([?](server/slovnik.md#edition)\)
+* **DeadChest** - posmrtná bedna 
+* \*\*\*\*[**Elevator**](features/elevator.md)  ****- výtahy
+* \*\*\*\*[**Shopkeepers**](features/shopkeepers.md) ****- vlastní vesničani pro obchodování
+* \*\*\*\*[**Terra**](https://www.spigotmc.org/resources/terra.85151/) - speciální generace světa 
+* **TreeGravity** - zničení stromu jedním blokem
+
 ## Připojení na server <a id="connect"></a>
 
 {% hint style="warning" %}
