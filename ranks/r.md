@@ -68,7 +68,7 @@ description: List ranků a jejich výhody
 
 | Rank | Cena |
 | :--- | :--- |
-| **Wood** | Za vote |
+| **Wood \(24h\)** | Za vote |
 | **Iron** | 100Kč   \| 4.00€ |
 | **Gold** | 200Kč   \| 7.80€ |
 | **Diamond** | 500Kč   \| 19.80€ |
