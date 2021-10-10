@@ -9,11 +9,13 @@ description: Užitečné příkazy a triky jak si zlepšit hru.
 
 * [x] Rank Hráč+ pro `/spawn`
 * [x] Rank Wood+ pro `/end`
+* [x] Rank Wood+ pro `/tpr`
 
 Pro ulehčení práce vaším kostičkovaným nohám jsme přidali příkazy
 
 * `/spawn`
 * `/end`
+* `/tpr`
 
 Logicky, `/spawn` příkaz tě portne na spawn. Na spawnu máme obchody a výstavku. Jedná se tak o "Serverové tržiště", či "Serverové Náměstí".
 
@@ -27,6 +29,8 @@ Příkaz `/end` tě portne k End portálu ([?](https://minecraft.fandom.com/wiki
 {% hint style="warning" %}
 **Příkaz `/end` má cooldown 10 minut.**
 {% endhint %}
+
+Příkaz \`/tpr tě náhodně portne po světě. Je do
 
 ### Přehození předmětu do druhé ruky <a href="offhand" id="offhand"></a>
 
