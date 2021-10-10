@@ -19,7 +19,7 @@ Pro ulehčení práce vaším kostičkovaným nohám jsme přidali příkazy
 
 Logicky, `/spawn` příkaz tě portne na spawn. Na spawnu máme obchody a výstavku. Jedná se tak o "Serverové tržiště", či "Serverové Náměstí".
 
-![Obrázek Spawnu](../.gitbook/assets/image.png) ![Obrázek Spawnu](broken-reference)
+![Obrázek Spawnu](broken-reference)
 
 Pozor! `/spawn` příkaz je funkční pouze ve světě overworld ([?](https://minecraft.fandom.com/wiki/Overworld)).\
 Když ho použiješ v Netheru ([?](https://minecraft.fandom.com/wiki/The_Nether)), portne tě na spawn Netheru ([?](https://minecraft.fandom.com/wiki/The_Nether)) a když v Endu ([?](https://minecraft.fandom.com/wiki/The_End)), napíše ti to, že nemáš právo. Je to takové mírně otravné, ale zase ti to tak neulehčuje hru.
