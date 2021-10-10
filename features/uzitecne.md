@@ -30,7 +30,7 @@ Příkaz `/end` tě portne k End portálu ([?](https://minecraft.fandom.com/wiki
 **Příkaz `/end` má cooldown 10 minut.**
 {% endhint %}
 
-Příkaz \`/tpr tě náhodně portne po světě. Je do
+Příkaz `/tpr` tě náhodně portne po světě (Pro rozmís. Je dostupný pouze pro rank [Wood ](../ranks/r.md#wood)nebo vyšší.
 
 ### Přehození předmětu do druhé ruky <a href="offhand" id="offhand"></a>
 
