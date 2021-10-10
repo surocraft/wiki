@@ -1,22 +1,21 @@
 ---
 description: Obrázky - screenshoty ze serveru
 ---
-
 # GALERIE
 
 {% hint style="info" %}
-**Chceš přispět do galerie? Založ** [**ticket**](features/uzitecne.md#ticket)**.**
+**Chceš přispět do galerie? Založ **[**ticket**](features/uzitecne.md#ticket)**.**
 {% endhint %}
 
-![](.gitbook/assets/2021-09-12_16.24.31.png)
+![](broken-reference)
 
-![](.gitbook/assets/2021-09-12_16.30.11.png)
+![](.gitbook/assets/2021-09-12\_16.30.11.png)
 
-![](.gitbook/assets/2021-09-12_16.31.15.png)
+![](.gitbook/assets/2021-09-12\_16.31.15.png)
 
-![](.gitbook/assets/2021-09-12_16.32.14.png)
+![](.gitbook/assets/2021-09-12\_16.32.14.png)
 
-![](.gitbook/assets/2021-09-12_16.32.37.png)
+![](.gitbook/assets/2021-09-12\_16.32.37.png)
 
 ![](.gitbook/assets/unknown.png)
 
@@ -30,9 +29,12 @@ description: Obrázky - screenshoty ze serveru
 
 ![](.gitbook/assets/unknown5.jpg)
 
-![](.gitbook/assets/screenshot_20210911-211917_minecraft.png)
+![](.gitbook/assets/screenshot\_20210911-211917\_minecraft.png)
 
-![](.gitbook/assets/screenshot_20210912-135046_minecraft.png)
+![](.gitbook/assets/screenshot\_20210912-135046\_minecraft.png)
 
 ![](.gitbook/assets/ezgif.com-gif-maker-1-.gif)
 
+![](.gitbook/assets/image.png)
+
+![](.gitbook/assets/2021-09-12\_16.24.31.png)
