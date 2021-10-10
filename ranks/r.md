@@ -57,6 +57,7 @@ description: List ranků a jejich výhody
 
 * `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
 * `/end` ([?](../features/uzitecne.md#tp))
+* `/tpr` ([?](../features/uzitecne.md#tp))
 * 1x home postel
 * Limit 1 Shopkeeper ([?](../features/shopkeepers.md))
 
