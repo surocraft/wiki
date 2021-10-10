@@ -24,13 +24,15 @@ Logicky, `/spawn` příkaz tě portne na spawn. Na spawnu máme obchody a výsta
 Pozor! `/spawn` příkaz je funkční pouze ve světě overworld ([?](https://minecraft.fandom.com/wiki/Overworld)).\
 Když ho použiješ v Netheru ([?](https://minecraft.fandom.com/wiki/The_Nether)), portne tě na spawn Netheru ([?](https://minecraft.fandom.com/wiki/The_Nether)) a když v Endu ([?](https://minecraft.fandom.com/wiki/The_End)), napíše ti to, že nemáš právo. Je to takové mírně otravné, ale zase ti to tak neulehčuje hru.
 
-Příkaz `/end` tě portne k End portálu ([?](https://minecraft.fandom.com/wiki/End_portal)).
+Příkaz `/end` tě portne k End portálu ([?](https://minecraft.fandom.com/wiki/End_portal)). A je dostupný pouze pro rank [Wood ](../ranks/r.md#wood)nebo vyšší.
 
 {% hint style="warning" %}
 **Příkaz `/end` má cooldown 10 minut.**
 {% endhint %}
 
-Příkaz `/tpr` tě náhodně portne po světě (Pro rozmís. Je dostupný pouze pro rank [Wood ](../ranks/r.md#wood)nebo vyšší.
+Příkaz `/tpr` tě náhodně portne po světě (Pro rozmístění pro sruvival)
+
+Je také dostupný pouze pro rank [Wood ](../ranks/r.md#wood)nebo vyšší.
 
 ### Přehození předmětu do druhé ruky <a href="offhand" id="offhand"></a>
 
