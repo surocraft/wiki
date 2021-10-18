@@ -23,11 +23,12 @@ Ale aby jsme si hru trochu zlepšili a více se bavili, máme tu pár funkcí, k
 
 * **BlockLocker** - zabezpečení beden a více bloků
 * **Coordinates** - příkaz `/coords` pro zorbazení souřadnic na java edici ([?](server/slovnik.md#edition))
-* **DeadChest** - posmrtná bedna 
+* **DeadChest** - posmrtná bedna s inventářem
 * ****[**Elevator**](features/elevator.md)**  **- výtahy
 * ****[**Shopkeepers**](features/shopkeepers.md)** **- vlastní vesničani pro obchodování
 * ****[**Terra**](https://www.spigotmc.org/resources/terra.85151/) - speciální generace světa 
 * **TreeGravity** - zničení stromu jedním blokem
+* **GSit **- sedání, lehání a plazení na jakémkoliv místě
 
 ## Připojení na server <a href="connect" id="connect"></a>
 
