@@ -1,7 +1,8 @@
 ---
 description: List ranků a jejich výhody
 ---
-# Ranky a jejich výhody
+
+# ⭐ Ranky a jejich výhody
 
 ## Výhody
 
