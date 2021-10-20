@@ -40,10 +40,10 @@ Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\
 **Java Edice** je pouze pro operační systémy Windows, macOS a Linux.\
 **Bedrock Edice** je určená pro mobilní zařízení a herní konzole.
 
-| EDICE                     | IP                      | PORT  |
-| ------------------------- | ----------------------- | ----- |
+|           EDICE           |      Adresa Serveru     |  PORT |
+| :-----------------------: | :---------------------: | :---: |
 | Java Edition       1.17.1 | suro.petyxbron.cz:17032 |       |
-| Bedrock Edition 1.17.40   | suro.petyxbron.cz       | 17033 |
+|  Bedrock Edition 1.17.40  |    suro.petyxbron.cz    | 17033 |
 
 Připojením na server souhlasíš s našimi [pravidly](server/rules.md).
 
