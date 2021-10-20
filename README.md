@@ -26,7 +26,7 @@ Ale aby jsme si hru trochu zlepšili a více se bavili, máme tu pár funkcí, k
 * **DeadChest** - posmrtná bedna s inventářem
 * ****[**Elevator**](features/elevator.md)**  **- výtahy
 * ****[**Shopkeepers**](features/shopkeepers.md)** **- vlastní vesničani pro obchodování
-* ****[**Terra**](https://www.spigotmc.org/resources/terra.85151/) - speciální generace světa 
+* ****[**Terra**](https://www.spigotmc.org/resources/terra.85151/) - speciální generace světa&#x20;
 * **TreeGravity** - zničení stromu jedním blokem
 * **GSit **- sedání, lehání a plazení na jakémkoliv místě
 
@@ -43,7 +43,7 @@ Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\
 | EDICE                     | IP                      | PORT  |
 | ------------------------- | ----------------------- | ----- |
 | Java Edition       1.17.1 | suro.petyxbron.cz:17032 |       |
-| Bedrock Edition 1.17.11   | suro.petyxbron.cz       | 17033 |
+| Bedrock Edition 1.17.40   | suro.petyxbron.cz       | 17033 |
 
 Připojením na server souhlasíš s našimi [pravidly](server/rules.md).
 
