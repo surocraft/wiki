@@ -39,3 +39,7 @@ description: Obrázky - screenshoty ze serveru
 ![](.gitbook/assets/image.png)
 
 ![](.gitbook/assets/2021-09-12\_16.24.31.png)
+
+![](<.gitbook/assets/image0 (1).png>)
+
+![](.gitbook/assets/image0.png)
