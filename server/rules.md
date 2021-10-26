@@ -6,12 +6,12 @@ description: Pravidla Minecraft i Discord serveru
 
 ## Pravidla
 
- _Admin Team má plnou moc rozhodnout o vážnosti porušení pravidel a tím pádem, také určit jejich potrestání. Admin Team může trestat i kvůli vlastnímu důvodu. Samotný pověřený vyšetřoval může udělit varování, ztlumení, vyhození, dočasného zablokování, či trvalé zablokování._\
+&#x20;_Admin Team má plnou moc rozhodnout o vážnosti porušení pravidel a tím pádem, také určit jejich potrestání. Admin Team může trestat i kvůli vlastnímu důvodu. Samotný pověřený vyšetřoval může udělit varování, ztlumení, vyhození, dočasného zablokování, či trvalé zablokování._\
 _Připojením jak na Discord, tak Minecraft sevrer, předpokládáme že jsi si okamžitě přečetl pravidla. Připojením souhlasíš s pravidly a jejich neznalost tě absolutně neomlouvá._
 
 ### Discord TOS <a href="discord-tos" id="discord-tos"></a>
 
- Přednostně dodržuj [Podmínky využívání služeb společnosti Discord](https://discord.com/terms).
+&#x20;Přednostně dodržuj [Podmínky využívání služeb společnosti Discord](https://discord.com/terms).
 
 ### Propagace, reklamy <a href="reklamy" id="reklamy"></a>
 
@@ -24,7 +24,7 @@ Zákaz veřejného propagování jakékoliv služby, kdekoliv na serveru. Buďte
 
 ### Pornografický obsah <a href="nsfw" id="nsfw"></a>
 
- [NSFW](https://cs.m.wikipedia.org/wiki/Not_safe_for_work) nebo jiný nevhodný materiál pro děti a mladistvé je povolen pouze v [threads](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ).
+&#x20;[NSFW](https://cs.m.wikipedia.org/wiki/Not\_safe\_for\_work) nebo jiný nevhodný materiál pro děti a mladistvé je povolen pouze v [threads](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ).
 
 {% hint style="info" %}
 **NSFW** znamená **Not Safe For Work** - **Nevhodné pro práci**
@@ -64,7 +64,7 @@ Griefing, cheating - hacking jsou ty nejhroznější případy.
 Jakékoliv nalezení chyb (bugů), musí být co nejdříve a neprodleně nahlášeno admin teamu. Zneužívání chyb se velmi přísně trestá.
 
 {% hint style="info" %}
-Admin tean můžeš kontaktovat na [Discordu](https://dsc.gg/surocraft). Třeba založ [**ticket **](../features/uzitecne.md#ticket)v kanálu **#ticket**.
+Admin team můžeš kontaktovat na [Discordu](https://dsc.gg/surocraft). Třeba založ [**ticket **](../features/uzitecne.md#ticket)v kanálu **#ticket**.
 {% endhint %}
 
 ### Sběr dat <a href="data-collection" id="data-collection"></a>
