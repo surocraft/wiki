@@ -12,20 +12,13 @@ description: Užitečné příkazy a triky jak si zlepšit hru.
 * [x] Rank Wood+ pro `/end`
 * [x] Rank Wood+ pro `/tpr`
 
-Pro ulehčení práce vaším kostičkovaným nohám jsme přidali příkazy
-
-* `/spawn`
-* `/end`
-* `/tpr`
+Pro ulehčení práce vaším kostičkovaným nohám jsme přidali příkazy na rychlé přesuny. Týká se to příkazu `/spawn`, `/end` a `/tpr.` `/spawn` je povolený pro všechny, ale `/end` a `/tpr` je povolen pouze za vote.
 
 Logicky, `/spawn` příkaz tě portne na spawn. Na spawnu máme obchody a výstavku. Jedná se tak o "Serverové tržiště", či "Serverové Náměstí".
 
 ![Obrázek Spawnu](../.gitbook/assets/Screenshot\_544.png)
 
-Pozor! `/spawn` příkaz je funkční pouze ve světě overworld ([?](https://minecraft.fandom.com/wiki/Overworld)).\
-Když ho použiješ v Netheru ([?](https://minecraft.fandom.com/wiki/The_Nether)), portne tě na spawn Netheru ([?](https://minecraft.fandom.com/wiki/The_Nether)) a když v Endu ([?](https://minecraft.fandom.com/wiki/The_End)), napíše ti to, že nemáš právo. Je to takové mírně otravné, ale zase ti to tak neulehčuje hru.
-
-Příkaz `/end` tě portne k End portálu ([?](https://minecraft.fandom.com/wiki/End_portal)). A je dostupný pouze pro rank [Wood ](../ranks/r.md#wood)nebo vyšší.
+Příkaz `/end` tě portne k End portálu ([?](https://minecraft.fandom.com/wiki/End\_portal)). A je dostupný pouze pro rank [Wood ](../ranks/r.md#wood)nebo vyšší.
 
 {% hint style="warning" %}
 **Příkaz `/end` má cooldown 10 minut.**
