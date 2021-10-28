@@ -6,37 +6,24 @@ description: List ranků a jejich výhody
 
 ## Výhody
 
-### Netherite
-
-* `/setwarp`
-* `/delwarp`
-* keepinv (automaticky)
-* keepxp (automaticky)
-* Limit 20x home
-* Nekonečná výška pro vytvoření výtahu ([?](../features/elevator.md))
-* Nekonečný limit Shopkeeperů ([?](../features/shopkeepers.md))
-* Vlastní suffix podle libosti
-* _Poloviční sleva na příští nákup_
-
 ### Diamond
 
 * `/back` (Vrátí tě na místo, kde jsi umřel)
 * `/hat` (Drž v ruce blok, který si chceš nasadit na hlavu)
-* `/warp`
+* `/anvil` (Otevře kovadlinu)
+* `/stonecutter` (Otevře kameník)
 * Limit 10x home
-* Limit 130 bloků pro vytvoření výtahu ([?](../features/elevator.md))
-* Limit 8 Shopkeeperů ([?](../features/shopkeepers.md))
+* Nekonečná vdálenost mezi výtahy ([?](../features/elevator.md))
+* Neomezený počet Shopkeeperů ([?](../features/shopkeepers.md))
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
 
 ### Gold
 
-* `/heal` (Vyplní životy - časově omezené na 1min)
-* `/feed` (Vyplní hlad - časově omezené na 1min)
 * `/anvil` (Otevře kovadlinu)
 * `/stonecutter` (Otevře kameník)
 * Limit 5x home
-* Limit 80 bloků pro vytvoření výtahu ([?](../features/elevator.md))
-* Limit 4 Shopkeepeři ([?](../features/shopkeepers.md)) 
+* Limit 100 bloků pro vytvoření výtahu ([?](../features/elevator.md))
+* Limit 10 Shopkeeperů ([?](../features/shopkeepers.md))&#x20;
 
 ### Iron
 
@@ -68,10 +55,9 @@ description: List ranků a jejich výhody
 **Zakoupení ranků je nyní možné pouze zaplacením přímo majiteli serveru na PayPal, či bankovním převodem. Kontaktuj Petyho nebo staff team pro více info.**
 {% endhint %}
 
-| Rank           | Cena              |
-| -------------- | ----------------- |
-| **Wood (24h)** | Za vote           |
-| **Iron**       | 100Kč   \| 4.00€  |
-| **Gold**       | 200Kč   \| 7.80€  |
-| **Diamond**    | 500Kč   \| 19.80€ |
-| **Netherite**  | 1000Kč \| 39.50€  |
+| Rank           | Cena             |
+| -------------- | ---------------- |
+| **Wood (24h)** | Za vote          |
+| **Iron**       | 25Kč   \| 1.00€  |
+| **Gold**       | 50Kč   \| 2.00€  |
+| **Diamond**    | 100Kč   \| 4.00€ |
