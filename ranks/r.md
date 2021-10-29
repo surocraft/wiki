@@ -8,10 +8,13 @@ description: List ranků a jejich výhody
 
 ### Diamond
 
-* `/back` (Vrátí tě na místo, kde jsi umřel)
+* `/back` (Vrátí tě na místo, kde jsi umřel, nebo odkud si byl naposledy teleportován)
 * `/hat` (Drž v ruce blok, který si chceš nasadit na hlavu)
 * `/anvil` (Otevře kovadlinu)
 * `/stonecutter` (Otevře kameník)
+* `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
+* `/end` ([?](../features/uzitecne.md#tp))
+* `/tpr` ([?](../features/uzitecne.md#tp))
 * Limit 10x home
 * Nekonečná vdálenost mezi výtahy ([?](../features/elevator.md))
 * Neomezený počet Shopkeeperů ([?](../features/shopkeepers.md))
@@ -21,6 +24,9 @@ description: List ranků a jejich výhody
 
 * `/anvil` (Otevře kovadlinu)
 * `/stonecutter` (Otevře kameník)
+* `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
+* `/end` ([?](../features/uzitecne.md#tp))
+* `/tpr` ([?](../features/uzitecne.md#tp))
 * Limit 5x home
 * Limit 100 bloků pro vytvoření výtahu ([?](../features/elevator.md))
 * Limit 10 Shopkeeperů ([?](../features/shopkeepers.md))&#x20;
@@ -31,6 +37,9 @@ description: List ranků a jejich výhody
 * `/kit iron` (Udělí ti OP nástroje a brnění)
 * `/nick` (Změní ti jméno v chatu)
 * `/workbench` (Otevře crafting table 3x3)
+* `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
+* `/end` ([?](../features/uzitecne.md#tp))
+* `/tpr` ([?](../features/uzitecne.md#tp))
 * Limit 3x home
 * Limit 10 bloků pro vytvoření výtahu ([?](../features/elevator.md))
 * Limit 2 Shopkeepeři ([?](../features/shopkeepers.md))
