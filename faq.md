@@ -4,14 +4,6 @@ description: Často Kladené Otázky
 
 # ❓ FAQ
 
-### "Máte Discord server?"
-
-Ano! A je dokonce povinné se na něj připojit, než začneš pořádně hrát na tom Minecraft serveru. Odkaz: [dsc.gg/surocraft](https://dsc.gg/surocraft)
-
-### "Kde mohu nahlásit nějakého člena serveru, či staff?"
-
-Stačí navštívit náš Discord a založit ticket ([?](t/uzitecne.md#ticket)).
-
 ### "Mohu si nějak propojit Bedrock účet s java?"
 
 Ano. Je možné si propojit Bedrock ([?](server/slovnik.md#edition)) a Java ([?](server/slovnik.md#edition)) účty pomocí služby Geyser ([?](server/slovnik.md#geyser)). Návod najdeš [zde](t/linkaccount.md).
@@ -35,11 +27,3 @@ Bohužel ne. Zatím nějaký veřejný nábor neprobíhá.
 ### "Kdy bývají eventy?"
 
 Eventy probíhají o víkendech. V sobotu, nebo neděli. Vždy se můžeš zeptat na našem Discordu.
-
-### "Kdo server vlastní?"
-
-Momentálně majitelem je PetyXbron. Spolumajitelem je GamingoveCZE, který se také opravdu hodně podílel na vývin serveru.
-
-### "Jak dostanu pozemek na spawnu?"
-
-Pozemek na spawnu stojí kredity. Jak získáš kredit? Za každý jeden hlas, dostaneš jeden kredit. Většinou pozemek na spawnu stojí 3 kredity (tedy 3 dny hlasování). Když potom kredity získáš, stačí přijít před pozemek a kliknout na ceduli s nápisem před pozemkem. Všechno se ti převede a budeš moct stavět i ničit na pozemku. Doporučujeme postavit nějaký obchod :smile:
