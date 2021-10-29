@@ -8,7 +8,7 @@ coverY: 149.12474437627813
 Tato wiki slouží k usnadnění tvého hledání a zároveň k uvolnění času našeho admin teamu.\
 Zde by jsi měl najít všechny důležité odpovědi.
 
-Samozřejmě, pokud je nenajdete, neváhejte založit [**ticket**](features/uzitecne.md#ticket) na [**Discord serveru**](https://dsc.gg/surocraft).
+Samozřejmě, pokud je nenajdete, neváhejte založit [**ticket**](t/uzitecne.md#ticket) na [**Discord serveru**](https://dsc.gg/surocraft).
 
 {% hint style="info" %}
 **Už si dnes hlasoval pro server? Ne?! Hlasuj ihned **[**zde**](./#vote)** a získej odměnu!**
@@ -24,8 +24,8 @@ Ale aby jsme si hru trochu zlepšili a více se bavili, máme tu pár funkcí, k
 * **BlockLocker** - zabezpečení beden a více bloků
 * **Coordinates** - příkaz `/coords` pro zorbazení souřadnic na java edici ([?](server/slovnik.md#edition))
 * **DeadChest** - posmrtná bedna s inventářem
-* ****[**Elevator**](features/elevator.md)**  **- výtahy
-* ****[**Shopkeepers**](features/shopkeepers.md)** **- vlastní vesničani pro obchodování
+* ****[**Elevator**](t/elevator.md)**  **- výtahy
+* ****[**Shopkeepers**](t/shopkeepers.md)** **- vlastní vesničani pro obchodování
 * ****[**Terra**](https://www.spigotmc.org/resources/terra.85151/) - speciální generace světa&#x20;
 * **TreeGravity** - zničení stromu jedním blokem
 * **GSit **- sedání, lehání a plazení na jakémkoliv místě
@@ -88,5 +88,5 @@ Hlasováním pro SuroCraft získáš rank [**Wood**](ranks/r.md#wood) na 24h!
 Náš server se vyskytuje na známém server listu [minecraftpocket-servers.com](https://minecraftpocket-servers.com), kde je možné vidět kolik je hráčů online, jestli je vůbec server online a další informace. Děláme to kvůli tomu, aby jsme získali nové hráče.
 
 Nebojte se, noví hráči ti akorát zlepší hru.\
-Můžeme tím rozšířit naši komunitu a tak ji zachovat aktivní, rozšiřovat obchody (viz. [Shopkeepers](features/shopkeepers.md)) a trochu si více rozradostnit radost z hraní.\
-Pokud nový hráč ti nějak začne kazit hru _(to je _[_pravidlo_](server/rules.md#griefing)_ mimochodem) _neváhej založit [**ticket**](features/uzitecne.md#ticket). [Ukládáme data ](server/rules.md#ukladane-data-o-hracich)o činnosti hráčů ve hře a tak zjistíme, kdo ti někdo něco rozbil a dokonce i kdy.
+Můžeme tím rozšířit naši komunitu a tak ji zachovat aktivní, rozšiřovat obchody (viz. [Shopkeepers](t/shopkeepers.md)) a trochu si více rozradostnit radost z hraní.\
+Pokud nový hráč ti nějak začne kazit hru _(to je _[_pravidlo_](server/rules.md#griefing)_ mimochodem) _neváhej založit [**ticket**](t/uzitecne.md#ticket). [Ukládáme data ](server/rules.md#ukladane-data-o-hracich)o činnosti hráčů ve hře a tak zjistíme, kdo ti někdo něco rozbil a dokonce i kdy.

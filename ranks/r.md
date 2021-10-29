@@ -13,11 +13,11 @@ description: List ranků a jejich výhody
 * `/anvil` (Otevře kovadlinu)
 * `/stonecutter` (Otevře kameník)
 * `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
-* `/end` ([?](../features/uzitecne.md#tp))
-* `/tpr` ([?](../features/uzitecne.md#tp))
+* `/end` ([?](../t/uzitecne.md#tp))
+* `/tpr` ([?](../t/uzitecne.md#tp))
 * Limit 10x home
-* Nekonečná vdálenost mezi výtahy ([?](../features/elevator.md))
-* Neomezený počet Shopkeeperů ([?](../features/shopkeepers.md))
+* Nekonečná vdálenost mezi výtahy ([?](../t/elevator.md))
+* Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
 
 ### Gold
@@ -25,11 +25,11 @@ description: List ranků a jejich výhody
 * `/anvil` (Otevře kovadlinu)
 * `/stonecutter` (Otevře kameník)
 * `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
-* `/end` ([?](../features/uzitecne.md#tp))
-* `/tpr` ([?](../features/uzitecne.md#tp))
+* `/end` ([?](../t/uzitecne.md#tp))
+* `/tpr` ([?](../t/uzitecne.md#tp))
 * Limit 5x home
-* Limit 100 bloků pro vytvoření výtahu ([?](../features/elevator.md))
-* Limit 10 Shopkeeperů ([?](../features/shopkeepers.md))&#x20;
+* Limit 100 bloků pro vytvoření výtahu ([?](../t/elevator.md))
+* Limit 10 Shopkeeperů ([?](../t/shopkeepers.md))&#x20;
 
 ### Iron
 
@@ -38,11 +38,11 @@ description: List ranků a jejich výhody
 * `/nick` (Změní ti jméno v chatu)
 * `/workbench` (Otevře crafting table 3x3)
 * `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
-* `/end` ([?](../features/uzitecne.md#tp))
-* `/tpr` ([?](../features/uzitecne.md#tp))
+* `/end` ([?](../t/uzitecne.md#tp))
+* `/tpr` ([?](../t/uzitecne.md#tp))
 * Limit 3x home
-* Limit 10 bloků pro vytvoření výtahu ([?](../features/elevator.md))
-* Limit 2 Shopkeepeři ([?](../features/shopkeepers.md))
+* Limit 10 bloků pro vytvoření výtahu ([?](../t/elevator.md))
+* Limit 2 Shopkeepeři ([?](../t/shopkeepers.md))
 
 ### Wood
 
@@ -53,10 +53,10 @@ description: List ranků a jejich výhody
 {% endhint %}
 
 * `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
-* `/end` ([?](../features/uzitecne.md#tp))
-* `/tpr` ([?](../features/uzitecne.md#tp))
+* `/end` ([?](../t/uzitecne.md#tp))
+* `/tpr` ([?](../t/uzitecne.md#tp))
 * 1x home postel
-* Limit 1 Shopkeeper ([?](../features/shopkeepers.md))
+* Limit 1 Shopkeeper ([?](../t/shopkeepers.md))
 
 ## Jak získat ranky <a href="prices" id="prices"></a>
 
@@ -64,9 +64,9 @@ description: List ranků a jejich výhody
 **Zakoupení ranků je nyní možné pouze zaplacením přímo majiteli serveru na PayPal, či bankovním převodem. Kontaktuj Petyho nebo staff team pro více info.**
 {% endhint %}
 
-| **Rank**                                 | **Cena**                                                                   | **Platnost** |
-| ---------------------------------------- | -------------------------------------------------------------------------- | ------------ |
-| <mark style="color:green;">Wood</mark>   | Za vote ([**↗**](https://minecraftpocket-servers.com/server/113005/vote/)) | 24 hodin     |
-| Iron                                     | 25Kč     \| 1.00€                                                          | 30 dnů       |
-| <mark style="color:orange;">Gold</mark>  | 50Kč     \| 2.00€                                                          | 30 dnů       |
-| <mark style="color:blue;">Diamond</mark> | 100Kč   \| 4.00€                                                           | 30 dnů       |
+| **Rank**                                 | **Cena**          | **Platnost** |
+| ---------------------------------------- | ----------------- | ------------ |
+| <mark style="color:green;">Wood</mark>   | Za vote důležité  | 24 hodin     |
+| Iron                                     | 25Kč     \| 1.00€ | 30 dnů       |
+| <mark style="color:orange;">Gold</mark>  | 50Kč     \| 2.00€ | 30 dnů       |
+| <mark style="color:blue;">Diamond</mark> | 100Kč   \| 4.00€  | 30 dnů       |

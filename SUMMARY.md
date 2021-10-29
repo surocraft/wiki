@@ -2,6 +2,7 @@
 
 * [📘 ÚVOD](README.md)
 * [📷 GALERIE](galerie.md)
+* [❓ FAQ](faq.md)
 
 ## Server
 
@@ -13,11 +14,10 @@
 * [⭐ Ranky a jejich výhody](ranks/r.md)
 * [⭐ Návod k výhodám](ranks/help.md)
 
-## Jak Na To <a href="features" id="features"></a>
+## Návody <a href="t" id="t"></a>
 
-* [Užitečné](features/uzitecne.md)
-* [Pozemky](features/pozemky.md)
-* [Propojení účtů](features/linkaccount.md)
-* [Shopkeepers](features/shopkeepers.md)
-* [Výtahy](features/elevator.md)
-* [AutoCrafter](features/autocrafter.md)
+* [Užitečné](t/uzitecne.md)
+* [Pozemky](t/pozemky.md)
+* [Propojení účtů](t/linkaccount.md)
+* [Shopkeepers](t/shopkeepers.md)
+* [Výtahy](t/elevator.md)

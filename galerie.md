@@ -5,7 +5,7 @@ description: Obrázky - screenshoty ze serveru
 # 📷 GALERIE
 
 {% hint style="info" %}
-**Chceš přispět do galerie? Založ **[**ticket**](features/uzitecne.md#ticket)**.**
+**Chceš přispět do galerie? Založ **[**ticket**](t/uzitecne.md#ticket)**.**
 {% endhint %}
 
 ![](.gitbook/assets/Screenshot\_544.png)

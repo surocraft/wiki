@@ -56,3 +56,5 @@ Pokud si tak ještě neudělal, přečti si [pravidla serveru](../server/rules.m
 Běž v Discord serveru do kanálu **#ticket**, zde uvidíš zprávu pod které je tlačítko. Na to klikneš a vytvoří se nový kanál, tam si můžeme začít psát.
 
 ![Vytvoření ticketu na Discord serveru](../.gitbook/assets/ticket-create.gif)
+
+Pokud jsi na mobilním zařízení, je nutné si aktualizovat aplikaci Discord a mít Android 7 nebo vyšší. Jinak se neukáže důležité tlačítko "Create Ticket".

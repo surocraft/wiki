@@ -13,14 +13,14 @@ Nejpopularnější verze jsou **Java** a **Bedrock Editon**.\
 **XBOX ... Edition**, **PlayStation Edition** a další.
 
 Jednoduše řečeno, **Java Edice** je pro **PC** a **Bedrock** pro **mobilní zařízení** a **další**.\
-Je to tak určitě rozděleno podle výkonu zařízení a podle náročnosti operačního systému. Java Edice je starší a tak zatím účty vlastnila firma Mojang ([?](https://cs.wikipedia.org/wiki/Mojang_Studios)).\
+Je to tak určitě rozděleno podle výkonu zařízení a podle náročnosti operačního systému. Java Edice je starší a tak zatím účty vlastnila firma Mojang ([?](https://cs.wikipedia.org/wiki/Mojang\_Studios)).\
 Od 15. Září 2014 společnost Microsoft ([?](https://cs.wikipedia.org/wiki/Microsoft)) 'koupila' Mojang za 2,5 miliardy dolarů.\
 Tehdy se Microsoft spíše zaměřil na **Bedrock Edici**, kam byl později přidán herní obchod, servery a hlavně přihlášení pomocí Microsoft účtu.
 
 #### Jakou verzi podporuje tedy SuroCraft?
 
 Překvapivě, díky pluginu Geyser ([?](slovnik.md#geyser)), můžete na SuroCraftu hrát s **Bedrock** i **Java** edicí.\
-Je možné si dokonce oba účty propojit pro snadnější hraní. Více o propojení účtech [zde](../features/linkaccount.md).
+Je možné si dokonce oba účty propojit pro snadnější hraní. Více o propojení účtech [zde](../t/linkaccount.md).
 
 {% hint style="info" %}
 Chceš na SuroCraftu hrát s herní konzolí?** **Vyzkoušej aplikaci [**MC Server Connector**](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector) pro **Android**.

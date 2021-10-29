@@ -64,7 +64,7 @@ Griefing, cheating - hacking jsou ty nejhroznější případy.
 Jakékoliv nalezení chyb (bugů), musí být co nejdříve a neprodleně nahlášeno admin teamu. Zneužívání chyb se velmi přísně trestá.
 
 {% hint style="info" %}
-Admin team můžeš kontaktovat na [Discordu](https://dsc.gg/surocraft). Třeba založ [**ticket **](../features/uzitecne.md#ticket)v kanálu **#ticket**.
+Admin team můžeš kontaktovat na [Discordu](https://dsc.gg/surocraft). Třeba založ [**ticket **](../t/uzitecne.md#ticket)v kanálu **#ticket**.
 {% endhint %}
 
 ### Sběr dat <a href="data-collection" id="data-collection"></a>
@@ -74,7 +74,7 @@ Neboj se, netýká se nic osobního. Nikdo tě nepřijede navštívit, pokud bud
 
 Pokud ti tu přijde něco zvláštního, to je dobře. Protože o sběru tvých dat by jsi se měl něco více dozvědět, nejsem tu od toho, abych tě poučoval jak se chovat na internetu, ale je opravdu důležité se věci více jak jednou kontrolovat. I v reálném životě uděláš jednu chybičku a kvůli špatné, nebo žádné kontrole a všechno se pokazí. To se stává. Já ti ale právě předvedu, jaké data o tobě shromažďujeme.
 
-Pokud nebudeš chtít, aby jsme si nechali tvé data v naší databázi, založ [**ticket**](../features/uzitecne.md#ticket).
+Pokud nebudeš chtít, aby jsme si nechali tvé data v naší databázi, založ [**ticket**](../t/uzitecne.md#ticket).
 
 #### Ukládané data o hráčích
 
@@ -93,5 +93,5 @@ _Neukládáme žádné data o uživatelů na Discord serveru._
 Máme své systémy jak zjistit, kdo, kdy, kde, zničil jaký blok, jaký předmět upustil, koho zabil atd. Tím máme jistotu, že když Pepíček zničil Tondovi postel, tak že to byl on a můžeme ho potrestat. Neberte to zlehka, pokud nějakou nekalost vytvoříte na Minecraft serveru, po nahlášení, my to zjistíme.
 
 {% hint style="info" %}
-Pokud se ni něco stalo na serveru, neváhej [**založit ticket**](../features/uzitecne.md#ticket).
+Pokud se ni něco stalo na serveru, neváhej [**založit ticket**](../t/uzitecne.md#ticket).
 {% endhint %}

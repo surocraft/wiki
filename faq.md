@@ -1,12 +1,29 @@
-# FAQ
+---
+description: Často Kladené Otázky
+---
 
-## Can I become who I want to be?
+# ❓ FAQ
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+### "Mohu si nějak propojit Bedrock účet s java?"
 
-## Have you had a chance to answer the previous question?
+Ano. Je možné si propojit Bedrock ([?](server/slovnik.md#edition)) a Java ([?](server/slovnik.md#edition)) účty pomocí služby Geyser ([?](server/slovnik.md#geyser)). Návod najdeš [zde](t/linkaccount.md).
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+### "Jak se dostanu na survival?"
 
+Všechno celé je survival. Po prvním připojení se objevíš na našem spawnu. Potom musíš pěšky odejít a najít si svojí krajinu. No a nebo hlasuj ([**↗**](https://minecraftpocket-servers.com/server/113005/vote/)) pro server a použij příkaz `/tpr` ([?](t/uzitecne.md#tp)).
 
+### "Jak získám nějaký rank?"
 
+Super ranky si můžeš zakoupit - viz. stránka [Ranky a jejich výhody](ranks/r.md). Ale jeden rank můžeš prakticky získat i za nic. Hodí se vždycky. Stačí jen hlasovat ([**↗**](https://minecraftpocket-servers.com/server/113005/vote/)) pro náš server.
+
+### "Jak zjistím svůj nahraný čas?"
+
+Stačí na serveru použít příkaz `/playtime`.
+
+### "Mohu se stán staff členem?"
+
+Bohužel ne. Zatím nějaký veřejný nábor neprobíhá.
+
+### "Kdy bývají eventy?"
+
+Eventy probíhají o víkendech. V sobotu, nebo neděli. Vždy se můžeš zeptat na našem Discordu.
