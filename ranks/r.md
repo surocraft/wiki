@@ -64,9 +64,9 @@ description: List ranků a jejich výhody
 **Zakoupení ranků je nyní možné pouze zaplacením přímo majiteli serveru na PayPal, či bankovním převodem. Kontaktuj Petyho nebo staff team pro více info.**
 {% endhint %}
 
-| **Rank**                                 | **Cena**                                                               | **Platnost** |
-| ---------------------------------------- | ---------------------------------------------------------------------- | ------------ |
-| <mark style="color:green;">Wood</mark>   | Za vote ([↗](https://minecraftpocket-servers.com/server/113005/vote/)) | 24 hodin     |
-| Iron                                     | 25Kč     \| 1.00€                                                      | 30 dnů       |
-| <mark style="color:orange;">Gold</mark>  | 50Kč     \| 2.00€                                                      | 30 dnů       |
-| <mark style="color:blue;">Diamond</mark> | 100Kč   \| 4.00€                                                       | 30 dnů       |
+| **Rank**                                 | **Cena**                                                                   | **Platnost** |
+| ---------------------------------------- | -------------------------------------------------------------------------- | ------------ |
+| <mark style="color:green;">Wood</mark>   | Za vote ([**↗**](https://minecraftpocket-servers.com/server/113005/vote/)) | 24 hodin     |
+| Iron                                     | 25Kč     \| 1.00€                                                          | 30 dnů       |
+| <mark style="color:orange;">Gold</mark>  | 50Kč     \| 2.00€                                                          | 30 dnů       |
+| <mark style="color:blue;">Diamond</mark> | 100Kč   \| 4.00€                                                           | 30 dnů       |
