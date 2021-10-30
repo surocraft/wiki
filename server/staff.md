@@ -16,6 +16,8 @@ _majitel serveru_
 
 _vícemajitel serveru, admin_
 
+> Mé skutečné jméno je Martin a jsem Pražák. Je mi víc než bych chtěl. A na serveru nejsem často k vidění. Mám klidnou hlavu.
+
 ### Smrtka\_sk ![](https://mc-heads.net/head/b7f072bb9d5d31c340065dbf7f466d34ebb305f2f4c425acf8080c6d66078b32/)
 
 _stavitel a tvořitel, pomocník a hráč bez reálného života_
