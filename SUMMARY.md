@@ -9,6 +9,7 @@
 * [📕 Pravidla](server/rules.md)
 * [📖 Slovníček](server/slovnik.md)
 * [🌐 Odkazy a další](server/info.md)
+* [👮 Staff](server/staff.md)
 
 ## Ranky <a href="ranks" id="ranks"></a>
 

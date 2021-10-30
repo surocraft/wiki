@@ -60,9 +60,11 @@ description: List ranků a jejich výhody
 
 ## Jak získat ranky <a href="prices" id="prices"></a>
 
-{% hint style="danger" %}
-**Zakoupení ranků je nyní možné pouze zaplacením přímo majiteli serveru na PayPal, či bankovním převodem. Kontaktuj Petyho nebo staff team pro více info.**
-{% endhint %}
+Stačí navštívit naší stránku s obchodem - [surocraft.craftingstore.net](https://surocraft.craftingstore.net)
+
+Tam si můžeš v záložce kategorií zvolit [kategorii ranky](https://surocraft.craftingstore.net/category/275918) a vybrat si vlastní balíček. Výhody tam zatím nejsou uvedené, proto si je můžeš přečíst [zde](r.md#vyhody), na stránce.
+
+#### CENY RANKŮ
 
 | **Rank**                                 | **Cena**          | **Platnost** |
 | ---------------------------------------- | ----------------- | ------------ |
