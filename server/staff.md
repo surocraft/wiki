@@ -22,9 +22,13 @@ _vícemajitel serveru, admin_
 
 _stavitel a tvořitel, pomocník a hráč bez reálného života_
 
+> Ahoj ja sem Smrtka vlastným menom Marek Koller. Mám 15 rokov pochádzam zo Slovenska z BanskoBystrického kraja. Na servery hram odzačatku,tejto sezóne už mám cez 200h som na serveri ako jedini nolifer.  Na serveru mam rád poriadok a dodržiavanie pravidiel a miluju Popcorn_ _:heart:__:popcorn:__
+
 ### TenJedenHello ![](https://mc-heads.net/head/eebfd5dafc2a4563b6297b55bf16a79e/)
 
 _bývalý tester, pomocník a nejochotnější podpora serveru_
+
+> Jmenuji se Dominik, mé ingame jméno je TenJedenHELLo. Je mi 14 let. Jsem hrdý Moravskoslezský borec. Na serveru trávím dost času, momentálně mám na serveru 300 nahraných hodin. Hraju na SuroCraftu už skoro rok.
 
 ## Proč je na serveru staff?
 
