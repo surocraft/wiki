@@ -66,9 +66,9 @@ Tam si můžeš v záložce kategorií zvolit [kategorii ranky](https://surocraf
 
 #### CENY RANKŮ
 
-| **Rank**                                 | **Cena**          | **Platnost** |
-| ---------------------------------------- | ----------------- | ------------ |
-| <mark style="color:green;">Wood</mark>   | Za vote důležité  | 24 hodin     |
-| Iron                                     | 25Kč     \| 1.00€ | 30 dnů       |
-| <mark style="color:orange;">Gold</mark>  | 50Kč     \| 2.00€ | 30 dnů       |
-| <mark style="color:blue;">Diamond</mark> | 100Kč   \| 4.00€  | 30 dnů       |
+| **Rank**                                 | **Cena**                | **Platnost** |
+| ---------------------------------------- | ----------------------- | ------------ |
+| <mark style="color:green;">Wood</mark>   | Za vote ([?](../#vote)) | 24 hodin     |
+| Iron                                     | 25Kč     \| 1.00€       | 30 dnů       |
+| <mark style="color:orange;">Gold</mark>  | 50Kč     \| 2.00€       | 30 dnů       |
+| <mark style="color:blue;">Diamond</mark> | 100Kč   \| 4.00€        | 30 dnů       |
