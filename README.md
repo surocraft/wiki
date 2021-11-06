@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Screenshot_545.png
-coverY: 149.12474437627813
+cover: .gitbook/assets/Screenshot_481.png
+coverY: 0
 ---
 
 # 📘 ÚVOD
@@ -40,10 +40,10 @@ Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\
 **Java Edice** je pouze pro operační systémy Windows, macOS a Linux.\
 **Bedrock Edice** je určená pro mobilní zařízení a herní konzole.
 
-|           EDICE           |      Adresa Serveru     |  PORT |
-| :-----------------------: | :---------------------: | :---: |
-| Java Edition       1.17.1 | suro.petyxbron.cz:17032 |       |
-|  Bedrock Edition 1.17.41  |    suro.petyxbron.cz    | 17033 |
+|           EDICE           |   Adresa Serveru  |  PORT |
+| :-----------------------: | :---------------: | :---: |
+| Java Edition       1.17.1 |  mc.surocraft.eu  |       |
+|  Bedrock Edition 1.17.41  | mcbe.surocraft.eu | 17033 |
 
 Připojením na server souhlasíš s našimi [pravidly](server/rules.md).
 
