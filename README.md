@@ -56,7 +56,7 @@ Vyzkoušej aplikaci [**MC Server Connector**](https://play.google.com/store/apps
 
 {% tabs %}
 {% tab title="Java Edition" %}
-![](<.gitbook/assets/image (1).png>)
+![](.gitbook/assets/Screenshot\_485.png)
 {% endtab %}
 
 {% tab title="Bedrock Edition" %}
