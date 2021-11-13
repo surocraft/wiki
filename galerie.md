@@ -18,6 +18,8 @@ description: Obrázky - screenshoty ze serveru
 
 ![](.gitbook/assets/2021-09-12\_16.32.37.png)
 
+![](.gitbook/assets/screenshot\_mahspy.png)
+
 ![](.gitbook/assets/unknown.png)
 
 ![](.gitbook/assets/unknown1.png)
