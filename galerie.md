@@ -32,13 +32,13 @@ description: Obrázky - screenshoty ze serveru
 
 ![](.gitbook/assets/unknown5.jpg)
 
-![](.gitbook/assets/screenshot\_20210911-211917\_minecraft.png)
+![](.gitbook/assets/Screenshot\_20210911-211917\_Minecraft.png)
 
-![](.gitbook/assets/screenshot\_20210912-135046\_minecraft.png)
+![](.gitbook/assets/Screenshot\_20210912-135046\_Minecraft.png)
 
-![](.gitbook/assets/ezgif.com-gif-maker-1-.gif)
+![](<.gitbook/assets/ezgif.com-gif-maker (1).gif>)
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 
 ![](.gitbook/assets/2021-09-12\_16.24.31.png)
 
