@@ -74,7 +74,7 @@ Neboj se, netýká se nic osobního. Nikdo tě nepřijede navštívit, pokud bud
 
 Pokud ti tu přijde něco zvláštního, to je dobře. Protože o sběru tvých dat by jsi se měl něco více dozvědět, nejsem tu od toho, abych tě poučoval jak se chovat na internetu, ale je opravdu důležité se věci více jak jednou kontrolovat. I v reálném životě uděláš jednu chybičku a kvůli špatné, nebo žádné kontrole a všechno se pokazí. To se stává. Já ti ale právě předvedu, jaké data o tobě shromažďujeme.
 
-Pokud nebudeš chtít, aby jsme si nechali tvé data v naší databázi, založ [**ticket**](../t/uzitecne.md#ticket).
+Pokud se ti sběr dat nějak nezdá nebo s ním nesouhlasíš, založ [**ticket**](../t/uzitecne.md#ticket)** **a objasníme ti následný postup.
 
 #### Ukládané data o hráčích
 
