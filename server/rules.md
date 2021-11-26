@@ -80,9 +80,6 @@ Pokud nebudeš chtít, aby jsme si nechali tvé data v naší databázi, založ 
 
 _Neukládáme žádné data o uživatelů na Discord serveru._
 
-* **Ukládáme Stát, z kterého si se připojil.**\
-  Např. Slovensko, Česko\
-  _Tvojí podrobnější adresu nikam neukládáme._
 * **Ukládáme tvou aktivitu na serveru.**\
   ****_Kolik času si strávil na serveru i můžeme zveřejnit s ostatními hráči._\
   A také další údaje - první datum připojení, délka hraní, délka nečinnosti, délka relace, počet relací, poslední navštívení serveru, zabití mobů, zabití hráčů, počet smrtí, položené bloky, zničené bloky a další informace co děláš ve hře.\
