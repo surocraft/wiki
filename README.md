@@ -11,7 +11,7 @@ Zde by jsi měl najít všechny důležité odpovědi.
 Samozřejmě, pokud je nenajdete, neváhejte založit [**ticket**](t/uzitecne.md#ticket) na [**Discord serveru**](https://dsc.gg/surocraft).
 
 {% hint style="info" %}
-**Už si dnes hlasoval pro server? Ne?! Hlasuj ihned **[**zde**](./#vote)** a získej odměnu!**
+**Už si dnes hlasoval pro server? Ne?! Hlasuj ihned** [**zde**](./#vote) **a získej odměnu!**
 {% endhint %}
 
 #### Co na našem serveru najdeš?
@@ -24,26 +24,26 @@ Ale aby jsme si hru trochu zlepšili a více se bavili, máme tu pár funkcí, k
 * **BlockLocker** - zabezpečení beden a více bloků
 * **Coordinates** - příkaz `/coords` pro zorbazení souřadnic na java edici ([?](server/slovnik.md#edition))
 * **DeadChest** - posmrtná bedna s inventářem
-* ****[**Elevator**](t/elevator.md)**  **- výtahy
-* ****[**Shopkeepers**](t/shopkeepers.md)** **- vlastní vesničani pro obchodování
+* ****[**Elevator**](t/elevator.md)  ****  - výtahy
+* ****[**Shopkeepers**](t/shopkeepers.md) **** - vlastní vesničani pro obchodování
 * ****[**Terra**](https://www.spigotmc.org/resources/terra.85151/) - speciální generace světa&#x20;
 * **TreeGravity** - zničení stromu jedním blokem
-* **GSit **- sedání, lehání a plazení na jakémkoliv místě
+* **GSit** - sedání, lehání a plazení na jakémkoliv místě
 
-## Připojení na server <a href="connect" id="connect"></a>
+## Připojení na server <a href="#connect" id="connect"></a>
 
 {% hint style="warning" %}
-**Je nutné se nejdříve připojit na **[**Discord server**](https://dsc.gg/surocraft)**.**
+**Je nutné se nejdříve připojit na** [**Discord server**](https://dsc.gg/surocraft)**.**
 {% endhint %}
 
 Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\
 **Java Edice** je pouze pro operační systémy Windows, macOS a Linux.\
 **Bedrock Edice** je určená pro mobilní zařízení a herní konzole.
 
-|           EDICE           |   Adresa Serveru  |  PORT |
-| :-----------------------: | :---------------: | :---: |
-| Java Edition       1.17.1 |  mc.surocraft.eu  |       |
-|  Bedrock Edition 1.17.41  | mcbe.surocraft.eu | 19132 |
+|          EDICE          |   Adresa Serveru  |  PORT |
+| :---------------------: | :---------------: | :---: |
+| Java Edition       1.18 |  mc.surocraft.eu  |       |
+|   Bedrock Edition 1.18  | mcbe.surocraft.eu | 19132 |
 
 Připojením na server souhlasíš s našimi [pravidly](server/rules.md).
 
@@ -64,7 +64,7 @@ Vyzkoušej aplikaci [**MC Server Connector**](https://play.google.com/store/apps
 {% endtab %}
 {% endtabs %}
 
-## Přispět <a href="donate" id="donate"></a>
+## Přispět <a href="#donate" id="donate"></a>
 
 _**Líbí se ti naše práce? Rád hraješ na serveru?**_ _**Podpoř nás prosím!**_
 
@@ -79,7 +79,7 @@ _- jinak nezískáte odměnu_
 
 **Odměna:** Každý podporovatel získá jeden **diamantový blok**.
 
-## Hlasování pro Server <a href="vote" id="vote"></a>
+## Hlasování pro Server <a href="#vote" id="vote"></a>
 
 Proč vlastně hlasovat?\
 Hlasováním pro SuroCraft získáš rank [**Wood**](ranks/r.md#wood) na 24h!
@@ -89,4 +89,4 @@ Náš server se vyskytuje na známém server listu [minecraftpocket-servers.com]
 
 Nebojte se, noví hráči ti akorát zlepší hru.\
 Můžeme tím rozšířit naši komunitu a tak ji zachovat aktivní, rozšiřovat obchody (viz. [Shopkeepers](t/shopkeepers.md)) a trochu si více rozradostnit radost z hraní.\
-Pokud nový hráč ti nějak začne kazit hru _(to je _[_pravidlo_](server/rules.md#griefing)_ mimochodem) _neváhej založit [**ticket**](t/uzitecne.md#ticket). [Ukládáme data ](server/rules.md#ukladane-data-o-hracich)o činnosti hráčů ve hře a tak zjistíme, kdo ti někdo něco rozbil a dokonce i kdy.
+Pokud nový hráč ti nějak začne kazit hru _(to je_ [_pravidlo_](server/rules.md#griefing) _mimochodem)_ neváhej založit [**ticket**](t/uzitecne.md#ticket). [Ukládáme data ](server/rules.md#ukladane-data-o-hracich)o činnosti hráčů ve hře a tak zjistíme, kdo ti někdo něco rozbil a dokonce i kdy.
