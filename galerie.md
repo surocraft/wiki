@@ -46,8 +46,6 @@ description: Obrázky - screenshoty ze serveru
 
 ![](.gitbook/assets/Screenshot\_20210911-211917\_Minecraft.png)
 
-![](.gitbook/assets/Screenshot\_20210912-135046\_Minecraft.png)
-
 ![](<.gitbook/assets/ezgif.com-gif-maker (1).gif>)
 
 ![](.gitbook/assets/2021-09-12\_16.24.31.png)
