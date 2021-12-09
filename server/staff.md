@@ -22,7 +22,7 @@ _vícemajitel serveru, admin_
 
 _stavitel a tvořitel, pomocník a hráč bez reálného života_
 
-> Ahoj ja sem Smrtka vlastným menom Marek Koller. Mám 15 rokov pochádzam zo Slovenska z BanskoBystrického kraja. Na servery hram odzačatku,tejto sezóne už mám cez 200h som na serveri ako jedini nolifer.  Na serveru mam rád poriadok a dodržiavanie pravidiel a miluju Popcorn_ _:heart:__:popcorn:__
+> Ahoj ja sem Smrtka vlastným menom Marek Koller. Mám 15 rokov pochádzam zo Slovenska z BanskoBystrického kraja. Na servery hram odzačatku,tejto sezóne už mám cez 200h som na serveri ako jedini nolifer.  Na serveru mam rád poriadok a dodržiavanie pravidiel a miluju Popcorn __ :heart:__:popcorn:__
 
 ### TenJedenHello ![](https://mc-heads.net/head/eebfd5dafc2a4563b6297b55bf16a79e/)
 

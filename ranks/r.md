@@ -15,6 +15,7 @@ description: List ranků a jejich výhody
 * `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
 * `/end` ([?](../t/uzitecne.md#tp))
 * `/tpr` ([?](../t/uzitecne.md#tp))
+* Možnost si sednout na jiného hráče pomocí pravého tlačítka
 * Limit 10x home
 * Nekonečná vdálenost mezi výtahy ([?](../t/elevator.md))
 * Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
@@ -46,10 +47,10 @@ description: List ranků a jejich výhody
 
 ### Wood
 
-**Rank za vote **([?](../#vote)).
+**Rank za vote** ([?](../#vote)).
 
 {% hint style="info" %}
-**Hlasuj pro náš server **[**zde**](https://vote.petyxbron.cz)** a získej Wood rank!**
+**Hlasuj pro náš server** [**zde**](https://vote.petyxbron.cz) **a získej Wood rank!**
 {% endhint %}
 
 * `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
@@ -58,7 +59,7 @@ description: List ranků a jejich výhody
 * 1x home postel
 * Limit 1 Shopkeeper ([?](../t/shopkeepers.md))
 
-## Jak získat ranky <a href="prices" id="prices"></a>
+## Jak získat ranky <a href="#prices" id="prices"></a>
 
 Stačí navštívit naší stránku s obchodem - [surocraft.craftingstore.net](https://surocraft.craftingstore.net)
 

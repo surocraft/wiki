@@ -43,7 +43,7 @@ Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\
 |          EDICE          |   Adresa Serveru  |  PORT |
 | :---------------------: | :---------------: | :---: |
 | Java Edition       1.18 |  mc.surocraft.eu  |       |
-|   Bedrock Edition 1.18  | mcbe.surocraft.eu | 19132 |
+|  Bedrock Edition 1.18.1 | mcbe.surocraft.eu | 19132 |
 
 Připojením na server souhlasíš s našimi [pravidly](server/rules.md).
 

@@ -4,7 +4,7 @@
 **Již brzy**
 {% endhint %}
 
-**Můžeš ale zhlédnout toto video **v angličtině**: **
+**Můžeš ale zhlédnout toto video** v angličtině**:**&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=DWFOMdX87nI" %}
 

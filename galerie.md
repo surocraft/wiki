@@ -5,16 +5,28 @@ description: Obrázky - screenshoty ze serveru
 # 📷 GALERIE
 
 {% hint style="info" %}
-**Chceš přispět do galerie? Založ **[**ticket**](t/uzitecne.md#ticket)**.**
+**Chceš přispět do galerie? Založ** [**ticket**](t/uzitecne.md#ticket)**.**
 {% endhint %}
 
 ![](.gitbook/assets/Screenshot\_544.png)
 
+![](.gitbook/assets/Screenshot\_530.png)
+
+![](.gitbook/assets/Screenshot\_533.png)
+
+![](.gitbook/assets/Screenshot\_534.png)
+
+![](.gitbook/assets/Screenshot\_536.png)
+
+![](.gitbook/assets/Screenshot\_537.png)
+
+![](.gitbook/assets/Screenshot\_539.png)
+
+![](.gitbook/assets/Screenshot\_523.png)
+
 ![](.gitbook/assets/2021-09-12\_16.30.11.png)
 
 ![](.gitbook/assets/2021-09-12\_16.31.15.png)
-
-![](.gitbook/assets/2021-09-12\_16.32.14.png)
 
 ![](.gitbook/assets/2021-09-12\_16.32.37.png)
 
@@ -38,10 +50,6 @@ description: Obrázky - screenshoty ze serveru
 
 ![](<.gitbook/assets/ezgif.com-gif-maker (1).gif>)
 
-![](<.gitbook/assets/image (1).png>)
-
 ![](.gitbook/assets/2021-09-12\_16.24.31.png)
 
 ![](<.gitbook/assets/image0 (1).png>)
-
-![](.gitbook/assets/image0.png)

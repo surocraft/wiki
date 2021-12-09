@@ -27,7 +27,7 @@ Více na [geysermc.org](https://geysermc.org).
 
 ## Fajn vědět
 
-### Minecraft Bedrock/Java Edition <a href="edition" id="edition"></a>
+### Minecraft Bedrock/Java Edition <a href="#edition" id="edition"></a>
 
 Minecraft známe. Je to videohra, která je dostupná ve velmi širokém pokrytí.\
 Minecraft je tedy hratelný na spousta platformách. Týká se to **Windows**, **Linux**, **macOS**, **iOS**, **Android**, **Nintendo**, **VR headsety**, **Amazon mobilní zařízení a tablety**, **Xbox** a **PlayStation**.
@@ -48,7 +48,7 @@ Překvapivě, díky pluginu Geyser ([?](slovnik.md#geyser)), můžete na SuroCra
 Je možné si dokonce oba účty propojit pro snadnější hraní. Více o propojení účtech [zde](../t/linkaccount.md).
 
 {% hint style="info" %}
-Chceš na SuroCraftu hrát s herní konzolí?** **Vyzkoušej aplikaci [**MC Server Connector**](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector) pro **Android**.
+Chceš na SuroCraftu hrát s herní konzolí? **** Vyzkoušej aplikaci [**MC Server Connector**](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector) pro **Android**.
 {% endhint %}
 
 Proč jsem použil slovo "Překvapivě"? Protože Bedrock a Java edice se spolu úplně moc nekamarádí. Já to beru jako zázrak, že někdo dokázal vůbec tyto systémy aspoň nějak propojit.\
@@ -79,14 +79,14 @@ Ještě si pamatuji.. Vlastnil jsem pouze Bedrock server a kamarádi s Minecraft
 
 ### AFK
 
-**AFK **je chatovací ale převážně herní zkratka. Při rozložení znamená **A**way **F**rom the **K**eyboard. V překladu - **vzdálen od klávesnice **(Nejsem přítomen)\
+**AFK** je chatovací ale převážně herní zkratka. Při rozložení znamená **A**way **F**rom the **K**eyboard. V překladu - **vzdálen od klávesnice** (Nejsem přítomen)\
 Rádi ji používáme, když chceme dát ostatním vědět, že jdu třeba sníst svačinu a ať ostatní vědí, že jim neodpovím, pokud na mne budou mluvit (psát).
 
 SuroCraft má příkaz `/afk` který sám dá vědět do chatu ostatním hráčům že jsi pryč.
 
 ### ASAP
 
-**ASAP** je zkratka pro **A**s **S**oon** A**s **P**ossilbe. V překladu to znamená **Co nejdříve, jak je to možné**. Dá se použít v konverzaci, když někdo po tobě chce nějakou pomoc a ty odepíšeš třeba "Jsem tam asap".
+**ASAP** je zkratka pro **A**s **S**oon **A**s **P**ossilbe. V překladu to znamená **Co nejdříve, jak je to možné**. Dá se použít v konverzaci, když někdo po tobě chce nějakou pomoc a ty odepíšeš třeba "Jsem tam asap".
 
 ### BRB
 

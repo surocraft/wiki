@@ -9,11 +9,11 @@ description: Pravidla Minecraft i Discord serveru
 &#x20;_Admin Team má plnou moc rozhodnout o vážnosti porušení pravidel a tím pádem, také určit jejich potrestání. Admin Team může trestat i kvůli vlastnímu důvodu. Samotný pověřený vyšetřoval může udělit varování, ztlumení, vyhození, dočasného zablokování, či trvalé zablokování._\
 _Připojením jak na Discord, tak Minecraft sevrer, předpokládáme že jsi si okamžitě přečetl pravidla. Připojením souhlasíš s pravidly a jejich neznalost tě absolutně neomlouvá._
 
-### Discord TOS <a href="discord-tos" id="discord-tos"></a>
+### Discord TOS <a href="#discord-tos" id="discord-tos"></a>
 
 &#x20;Přednostně dodržuj [Podmínky využívání služeb společnosti Discord](https://discord.com/terms).
 
-### Propagace, reklamy <a href="reklamy" id="reklamy"></a>
+### Propagace, reklamy <a href="#reklamy" id="reklamy"></a>
 
 Zákaz veřejného propagování jakékoliv služby, kdekoliv na serveru. Buďte slušní a nepropagujte i v soukromých zprávách.
 
@@ -22,7 +22,7 @@ Zákaz veřejného propagování jakékoliv služby, kdekoliv na serveru. Buďte
 **DM** znamená **Direct Message** - **Přímá Zpráva**
 {% endhint %}
 
-### Pornografický obsah <a href="nsfw" id="nsfw"></a>
+### Pornografický obsah <a href="#nsfw" id="nsfw"></a>
 
 &#x20;[NSFW](https://cs.m.wikipedia.org/wiki/Not\_safe\_for\_work) nebo jiný nevhodný materiál pro děti a mladistvé je povolen pouze v [threads](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ).
 
@@ -34,15 +34,15 @@ Zákaz veřejného propagování jakékoliv služby, kdekoliv na serveru. Buďte
 
 Přísný zákaz rozsáhlého spamu. Spam nedefinujeme jako 2 zprávy napsané velkými písmeny.
 
-### Komunitní chování <a href="behaviour" id="behaviour"></a>
+### Komunitní chování <a href="#behaviour" id="behaviour"></a>
 
 Buď ohleduplný k ostatním členům. Snaž se neobtěžovat, zbytečně nepingovat ostatní členy a nevyvolávat zbytečné konflikty. Příšerně přísně trestáme rasismus, xenofobii, šikanu, diskriminaci. Nemůžeme Vám přikazovat ať se držíte společně se všemi hráči a vycházet s nimi dobře. Ale je důležité respektovat toto základní chování.
 
-### Vulgarita, Mluva <a href="vulgarita" id="vulgarita"></a>
+### Vulgarita, Mluva <a href="#vulgarita" id="vulgarita"></a>
 
 Snažme se vyjadřovat co nejméně vulgárně a tak naznačit světu, že jsme správně vychováni. Sprostá mluva není zakázána, ale omezena. Jakékoliv přehánění vulgarity bude trestáno.
 
-### Cheating - Podvádění <a href="cheating" id="cheating"></a>
+### Cheating - Podvádění <a href="#cheating" id="cheating"></a>
 
 Hackovaní je špatný výraz.\
 "Černé" hackování ve zlém smyslu je podle zákona § 257a zakázáno.\
@@ -52,29 +52,29 @@ Jedná se například o ToolBox. Nezakazujeme Optifine, BadTiger, BadLion, Lunar
 Tyto klienty Vám nesmí udělovat žádné předměty, efekty, vylepšení mocí atd. Většina těchto klientů Vám jen vylepšují vzhled a hratelnost hry. Ne zlepšení oproti ostatním hráčům, proto jsou povolené. Forge, Fabric atd. jsou obecně povoleny ale pouze na stejné bázi. Je povolené užívat módy jako mapu, vylepšení hud atd. Ale je zakázáno používat módy jako x-ray a další.\
 **O instalaci klientů a módů, Vám doporučujeme konzultovat s admin teamem. Máte potom jistotu, že neporušujete pravidla.**
 
-### Griefing - Kažení hry ostatním hráčům <a href="griefing" id="griefing"></a>
+### Griefing - Kažení hry ostatním hráčům <a href="#griefing" id="griefing"></a>
 
 Není hezké ostatním hráčům kazit hru. Jsme tu od toho, aby jsme společně budovali. Griefing velmi omezujeme. Hráč, kterému jiný kazí hru získává plné právo si stěžovat admin teamu.\
 Admin team je schopný získat důkazy o poškození a ztratéch.\
 Griefing deifnujeme česky jako kažení hry a týká se kradení předmětů, ničení staveb a vytvorů, obtěžování, pronásledování, opakované zabíjení, narušování pozemků - týká se i tehdy, když druhý hráč nemá nastavený příkazem pozemek.\
 Griefing, cheating - hacking jsou ty nejhroznější případy.
 
-### Bugy, chyby <a href="bugs" id="bugs"></a>
+### Bugy, chyby <a href="#bugs" id="bugs"></a>
 
 Jakékoliv nalezení chyb (bugů), musí být co nejdříve a neprodleně nahlášeno admin teamu. Zneužívání chyb se velmi přísně trestá.
 
 {% hint style="info" %}
-Admin team můžeš kontaktovat na [Discordu](https://dsc.gg/surocraft). Třeba založ [**ticket **](../t/uzitecne.md#ticket)v kanálu **#ticket**.
+Admin team můžeš kontaktovat na [Discordu](https://dsc.gg/surocraft). Třeba založ [**ticket** ](../t/uzitecne.md#ticket)v kanálu **#ticket**.
 {% endhint %}
 
-### Sběr dat <a href="data-collection" id="data-collection"></a>
+### Sběr dat <a href="#data-collection" id="data-collection"></a>
 
 Připojením na server souhlasíš se sběrem tvých dat.\
 Neboj se, netýká se nic osobního. Nikdo tě nepřijede navštívit, pokud budeš na internetu opatrný.
 
 Pokud ti tu přijde něco zvláštního, to je dobře. Protože o sběru tvých dat by jsi se měl něco více dozvědět, nejsem tu od toho, abych tě poučoval jak se chovat na internetu, ale je opravdu důležité se věci více jak jednou kontrolovat. I v reálném životě uděláš jednu chybičku a kvůli špatné, nebo žádné kontrole a všechno se pokazí. To se stává. Já ti ale právě předvedu, jaké data o tobě shromažďujeme.
 
-Pokud se ti sběr dat nějak nezdá nebo s ním nesouhlasíš, založ [**ticket**](../t/uzitecne.md#ticket)** **a objasníme ti následný postup.
+Pokud se ti sběr dat nějak nezdá nebo s ním nesouhlasíš, založ [**ticket**](../t/uzitecne.md#ticket) **** a objasníme ti následný postup.
 
 #### Ukládané data o hráčích
 

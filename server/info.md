@@ -26,4 +26,4 @@ Na tomto odkaze můžeš hlasovat pro náš server a tak získat zdarma [Wood ra
 
 Hehe.
 
-****[**https://wiki.petyxbron.cz/**](https://wiki.petyxbron.cz)****
+****[**https://wiki.surocraft.eu/**](https://wiki.petyxbron.cz)****
