@@ -11,15 +11,15 @@
 * [🌐 Odkazy a další](server/info.md)
 * [👮 Staff](server/staff.md)
 
-## Ranky <a href="ranks" id="ranks"></a>
+## Ranky <a href="#ranks" id="ranks"></a>
 
 * [⭐ Ranky a jejich výhody](ranks/r.md)
 * [⭐ Návod k výhodám](ranks/help.md)
 
-## Návody <a href="t" id="t"></a>
+## Návody <a href="#t" id="t"></a>
 
 * [Užitečné](t/uzitecne.md)
-* [Pozemky](t/pozemky.md)
+* [Rezidence](t/res.md)
 * [Propojení účtů](t/linkaccount.md)
 * [Shopkeepers](t/shopkeepers.md)
 * [Výtahy](t/elevator.md)
