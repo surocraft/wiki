@@ -56,7 +56,14 @@ Všechny balíčky, které si můžeš zakoupit najdeš na našem [e-shopu](http
 
 Potom stačí jen vyplnit své údaje. Neboj! Neptáme se na tvoje bydliště a další osobní informace. Stačí nám jen tvoje Minecraft jméno, e-mail (který nezjistíme, jde jen o "shrnutí nákupu", odeslaný počítačem) a také je nutné se přihlásit se svým Discord účtem, aby jsi na Discord serveru dostal roli podle svého ranku.
 
-Po vyplnění informací a souhlasem s podmínkami, můžeš vybrat svojí platební metodu. Doporučujeme použít stripe, který ti umožňuje zadat svojí normální vlastní bankovní kartu, nebo použít Google Pay a další služby. Můžeš také použít PayPal, ke kterému je ale nutné se přihlásit a PayPal účet nemá každý člověk.
+Po vyplnění informací a souhlasem s podmínkami, můžeš vybrat svojí platební metodu.
+
+Podporujeme tyto platební metody:
+
+* **PayPal** účtem
+* Kreditní a debetní **karty**
+* **Google Pay**
+* **Apple Pay**
 
 Po úspěšné platbě proběhnou kouzla. Přijde ti mail s oznámením o platbě. Poté dostaneš také vlastní roli na Discord serveru. No a nakonec, to nejhlavnější... dostaneš rank ve hře :smile:! Do minuty od zakoupení by jsi měl mít na 30 dnů svůj vlastní rank.
 

@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Screenshot_481.png
+cover: .gitbook/assets/Screenshot_555.png
 coverY: 0
 ---
 
@@ -16,19 +16,21 @@ Samozřejmě, pokud je nenajdete, neváhejte založit [**ticket**](t/uzitecne.md
 
 #### Co na našem serveru najdeš?
 
-Jsme primární survival server. Vše funguje převážně vanilkově. Hmmm mňam...\
+Jsme primární survival server. Vše funguje převážně vanilkově. _Hmmm mňam..._\
 Ale aby jsme si hru trochu zlepšili a více se bavili, máme tu pár funkcí, které jsou super!
 
-#### Funkce na našem serveru (pluginy)
+#### Funkce na našem serveru, které mění gameplay:
 
 * **BlockLocker** - zabezpečení beden a více bloků
-* **Coordinates** - příkaz `/coords` pro zorbazení souřadnic na java edici ([?](server/slovnik.md#edition))
+* **Coordinates** - příkaz `/coords` pro zobrazení souřadnic na java edici ([?](server/slovnik.md#edition))
 * **DeadChest** - posmrtná bedna s inventářem
 * ****[**Elevator**](t/elevator.md)  ****  - výtahy
 * ****[**Shopkeepers**](t/shopkeepers.md) **** - vlastní vesničani pro obchodování
-* ****[**Terra**](https://www.spigotmc.org/resources/terra.85151/) - speciální generace světa&#x20;
 * **TreeGravity** - zničení stromu jedním blokem
 * **GSit** - sedání, lehání a plazení na jakémkoliv místě
+* ****[**Residence**](t/res.md) - pozemky hráčů po světě
+* ****[**ARM**](t/arm.md) - pozemky na spawnu
+* **HeadsPlus** - loot hlav mobů a hráčů při zabití
 
 ## Připojení na server <a href="#connect" id="connect"></a>
 
@@ -40,10 +42,10 @@ Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\
 **Java Edice** je pouze pro operační systémy Windows, macOS a Linux.\
 **Bedrock Edice** je určená pro mobilní zařízení a herní konzole.
 
-|          EDICE          |   Adresa Serveru  |  PORT |
-| :---------------------: | :---------------: | :---: |
-| Java Edition       1.18 |  mc.surocraft.eu  |       |
-|  Bedrock Edition 1.18.1 | mcbe.surocraft.eu | 19132 |
+|           EDICE           |   Adresa Serveru  |  PORT |
+| :-----------------------: | :---------------: | :---: |
+| Java Edition       1.18.1 |  mc.surocraft.eu  |       |
+|   Bedrock Edition 1.18.2  | mcbe.surocraft.eu | 19132 |
 
 Připojením na server souhlasíš s našimi [pravidly](server/rules.md).
 
@@ -71,13 +73,7 @@ _**Líbí se ti naše práce? Rád hraješ na serveru?**_ _**Podpoř nás prosí
 _Platit můžeš službou PayPal, nebo platební kartou._ _Je možnost i poslat peníze na bankovní účet zmíněný dole._
 
 _****_[_**Přispět zde**_](https://linktr.ee/surocraft) (Podpora platebních karet, PayPal)\
-[_**Číslo Bankovního účtu zde**_](https://tinyurl.com/yho2rv7m)\
-[_podmínky_](https://tinyurl.com/yfyhmgxr)__
-
-_Do poznámek platby mi prosím uveďte přezdívku, po které vás poznám._\
-_- jinak nezískáte odměnu_
-
-**Odměna:** Každý podporovatel získá jeden **diamantový blok**.
+[_**Zakoupit si Rank**_](https://surocraft.craftingstore.net/category/275918) _****_ (Podpora kreditních a debetních karet, Google Pay, Apple Pay, PayPal)
 
 ## Hlasování pro Server <a href="#vote" id="vote"></a>
 

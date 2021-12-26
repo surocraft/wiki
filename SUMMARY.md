@@ -20,6 +20,7 @@
 
 * [Užitečné](t/uzitecne.md)
 * [Rezidence](t/res.md)
+* [Pozemky](t/arm.md)
 * [Propojení účtů](t/linkaccount.md)
 * [Shopkeepers](t/shopkeepers.md)
 * [Výtahy](t/elevator.md)
