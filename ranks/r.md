@@ -15,7 +15,7 @@ description: List ranků a jejich výhody
 * `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
 * `/end` ([?](../t/uzitecne.md#tp))
 * `/tpr` ([?](../t/uzitecne.md#tp))
-* Možnost si zažádat o seed světa ([?](https://minecraft.fandom.com/wiki/Seed\_\(level\_generation\))) na Discord serveru
+* `/seed`
 * Možnost si sednout na jiného hráče pomocí pravého tlačítka
 * Limit 10x home
 * Nekonečná vzdálenost mezi výtahy ([?](../t/elevator.md))
