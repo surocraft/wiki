@@ -15,9 +15,10 @@ description: List ranků a jejich výhody
 * `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
 * `/end` ([?](../t/uzitecne.md#tp))
 * `/tpr` ([?](../t/uzitecne.md#tp))
+* Možnost si zažádat o seed světa ([?](https://minecraft.fandom.com/wiki/Seed\_\(level\_generation\))) na Discord serveru
 * Možnost si sednout na jiného hráče pomocí pravého tlačítka
 * Limit 10x home
-* Nekonečná vdálenost mezi výtahy ([?](../t/elevator.md))
+* Nekonečná vzdálenost mezi výtahy ([?](../t/elevator.md))
 * Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
 
