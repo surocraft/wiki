@@ -25,6 +25,16 @@ Geyser je proxy, který vytvaří most nad propastí mezi servery Minecraft: Bed
 Geyser je middleware, který překládá všechny příchozí a odchozí pakety. Geyser funguje jako samostatný proxy, což znamená, že jej můžete použít k připojení k jakémukoli modernímu serveru Minecraft Java.\
 Více na [geysermc.org](https://geysermc.org).
 
+### S5, S6, S7
+
+Co znamenají zkratky `S6`, `S7`, `S8` atd. ?\
+Jsou to zkratky pro sezónu serveru, která se většinou mění podle nové Minecraft verze.
+
+Aktuálně (Prosinec 2021) je sezóna SuroCraftu 7. To znamená, že před náma už bylo 8 sezón.\
+_Velké číslo, že?_
+
+Používáme je v orientaci mezi každou sezónou, třeba když si posíláme screenshoty. Je dobré vědět, v jaké sezóně to bylo.
+
 ## Fajn vědět
 
 ### Minecraft Bedrock/Java Edition <a href="#edition" id="edition"></a>
