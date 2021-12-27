@@ -8,43 +8,39 @@ description: Obrázky - screenshoty ze serveru
 **Chceš přispět do galerie? Založ** [**ticket**](t/uzitecne.md#ticket)**.**
 {% endhint %}
 
-![](.gitbook/assets/Screenshot\_544.png)
+![Obrázek starého spawnu \[S6\]](.gitbook/assets/Screenshot\_544.png)
 
-![](.gitbook/assets/Screenshot\_530.png)
+![Rezidence Houminov (DevilsZey, DenyIsNab, Ghostik9857)](.gitbook/assets/Screenshot\_530.png)
 
-![](.gitbook/assets/Screenshot\_533.png)
+![Náhodný obrázek přírody](.gitbook/assets/Screenshot\_533.png)
 
-![](.gitbook/assets/Screenshot\_534.png)
+![Rezidence Sušenkovice (Sehi06, Alexholoubek200)](.gitbook/assets/Screenshot\_534.png)
 
-![](.gitbook/assets/Screenshot\_536.png)
+![Hráč sedící na hlavě jiného hráče (myval2, PetyXbron)](.gitbook/assets/Screenshot\_536.png)
 
-![](.gitbook/assets/Screenshot\_537.png)
+![Obrázek náhodného hráče v přírodě](.gitbook/assets/Screenshot\_537.png)
 
-![](.gitbook/assets/Screenshot\_539.png)
+![Hráč sedící na lavičce u spawnu (PetyXbron)](.gitbook/assets/Screenshot\_539.png)
 
-![](.gitbook/assets/Screenshot\_523.png)
+![Minecraft Banner u spawnu](.gitbook/assets/Screenshot\_523.png)
 
-![](.gitbook/assets/2021-09-12\_16.30.11.png)
+![Stará base hráčů jako ocean monument (PetyXbron, Ber1s, LaganT, LosKatrynos) \[S6\]](.gitbook/assets/2021-09-12\_16.30.11.png)
 
-![](.gitbook/assets/2021-09-12\_16.31.15.png)
+![Stará base hráčů (PetyXbron, LaganT, Ber1s) \[S6\]](.gitbook/assets/2021-09-12\_16.31.15.png)
 
-![](.gitbook/assets/2021-09-12\_16.32.37.png)
+![Obrázek base \[S6\]](.gitbook/assets/2021-09-12\_16.32.37.png)
 
-![](.gitbook/assets/screenshot\_mahspy.png)
+![Obrázek přírody \[S6\]](.gitbook/assets/screenshot\_mahspy.png)
 
-![](.gitbook/assets/unknown.png)
+![Spawn place \[S6\]](.gitbook/assets/unknown.png)
 
-![](.gitbook/assets/unknown1.png)
+![Náhodný obrázek přírody pod vodou \[S6\]](.gitbook/assets/unknown1.png)
 
-![](.gitbook/assets/unknown2.png)
+![Projekt vysušování ocean monumentu \[S6\]](.gitbook/assets/unknown2.png)
 
-![](.gitbook/assets/unknown3.png)
+![Hráči v podzemí (BruticekSK, Smrtka\_sk, ppman\_SK) \[S6\]](.gitbook/assets/unknown5.jpg)
 
-![](.gitbook/assets/unknown4.jpg)
-
-![](.gitbook/assets/unknown5.jpg)
-
-![](.gitbook/assets/Screenshot\_20210911-211917\_Minecraft.png)
+![Přátelé (TenJedenHello, PetyXbron) \[S6\]](.gitbook/assets/Screenshot\_20210911-211917\_Minecraft.png)
 
 ![](<.gitbook/assets/ezgif.com-gif-maker (1).gif>)
 
