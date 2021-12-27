@@ -10,6 +10,8 @@ description: Obrázky - screenshoty ze serveru
 
 ![Vánoční spawn](.gitbook/assets/Screenshot\_560.png)
 
+![Zimní Minecraft Banner](.gitbook/assets/Screenshot\_563.png)
+
 ![Pozemky na spawnu](.gitbook/assets/Screenshot\_561.png)
 
 ![Rezidence GraysKingdom (x\_VivianGray\_x)](.gitbook/assets/Screenshot\_556.png)
@@ -19,6 +21,8 @@ description: Obrázky - screenshoty ze serveru
 ![Náhodný obrázek přírody](.gitbook/assets/Screenshot\_533.png)
 
 ![Rezidence Sušenkovice (Sehi06, Alexholoubek200)](.gitbook/assets/Screenshot\_557.png)
+
+![Hráči při běhu (Mesiac8227, Gamer78551)](.gitbook/assets/Screenshot\_562.png)
 
 ![Hráč sedící na hlavě jiného hráče (myval2, PetyXbron)](.gitbook/assets/Screenshot\_536.png)
 
