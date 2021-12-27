@@ -21,6 +21,8 @@ description: List ranků a jejich výhody
 * Nekonečná vzdálenost mezi výtahy ([?](../t/elevator.md))
 * Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
+* Limit 6 rezidence ([?](../t/res.md))
+* Max. velikost rezidence 1500x1500
 
 ### Gold
 
@@ -31,7 +33,9 @@ description: List ranků a jejich výhody
 * `/tpr` ([?](../t/uzitecne.md#tp))
 * Limit 5x home
 * Limit 100 bloků pro vytvoření výtahu ([?](../t/elevator.md))
-* Limit 10 Shopkeeperů ([?](../t/shopkeepers.md))&#x20;
+* Limit 10 Shopkeeperů ([?](../t/shopkeepers.md))
+* Limit 4 rezidence ([?](../t/res.md))
+* Max. velikost rezidence 800x800
 
 ### Iron
 
@@ -45,6 +49,8 @@ description: List ranků a jejich výhody
 * Limit 3x home
 * Limit 10 bloků pro vytvoření výtahu ([?](../t/elevator.md))
 * Limit 2 Shopkeepeři ([?](../t/shopkeepers.md))
+* Limit 2 rezidence ([?](../t/res.md))
+* Max. velikost rezidence 300x300
 
 ### Wood
 
@@ -59,6 +65,8 @@ description: List ranků a jejich výhody
 * `/tpr` ([?](../t/uzitecne.md#tp))
 * 1x home postel
 * Limit 1 Shopkeeper ([?](../t/shopkeepers.md))
+* Limit 1 rezidence ([?](../t/res.md))
+* Max. velikost rezidence 100x100
 
 ## Jak získat ranky <a href="#prices" id="prices"></a>
 
