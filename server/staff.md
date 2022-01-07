@@ -8,7 +8,8 @@ description: Známý jako Admin Team, v překladu jako Personál, Zaměstnanci, 
 
 ### PetyXbron ![](https://mc-heads.net/head/4b5a52de66a346538ba3ebdd61514c19/)
 
-_majitel serveru_
+_majitel serveru_\
+__[kontakt](https://linktr.ee/petyxbron)
 
 > Ahoj, jsem majitelem serveru SuroCraft. Jsem moc rád, že mohu vytvářet něco úžasného, co lidi baví. Na SuroCraftu jako hráč, mám nahráno 180 hodin. Ještě před tím, než jsem se stal majitelem, tak jsem tento Minecraft zbožňoval. Protože je o tom nejlepším v Minecraftu, módu přežití. A také hlavně s kamarády. Moc jsem si to užil. Ale bohužel nastali časy, kdy server vypadl a vypadalo to špatně. Abych nenechal SuroCraft "umřít" tak jsem okamžitě začal jednat. Sehnal jsem metody, jak hostovat server a vrhnul jsem se na to. Investoval jsem do serveru a myslím, že se to vyplatilo. Protože několik z vás, si to chválí. A to mě těší, od toho tu jsem. Abych vás zabavil a zabránil nudným časům válení v posteli.
 

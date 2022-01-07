@@ -6,7 +6,7 @@ Ale co když hraješ na pc a někdy si zahraješ i na mobilu?\
 **Je lepší si propojit účty k synchronizaci předmětů, bloků, brnění v inventáři nebo třeba rank atd.**
 
 {% hint style="danger" %}
-**Bedrock účtu zmizí všechny předměty z inventáře a ender bedny. Uchovejte si je.**
+**Mohou se vám ztratit věci z inventáře! Zálohujte si je i s ender bednou!**
 {% endhint %}
 
 ### Propojení

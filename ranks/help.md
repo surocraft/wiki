@@ -18,13 +18,12 @@ Později už budeš moci použít příkaz `/home end` a budeš u portálu.
 
 #### Limity podle ranku <a href="#limits-homes" id="limits-homes"></a>
 
-| Rank      | Homes  |
-| --------- | ------ |
-| Netherite | 20x    |
-| Diamond   | 5x     |
-| Gold      | 5x     |
-| Iron      | 3x     |
-| Wood      | postel |
+| Rank    | Homes  |
+| ------- | ------ |
+| Diamond | 10x    |
+| Gold    | 5x     |
+| Iron    | 3x     |
+| Wood    | postel |
 
 ****[**Wood rank** ](r.md#wood)může použít příkaz `/home`, který ho portne ke své posteli. Nemůže si nastavit vlastní, ale pokud se chceš rychle dostat domů, hodí se.
 
@@ -44,3 +43,5 @@ Je to vlastně jednoduché, před každé písmeno, které má mít jinou barvu 
 Spousta stránek ukazují znak **paragraf** - **§**.\
 Ten ale náš server nepodporuje. Nahraď do ho **ampersandem** - **&**.
 {% endhint %}
+
+Pokud si chceš nastavit přezdívku ve hře, můžeš kontaktovat [Petyho](../server/staff.md#petyxbron) na Discordu, nebo vytvořit [ticket](../t/uzitecne.md#ticket).
