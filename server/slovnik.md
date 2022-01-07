@@ -16,6 +16,14 @@ Eventy na Minecraft serverech jsou takové menší události, kde se hodně hrá
 
 Kdy přesně probíhá event? Časy eventů zveřejňujeme na našem Discord serveru ([?](slovnik.md#discord-server)), většinou v kanále s novinkami, nebo jen tak v chatu. Ale neváhej se klidně zeptat, rádi ti odpovíme, protože chápeme, že některé informace se můžou ztratit mezi dalšími.
 
+### Dynmapa
+
+DynMap je **mapa** Minecraft **světa** na webové stránce (internetu), kam se může podívat jakýkoliv hráč bez přihlášení.
+
+Na DynMapě najdeš **hýbající se hráče**, **rezidence hráčů**, **pozemky na spawnu hráčů** a **konec** (border) **světa**.
+
+Ukazujeme pouze overworld ve 2D. V netheru se stejně nejde moc orientovat a spoileruje. U endu nejde ani mluvit o spoilerování, protože tam by jste mohli najít end města s elytry.
+
 ### Geyser
 
 Laicky - Geyser je plugin na serveru který umožňuje Bedrock hráčům hrát na serveru Java. A to je náš případ.

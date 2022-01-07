@@ -29,6 +29,8 @@ Poté klikneme na 32 kůže, za které my platíme a obchod bude proveden.
 
 Nejdůležitější krok, který je třeba podstoupit k pořízení vlastního obchodníka je použití následujícího příkazu.
 
+Velmi doporučujeme znalost předchozího tématu, což umožňuje lepší orientaci v následujícím návodu.
+
 ### 1. Získání vejce shopkeepera
 
 Pomocí příkazu **`/shop`** získáš vejce, které poté můžeš někde položit k zrození vlastního vesničana.

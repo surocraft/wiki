@@ -54,6 +54,10 @@ Nevíš jak se připojit na 'speciální' server s herní konzolí?\
 Vyzkoušej aplikaci [**MC Server Connector**](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector) pro **Android**.
 {% endhint %}
 
+{% hint style="warning" %}
+Připojení s různými módy a neoficiálními klienty je nutné konzultovat s [admin týmem](server/staff.md).
+{% endhint %}
+
 #### Příklad vytvoření nového serveru do server listu v Minecraftu.
 
 {% tabs %}
