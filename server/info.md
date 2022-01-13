@@ -29,7 +29,7 @@ Dokumentace, návody a tutoriály serveru SuroCraft!
 Náš Instagramový profil!\
 Nahráváme zde různé novinky a obrázky ze serveru.
 
-[**@surocraft\_cz**](https://instagram.com/surocraft\_cz)****
+****[**@surocraft.eu**](https://www.instagram.com/surocraft.eu/)****
 
 ## [DynMapa](https://map.surocraft.eu)
 
