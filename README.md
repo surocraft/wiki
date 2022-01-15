@@ -84,6 +84,8 @@ _****_[_**Přispět zde**_](https://linktr.ee/surocraft) (Podpora platebních ka
 Proč vlastně hlasovat?\
 Hlasováním pro SuroCraft získáš rank [**Wood**](ranks/r.md#wood) na 24h!
 
+**Hlasovat pro SuroCraft můžeš přímo** [**zde**](https://minecraftpocket-servers.com/server/113005/vote/)**!**
+
 'Hlasování' je pro nás důležité.\
 Náš server se vyskytuje na známém server listu [minecraftpocket-servers.com](https://minecraftpocket-servers.com), kde je možné vidět kolik je hráčů online, jestli je vůbec server online a další informace. Děláme to kvůli tomu, aby jsme získali nové hráče.
 
