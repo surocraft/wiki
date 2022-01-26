@@ -23,4 +23,5 @@
 * [Pozemky](t/arm.md)
 * [Propojení účtů](t/linkaccount.md)
 * [Shopkeepers](t/shopkeepers.md)
+* [BlockLocker](t/blocklocker.md)
 * [Výtahy](t/elevator.md)

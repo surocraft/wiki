@@ -15,7 +15,7 @@ __[kontakt](https://linktr.ee/petyxbron)
 
 ### GamingoveCZE ![](https://mc-heads.net/head/e44289f9fa704dc9bd0e5f765fa59a0a/)
 
-_vícemajitel serveru, admin_
+_vicemajitel serveru, admin_
 
 > Mé skutečné jméno je Martin a jsem Pražák. Je mi víc než bych chtěl. A na serveru nejsem často k vidění. Mám klidnou hlavu.
 

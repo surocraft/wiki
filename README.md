@@ -21,7 +21,7 @@ Ale aby jsme si hru trochu zlepšili a více se bavili, máme tu pár funkcí, k
 
 #### Funkce na našem serveru, které mění gameplay:
 
-* **BlockLocker** - zabezpečení beden a více bloků
+* ****[**BlockLocker**](t/blocklocker.md) - zabezpečení beden a více bloků
 * **Coordinates** - příkaz `/coords` pro zobrazení souřadnic na java edici ([?](server/slovnik.md#edition))
 * **DeadChest** - posmrtná bedna s inventářem
 * ****[**Elevator**](t/elevator.md)  ****  - výtahy
