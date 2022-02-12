@@ -10,11 +10,11 @@ description: Obrázky - screenshoty ze serveru
 
 ### Aktuální
 
-![Minecraft Banner u spawnu](.gitbook/assets/Screenshot\_523.png) ![Minecraft spawn](.gitbook/assets/Screenshot\_588.png) ![Hráčské pozemky na spawnu](.gitbook/assets/Screenshot\_589.png)
+![Minecraft Banner u spawnu](.gitbook/assets/Screenshot\_523.png) ![Minecraft spawn](.gitbook/assets/Screenshot\_588.png) ![Hráčské pozemky na spawnu](.gitbook/assets/Screenshot\_593.png)
 
 ### Hráčské výtvory
 
-![Rezidence GraysKingdom (x\_VivianGray\_x)](.gitbook/assets/Screenshot\_556.png) ![Rezidence Sušenkovice (Sehi06, Alexholoubek200)](.gitbook/assets/Screenshot\_557.png) ![Rezidence AtomovyBunkr04 (TenJedenHello, Smrtka\_sk, VikyDee)](.gitbook/assets/Screenshot\_559.png)
+![Rezidence GraysKingdom (VivianGray3681)](.gitbook/assets/Screenshot\_556.png) ![Rezidence Sušenkovice (Sehi06, Alexholoubek200)](.gitbook/assets/Screenshot\_557.png) ![Rezidence AtomovyBunkr04 (TenJedenHello, Smrtka\_sk, VikyDee)](.gitbook/assets/Screenshot\_559.png) ![Rezidence Ber1s (Ber1s)](.gitbook/assets/Screenshot\_595.png) ![Rezidence GraysVillage (VivianGray3681)](.gitbook/assets/Screenshot\_597.png)
 
 ### Hráči
 
