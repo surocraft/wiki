@@ -22,7 +22,7 @@ description: Obrázky - screenshoty ze serveru
 
 ### Události
 
-![Zimní Minecraft Banner u spawnu](.gitbook/assets/Screenshot\_563.png) ![Vánoční spawn](.gitbook/assets/Screenshot\_560.png) ![Výherci Spleef eventu 29.01.2022, pořádaný Helloem](.gitbook/assets/Screenshot\_585.png) ![Výherci Boat Race eventu 06.02.2022, pořádaný Smrtkou](.gitbook/assets/Screenshot\_587.png)
+![Zimní Minecraft Banner u spawnu](.gitbook/assets/Screenshot\_563.png) ![Vánoční spawn](.gitbook/assets/Screenshot\_560.png) ![Výherci Spleef eventu 29.01.2022, pořádaný Helloem](.gitbook/assets/Screenshot\_585.png) ![Výherci Boat Race eventu 06.02.2022, pořádaný Smrtkou](.gitbook/assets/Screenshot\_587.png) ![Výherci Trident eventu 13.02.2022, pořádaný Helloem](.gitbook/assets/Screenshot\_599.png) ![Výherci Trident eventu 13.02.2022, pořádaný Helloem](.gitbook/assets/Screenshot\_600.png)
 
 ![Vánoční spawn](.gitbook/assets/Screenshot\_560.png)
 
