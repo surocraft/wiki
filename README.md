@@ -8,7 +8,7 @@ coverY: 0
 Tato wiki slouží k usnadnění tvého hledání a zároveň k uvolnění času našeho admin teamu.\
 Zde by jsi měl najít všechny důležité odpovědi.
 
-Samozřejmě, pokud je nenajdete, neváhejte založit [**ticket**](t/uzitecne.md#ticket) na [**Discord serveru**](https://dsc.gg/surocraft).
+Samozřejmě, pokud je nenajdete, neváhejte založit [**ticket**](t/uzitecne.md#ticket) na [**Discord serveru**](https://discord.gg/W4yguRbT34).
 
 {% hint style="info" %}
 **Už si dnes hlasoval pro server? Ne?! Hlasuj ihned** [**zde**](./#vote) **a získej odměnu!**
@@ -35,7 +35,7 @@ Ale aby jsme si hru trochu zlepšili a více se bavili, máme tu pár funkcí, k
 ## Připojení na server <a href="#connect" id="connect"></a>
 
 {% hint style="warning" %}
-**Je nutné se nejdříve připojit na** [**Discord server**](https://dsc.gg/surocraft)**.**
+**Je nutné se nejdříve připojit na** [**Discord server**](https://discord.gg/W4yguRbT34)**.**
 {% endhint %}
 
 Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\

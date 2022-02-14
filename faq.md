@@ -6,7 +6,7 @@ description: Často Kladené Otázky
 
 ### "Máte Discord server?"
 
-Ano! A je dokonce povinné se na něj připojit, než začneš pořádně hrát na tom Minecraft serveru. Odkaz: [dsc.gg/surocraft](https://dsc.gg/surocraft)
+Ano! A je dokonce povinné se na něj připojit, než začneš pořádně hrát na tom Minecraft serveru. Odkaz: [https://discord.gg/W4yguRbT34](https://discord.gg/W4yguRbT34)
 
 ### "Kdo je v admin týmu?"
 

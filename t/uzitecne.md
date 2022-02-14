@@ -48,7 +48,7 @@ Nevíš jak kontaktovat Admin Team? Zde máš návod.
 
 #### 1. Připojení k Discordu <a href="#discord-connect" id="discord-connect"></a>
 
-Nejdříve se musíš připojit na Discord server. Odkaz [**zde**](https://dsc.gg/surocraft).\
+Nejdříve se musíš připojit na Discord server. Odkaz [**zde**](https://discord.gg/W4yguRbT34).\
 Pokud si tak ještě neudělal, přečti si [pravidla serveru](../server/rules.md).
 
 #### 2. Založení ticketu v kanále <a href="#ticket-create" id="ticket-create"></a>

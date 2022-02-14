@@ -10,7 +10,7 @@ Nejdůležitější odkaz. Spoustu dalších informací najdeš zrovna tam.
 
 Chceš ještě víc přesvědčit? Dobře, tak se podívej na další [stránku](slovnik.md#discord-server), kde popisuji co náš Discord server přesně obsahuje.
 
-#### [discord.gg/surocraft](https://dsc.gg/surocraft)
+#### [discord.gg/surocraft](https://discord.gg/W4yguRbT34)
 
 ## [Hlasovat pro server](https://minecraftpocket-servers.com/server/113005/vote/)
 

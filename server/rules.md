@@ -64,7 +64,7 @@ Griefing, cheating - hacking jsou ty nejhroznější případy.
 Jakékoliv nalezení chyb (bugů), musí být co nejdříve a neprodleně nahlášeno admin teamu. Zneužívání chyb se velmi přísně trestá.
 
 {% hint style="info" %}
-Admin team můžeš kontaktovat na [Discordu](https://dsc.gg/surocraft). Třeba založ [**ticket** ](../t/uzitecne.md#ticket)v kanálu **#ticket**.
+Admin team můžeš kontaktovat na [Discordu](https://discord.gg/W4yguRbT34). Třeba založ [**ticket** ](../t/uzitecne.md#ticket)v kanálu **#ticket**.
 {% endhint %}
 
 ### Sběr dat <a href="#data-collection" id="data-collection"></a>
