@@ -1,5 +1,7 @@
 ---
-description: Pravidla Minecraft i Discord serveru
+description: Seznam pravidel, platících pro Minecraft, ale i Discord server
+cover: ../.gitbook/assets/banner-pravidla.png
+coverY: 0
 ---
 
 # 📕 Pravidla

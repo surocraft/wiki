@@ -1,5 +1,7 @@
 ---
-description: Obrázky - screenshoty ze serveru
+description: Galerie s obrázky (snímky obrazovek) z našeho serveru
+cover: .gitbook/assets/banner-galerie.png
+coverY: 0
 ---
 
 # 📷 GALERIE

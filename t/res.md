@@ -1,3 +1,7 @@
+---
+description: Návod na vytvoření vlastní rezidence - chráněná osobní oblast
+---
+
 # Rezidence
 
 ## Jak si vytvořit rezidenci?

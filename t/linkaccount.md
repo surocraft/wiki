@@ -1,3 +1,7 @@
+---
+description: Návod jak propojit Java a Bedrock Edition účty
+---
+
 # Propojení účtů
 
 Jak už všichni víme, SuroCraft podporuje hráče na edici Java i Bedrock.\

@@ -1,5 +1,5 @@
 ---
-description: Užitečné příkazy a triky jak si zlepšit hru.
+description: Užitečné příkazy a triky jak si zlepšit hru
 ---
 
 # Užitečné

@@ -1,5 +1,7 @@
 ---
-description: Často Kladené Otázky
+description: Seznam často kladených otázek
+cover: .gitbook/assets/banner-faq.png
+coverY: 0
 ---
 
 # ❓ FAQ
@@ -8,9 +10,11 @@ description: Často Kladené Otázky
 
 Ano! A je dokonce povinné se na něj připojit, než začneš pořádně hrát na tom Minecraft serveru. Odkaz: [https://discord.gg/W4yguRbT34](https://discord.gg/W4yguRbT34)
 
-### "Kdo je v admin týmu?"
+### "Kdo je členi týmu SuroCraft?"
 
 Všechny členy našeho staff najdeš na stránce [Staff](server/staff.md#clenove-staff). Najdeš tam i nějaké osobní slova každého člena.
+
+Co je staff? Na SuroCraftu je označujeme jako "staff". Na jiných serverech se můžeš potkat s: `Admin Team`, `AT`, `Mods` a další... Pokud nerozumíš ani jednomu z těchto aliasů, přečti si definici staff, [zde](server/staff.md#k-cemu-existuje-staff-serveru).
 
 ### "Kde mohu nahlásit nějakého člena serveru, či staff?"
 
@@ -44,11 +48,11 @@ Eventy probíhají o víkendech. V sobotu, nebo neděli. Vždy se můžeš zepta
 
 ### "Kdo server vlastní?"
 
-Momentálně majitelem je PetyXbron. Spolumajitelem je GamingoveCZE, který se také opravdu hodně podílel na vývin serveru.
+Momentálně je majitelem [PetyXbron](server/staff.md#petyxbron). Bývalým majitelem je `GamingoveCZE`, který se také opravdu hodně podílel na vývin serveru. Historicky se zapojili i: `Tommiik`, `IceZaki`, `OxiMoron`
 
 ### "Jak dostanu pozemek na spawnu?"
 
-Pozemek na spawnu stojí kredity. Jak získáš kredit? Za každý jeden hlas, dostaneš jeden kredit. Většinou pozemek na spawnu stojí 3 kredity (tedy 3 dny hlasování). Když potom kredity získáš, stačí přijít před pozemek a kliknout na ceduli s nápisem před pozemkem. Všechno se ti převede a budeš moct stavět i ničit na pozemku. Doporučujeme postavit nějaký obchod :smile:
+Pozemek na spawnu stojí [kredity](server/slovnik.md#kredity). Jak získáš [kredit](server/slovnik.md#kredity)? Za každý jeden hlas, dostaneš jeden [kredit](server/slovnik.md#kredity). Většinou pozemek na spawnu stojí 3 [kredity](server/slovnik.md#kredity) (tedy 3 dny hlasování). Když potom [kredity](server/slovnik.md#kredity) získáš, stačí přijít před pozemek a kliknout na ceduli s nápisem před pozemkem. Všechno se ti převede a budeš moct stavět i ničit na pozemku. Doporučujeme postavit nějaký obchod :smile:
 
 ### "Jak si zaplatím vlastní rank?"
 

@@ -1,3 +1,9 @@
+---
+description: Návod k výhodám SuroCraft rankům
+cover: ../.gitbook/assets/banner-návod.png
+coverY: 0
+---
+
 # ⭐ Návod k výhodám
 
 ## Příkazy

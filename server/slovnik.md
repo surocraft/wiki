@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner-slovníček.png
+coverY: 0
+---
+
 # 📖 Slovníček
 
 ## Orgány serveru
@@ -8,7 +13,7 @@ Náš Discord server je velká, velká, velká platforma, která je srdcem serve
 
 ## Server
 
-### Eventy (události)
+### Eventy (soutěže)
 
 Každý z členů staff ([?](staff.md#proc-je-na-serveru-staff)) pořádá jednou v měsíci vlastní event.
 
@@ -36,12 +41,17 @@ Více na [geysermc.org](https://geysermc.org).
 ### S5, S6, S7
 
 Co znamenají zkratky `S6`, `S7`, `S8` atd. ?\
-Jsou to zkratky pro sezónu serveru, která se většinou mění podle nové Minecraft verze.
+Jsou to zkratky pro sezónu serveru, která se mění podle resetu serveru.\
+Většinou se jedná o vydání nové Minecraft verze.
 
-Aktuálně (Prosinec 2021) je sezóna SuroCraftu 7. To znamená, že před náma už bylo 8 sezón.\
+Aktuálně (Prosinec 2021) je sezóna SuroCraftu 7. To znamená, že právě probíhá 7 sezóna.\
 _Velké číslo, že?_
 
 Používáme je v orientaci mezi každou sezónou, třeba když si posíláme screenshoty. Je dobré vědět, v jaké sezóně to bylo.
+
+### Kredity
+
+Kredity jsou naše herní měna. Lze získat i zdarma. Za každý [hlas](../#vote) totiž nedostaneš jenom rank [Wood](../ranks/r.md#wood), ale i 1K (kredit). Kredity si také můžeš vyměňovat mezi ostatními, příkazem `/pay <hráč> <částka>`.
 
 ## Fajn vědět
 
@@ -71,27 +81,6 @@ Chceš na SuroCraftu hrát s herní konzolí? **** Vyzkoušej aplikaci [**MC Ser
 
 Proč jsem použil slovo "Překvapivě"? Protože Bedrock a Java edice se spolu úplně moc nekamarádí. Já to beru jako zázrak, že někdo dokázal vůbec tyto systémy aspoň nějak propojit.\
 Ještě si pamatuji.. Vlastnil jsem pouze Bedrock server a kamarádi s Minecraftem na počítači mi posílali fotky, že se jim nejde připojit. Naše komunita tak nemohla být mohutnější a bylo to smutné.
-
-#### Seznam všech Minecraft vytvořených verzí. (Zdroj: [minecraft.net](https://help.minecraft.net/hc/en-us/articles/360034753992-Different-Minecraft-Editions))
-
-| **Name**                              | **Zařízení nebo Platforma**                                               | **Obchod**                                  | **Zakoupitelné** |
-| ------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------- | ---------------- |
-| Minecraft: Java Edition               | <ul><li>Windows</li><li>Mac</li><li>Linux </li></ul>                      | Minecraft.net                               | Ano              |
-| Minecraft pro Windows                 | <ul><li>Windows 10(a vyšší)</li><li>VR Headsety</li></ul>                 | Microsoft Store na Windows 10               | Ano              |
-| Minecraft pro Mobile Devices          | <ul><li>Apple</li><li>Android</li><li>Amazon telefony a tablety</li></ul> | Apple, Android, Amazon obchody pro aplikace | Ano              |
-| Minecraft pro Xbox                    | <ul><li>Xbox One</li><li>Xbox One X|S </li><li>Xbox Series X|S </li></ul> | Xbox Store a Microsoft Store                | Ano              |
-| Minecraft pro Nintendo Switch         | <ul><li>Nintendo Switch </li></ul>                                        | Nintendo eShop a maloobchody                | Ano              |
-| Minecraft pro PlayStation             | <ul><li>PlayStation 4</li><li>PlayStation 5 </li></ul>                    | PlayStation Store                           | Ano              |
-| Minecraft: Xbox One Edition           | <ul><li>Xbox One</li><li>Xbox One S</li><li>Xbox One X </li></ul>         | Xbox Store                                  | Ne               |
-| Minecraft: Xbox 360 Edition           | <ul><li>Xbox 360 </li></ul>                                               | Xbox Store                                  | Ne               |
-| Minecraft: PS4 Edition                | <ul><li>PlayStation 4 </li></ul>                                          | PlayStation Store a maloobchody             | Ne               |
-| Minecraft: PS3 Edition                | <ul><li>PlayStation 3 </li></ul>                                          | PlayStation Store a maloobchody             | Ne               |
-| Minecraft: PlayStation Vita Edition   | <ul><li>PlayStation Vita </li></ul>                                       | PlayStation Store a maloobchody             | Ne               |
-| Minecraft: Wii U Edition              | <ul><li>Nintendo Wii U </li></ul>                                         | Nintendo eShop                              | Ano              |
-| Minecraft: Nové Nintendo 3DS Edition  | <ul><li>New Nintendo 3DS </li></ul>                                       | Nintendo eShop                              | Ano              |
-| Minecraft: Čínská Verze               | <ul><li>Windows</li><li>zařízení Android</li><li>zařízení Apple</li></ul> | mc.163.com                                  |                  |
-| Minecraft: Education Edition          | <ul><li>Windows</li><li>iPad</li><li>Mac</li><li>Chromebook </li></ul>    | Education.minecraft.net                     | Ano              |
-| Minecraft: PI Edition                 | <ul><li>Raspberry PI </li></ul>                                           | Pi.minecraft.net                            |                  |
 
 ## Gaming
 

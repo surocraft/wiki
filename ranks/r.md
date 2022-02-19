@@ -1,5 +1,7 @@
 ---
-description: List ranků a jejich výhody
+description: Seznam SuroCraft ranků a jejich jednotlivých výhod
+cover: ../.gitbook/assets/banner-ranky.jpg
+coverY: 0
 ---
 
 # ⭐ Ranky a jejich výhody
@@ -23,6 +25,8 @@ description: List ranků a jejich výhody
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
 * Limit 6 rezidence ([?](../t/res.md))
 * Max. velikost rezidence 1500x1500
+* 24 hodin na vyzvednutí DeadChest
+* Deadchest vypadá jako ender bedna, místo normální bedny
 
 ### Gold
 
@@ -36,6 +40,7 @@ description: List ranků a jejich výhody
 * Limit 10 Shopkeeperů ([?](../t/shopkeepers.md))
 * Limit 4 rezidence ([?](../t/res.md))
 * Max. velikost rezidence 800x800
+* 14 hodin na vyzvednutí DeadChest
 
 ### Iron
 
@@ -51,6 +56,7 @@ description: List ranků a jejich výhody
 * Limit 2 Shopkeepeři ([?](../t/shopkeepers.md))
 * Limit 2 rezidence ([?](../t/res.md))
 * Max. velikost rezidence 300x300
+* 10 hodin na vyzvednutí DeadChest
 
 ### Wood
 
@@ -67,6 +73,7 @@ description: List ranků a jejich výhody
 * Limit 1 Shopkeeper ([?](../t/shopkeepers.md))
 * Limit 1 rezidence ([?](../t/res.md))
 * Max. velikost rezidence 100x100
+* 6 hodin na vyzvednutí DeadChest
 
 ## Jak získat ranky <a href="#prices" id="prices"></a>
 

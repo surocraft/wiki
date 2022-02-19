@@ -1,3 +1,7 @@
+---
+description: Návod a krátké vysvětlení na výtahy - bloky, které umožňují teleportaci v
+---
+
 # Výtahy
 
 ### Video Tutoriál <a href="#video" id="video"></a>

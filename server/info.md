@@ -1,5 +1,7 @@
 ---
-description: Užitečné odkazy a více.
+description: Stručný seznam užitečných odkazů
+cover: ../.gitbook/assets/banner-odkazy.png
+coverY: 0
 ---
 
 # 🌐 Odkazy a další
@@ -10,7 +12,7 @@ Nejdůležitější odkaz. Spoustu dalších informací najdeš zrovna tam.
 
 Chceš ještě víc přesvědčit? Dobře, tak se podívej na další [stránku](slovnik.md#discord-server), kde popisuji co náš Discord server přesně obsahuje.
 
-#### [discord.gg/surocraft](https://discord.gg/W4yguRbT34)
+#### [dsc.gg/surocraft](https://discord.gg/W4yguRbT34)
 
 ## [Hlasovat pro server](https://minecraftpocket-servers.com/server/113005/vote/)
 
@@ -18,9 +20,13 @@ Na tomto odkaze můžeš hlasovat pro náš server a tak získat zdarma [Wood ra
 
 ****[**minecraftpocket-servers.com/server/113005**](https://minecraftpocket-servers.com/server/113005/vote/)****
 
+Můžeš využít i další stránku, která je určena pro Java servery. Pokud si již hlasoval na té první, nedostaneš [Wood rank](../ranks/r.md#wood), ale aspoň se ti přičte další 1 [Kredit](slovnik.md#kredity).
+
+****[**https://minecraft-mp.com/server-s300411**](https://minecraft-mp.com/server-s300411)****
+
 ## [Dokumentace serveru](https://wiki.petyxbron.cz)
 
-Dokumentace, návody a tutoriály serveru SuroCraft!
+Dokumentace, pravidla, návody a mnohem více o serveru SuroCraft!
 
 ****[**wiki.surocraft.eu**](https://wiki.petyxbron.cz)****
 

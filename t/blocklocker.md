@@ -1,5 +1,7 @@
 ---
-description: Zabezpečení beden, dveří, pecí a další
+description: >-
+  Vysvětlení a návod na zabezpečení bedny, pece, hopperu a dalších mimo
+  rezidence
 ---
 
 # BlockLocker

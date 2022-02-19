@@ -1,5 +1,7 @@
 ---
-description: Obchodní vesničani
+description: >-
+  Vyslětelní a návod na vytvoření Shopkeepers - vesničani s nastavitelnými
+  obchodami
 ---
 
 # Shopkeepers

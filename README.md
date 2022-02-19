@@ -1,6 +1,7 @@
 ---
 cover: .gitbook/assets/Screenshot_555.png
 coverY: 0
+description: Úvodní stránka SuroCraft wiki
 ---
 
 # 📘 ÚVOD
@@ -29,8 +30,8 @@ Ale aby jsme si hru trochu zlepšili a více se bavili, máme tu pár funkcí, k
 * **TreeGravity** - zničení stromu jedním blokem
 * **GSit** - sedání, lehání a plazení na jakémkoliv místě
 * ****[**Residence**](t/res.md) - pozemky hráčů po světě
-* ****[**ARM**](t/arm.md) - pozemky na spawnu
-* **HeadsPlus** - loot hlav mobů a hráčů při zabití
+* ****[**Pozemky**](t/arm.md) - pozemky na spawnu
+* **Heads** - loot hlav mobů a hráčů při zabití
 
 ## Připojení na server <a href="#connect" id="connect"></a>
 
