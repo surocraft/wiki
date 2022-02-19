@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/banner-slovníček.png
+cover: ../.gitbook/assets/banner3-slovníček.png
 coverY: 0
 ---
 

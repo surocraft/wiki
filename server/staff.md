@@ -1,6 +1,6 @@
 ---
 description: Seznam a představení SuroCraft administrátorské týmu
-cover: ../.gitbook/assets/banner-staff.png
+cover: ../.gitbook/assets/banner3-staff.png
 coverY: 0
 ---
 

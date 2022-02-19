@@ -1,6 +1,6 @@
 ---
 description: Galerie s obrázky (snímky obrazovek) z našeho serveru
-cover: .gitbook/assets/banner-galerie.png
+cover: .gitbook/assets/banner3-galerie.png
 coverY: 0
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: Seznam pravidel, platících pro Minecraft, ale i Discord server
-cover: ../.gitbook/assets/banner-pravidla.png
+cover: ../.gitbook/assets/banner3-pravidla.png
 coverY: 0
 ---
 
