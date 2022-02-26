@@ -16,7 +16,7 @@ coverY: 0
 
 ### Hráčské výtvory
 
-![Rezidence GraysKingdom (VivianGray3681)](.gitbook/assets/Screenshot\_556.png) ![Rezidence Sušenkovice (Sehi06, Alexholoubek200)](.gitbook/assets/Screenshot\_557.png) ![Rezidence AtomovyBunkr04 (TenJedenHello, Smrtka\_sk, VikyDee)](.gitbook/assets/Screenshot\_559.png) ![Rezidence Ber1s (Ber1s)](.gitbook/assets/Screenshot\_595.png) ![Rezidence GraysVillage (VivianGray3681)](.gitbook/assets/Screenshot\_597.png)
+![Rezidence GraysKingdom (VivianGray3681)](.gitbook/assets/Screenshot\_608.png) ![Rezidence Sušenkovice (Sehi06, Alexholoubek200)](.gitbook/assets/Screenshot\_557.png) ![Rezidence AtomovyBunkr04 (TenJedenHello, Smrtka\_sk, VikyDee)](.gitbook/assets/Screenshot\_559.png) ![Rezidence Ber1s (Ber1s)](.gitbook/assets/Screenshot\_595.png) ![Rezidence GraysVillage (VivianGray3681)](.gitbook/assets/Screenshot\_597.png) ![Rezidence Sušenkovice (po rekonstrukci) (Martin\_Kawecki)](.gitbook/assets/Screenshot\_612.png)
 
 ### Hráči
 
