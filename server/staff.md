@@ -11,7 +11,7 @@ coverY: 0
 ### PetyXbron ![](https://mc-heads.net/head/4b5a52de66a346538ba3ebdd61514c19/)
 
 _majitel serveru_\
-__[kontakt](https://linktr.ee/petyxbron)
+[_kontakt_](https://linktr.ee/petyxbron)
 
 > Zdravíčko. Jsem aktuálním majitelem serveru. Jmenuji se Petr a starám se o SuroCraft. Rád pomáhám hráčům. Neskutečně mě baví tvořit komunitu a něco společně budovat. S Minecraft servery už mám zkušenost přibližně 5 let. Programuji v jazyku JavaScript a to převážně Discord boty. Ve volném čase střídám různé hry - CS:GO, HOTS, MC, GRB. Bydlím v Brně, ale jsem zamilován do obrovských měst, jako Londýn, New York, Praha a další. Server aktuálně financuji a velmi aktivně se o něho starám. Nemohu také vynechat moje nadšení v technologiích. Jak jsem zmínil, rád programuji, ale zároveň mě upravovat digitální videa a jednou bych se chtěl naučit i počítačovou grafiku. Se SuroCraftem jsem se seznámil již před rokem a ve fatální situaci jsem ho zachránil před upadnutím. S nadšením spolupracuji a vedu komunity, či týmy.
 
