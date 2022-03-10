@@ -18,11 +18,11 @@ Chceš ještě víc přesvědčit? Dobře, tak se podívej na další [stránku]
 
 Na tomto odkaze můžeš hlasovat pro náš server a tak získat zdarma [Wood rank](../ranks/r.md#wood) se spousty super výhodami a to za pusinku!
 
-****[**minecraftpocket-servers.com/server/113005**](https://minecraftpocket-servers.com/server/113005/vote/)****
+****[**l.surocraft.eu/vote1**](https://minecraftpocket-servers.com/server/113005/vote)****
 
 Můžeš využít i další stránku, která je určena pro Java servery. Pokud si již hlasoval na té první, nedostaneš [Wood rank](../ranks/r.md#wood), ale aspoň se ti přičte další 1 [Kredit](slovnik.md#kredity).
 
-****[**https://minecraft-mp.com/server-s300411**](https://minecraft-mp.com/server-s300411)****
+****[**l.surocraft.eu/vote2**](https://minecraft-mp.com/server/300411/vote/)****
 
 ## [Dokumentace serveru](https://wiki.petyxbron.cz)
 
