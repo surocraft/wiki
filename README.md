@@ -41,18 +41,14 @@ Ale aby jsme si hru trochu zlepšili a více se bavili, máme tu pár funkcí, k
 
 Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\
 **Java Edice** je pouze pro operační systémy Windows, macOS a Linux.\
-**Bedrock Edice** je určená pro mobilní zařízení a herní konzole.
+**Bedrock Edice** je určená pro mobilní zařízení a herní konzole. (Mezi nejznámější patří PE - Pocket Edition)
 
-|            EDICE           |   Adresa Serveru  |  PORT |
-| :------------------------: | :---------------: | :---: |
-| Java Edition       1.18.\* |  mc.surocraft.eu  |       |
-|   Bedrock Edition 1.18.12  | mcbe.surocraft.eu | 19132 |
+| EDICE   |       VERZE       | ADRESA SERVERU    |  PORT |
+| ------- | :---------------: | ----------------- | :---: |
+| Java    |   1.18 - 1.18.2   | mc.surocraft.eu   | 25565 |
+| Bedrock | 1.17.40 - 1.18.12 | mcbe.surocraft.eu | 19132 |
 
 Připojením na server souhlasíš s našimi [pravidly](server/rules.md).
-
-{% hint style="info" %}
-Hráči Minecraft Java Edition se mohou připojit s verzí `1.18`, `1.18.1`, `1.18.2` a nebo vyšší.
-{% endhint %}
 
 {% hint style="info" %}
 Nevíš jak se připojit na 'speciální' server s herní konzolí?\
@@ -87,12 +83,12 @@ _****_[_**Přispět zde**_](https://linktr.ee/surocraft) (Podpora platebních ka
 ## Hlasování pro Server <a href="#vote" id="vote"></a>
 
 Proč vlastně hlasovat?\
-Hlasováním pro SuroCraft získáš rank [**Wood**](ranks/r.md#wood) na 24h!
+Hlasováním pro SuroCraft získáš rank [**Wood**](ranks/r.md#wood) na 24h a také [kredity](server/slovnik.md#kredity)!
 
 **Hlasovat pro SuroCraft můžeš přímo** [**zde**](https://minecraftpocket-servers.com/server/113005/vote/)**!**
 
 'Hlasování' je pro nás důležité.\
-Náš server se vyskytuje na známém server listu [minecraftpocket-servers.com](https://minecraftpocket-servers.com), kde je možné vidět kolik je hráčů online, jestli je vůbec server online a další informace. Děláme to kvůli tomu, aby jsme získali nové hráče.
+Náš server se potom dostane na vyšší příčky a může se dostat mezi známější a hledanější server pro získaní dalších hráčů a přátel!
 
 Nebojte se, noví hráči ti akorát zlepší hru.\
 Můžeme tím rozšířit naši komunitu a tak ji zachovat aktivní, rozšiřovat obchody (viz. [Shopkeepers](t/shopkeepers.md)) a trochu si více rozradostnit radost z hraní.\

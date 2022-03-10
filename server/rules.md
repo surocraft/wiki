@@ -82,10 +82,10 @@ Pokud se ti sběr dat nějak nezdá nebo s ním nesouhlasíš, založ [**ticket*
 
 _Neukládáme žádné data o uživatelích na Discord serveru._
 
-* **Ukládáme tvou aktivitu na serveru.**\
+* **Ukládáme tvou aktivitu na Minecraft serveru.**\
   ****_Kolik času si strávil na serveru i můžeme zveřejnit s ostatními hráči._\
   A také další údaje - první datum připojení, délka hraní, délka nečinnosti, délka relace, počet relací, poslední navštívení serveru, zabití mobů, zabití hráčů, počet smrtí, položené bloky, zničené bloky a další informace co děláš ve hře.\
-  _Tím tak můžeme zjistit, kdo spáchal určité porušení pravidel a následně ho potrestat. Jedná se tak o ochranu ostatních hráčů._
+  _Tím tak můžeme zjistit, kdo spáchal určité porušení pravidel a následně ho potrestat. Jedná se tak o ochranu ostatních hráčů. Jsou proto důležité a jejich ukládání nelze zrušit, proto připojením s nimi souhlasíš._
 
 ## Jak chráníme ostatní hráče?
 

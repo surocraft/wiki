@@ -44,14 +44,16 @@ Co znamenají zkratky `S6`, `S7`, `S8` atd. ?\
 Jsou to zkratky pro sezónu serveru, která se mění podle resetu serveru.\
 Většinou se jedná o vydání nové Minecraft verze.
 
-Aktuálně (Prosinec 2021) je sezóna SuroCraftu 7. To znamená, že právě probíhá 7 sezóna.\
+Aktuálně (Únor 2022) je sezóna SuroCraftu 7. To znamená, že právě probíhá 7 sezóna.\
 _Velké číslo, že?_
 
 Používáme je v orientaci mezi každou sezónou, třeba když si posíláme screenshoty. Je dobré vědět, v jaké sezóně to bylo.
 
 ### Kredity
 
-Kredity jsou naše herní měna. Lze získat i zdarma. Za každý [hlas](../#vote) totiž nedostaneš jenom rank [Wood](../ranks/r.md#wood), ale i 1K (kredit). Kredity si také můžeš vyměňovat mezi ostatními, příkazem `/pay <hráč> <částka>`.
+Kredity jsou naše herní měna. Lze je získat i zdarma. Za každý [hlas](../#vote) totiž nedostaneš jenom rank [Wood](../ranks/r.md#wood), ale i 1K (kredit). Kredity si také můžeš vyměňovat mezi ostatními, příkazem `/pay <hráč> <částka>`.
+
+Touto měnou se dají zakoupit pozemky na spawnu, primárně určené pro obchody a nebo Iron Rank a to za 30 kreditů.
 
 ## Fajn vědět
 
@@ -81,6 +83,10 @@ Chceš na SuroCraftu hrát s herní konzolí? **** Vyzkoušej aplikaci [**MC Ser
 
 Proč jsem použil slovo "Překvapivě"? Protože Bedrock a Java edice se spolu úplně moc nekamarádí. Já to beru jako zázrak, že někdo dokázal vůbec tyto systémy aspoň nějak propojit.\
 Ještě si pamatuji.. Vlastnil jsem pouze Bedrock server a kamarádi s Minecraftem na počítači mi posílali fotky, že se jim nejde připojit. Naše komunita tak nemohla být mohutnější a bylo to smutné.
+
+### DB
+
+Co to znamená **DB**? No přece **D**iamond **B**lok(y)! Tato zkratka pomáhá hráčům rychleji a jednodušeji komunikovat. Obchody většinou probíhají s diamanty, které se označují jako "**dia**" a nebo diamantovými bloky, které označujeme jako "**db**".
 
 ## Gaming
 
