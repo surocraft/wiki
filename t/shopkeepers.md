@@ -19,7 +19,7 @@ Dáte jeden dia, získáte stak ([?](https://minecraft.fandom.com/wiki/Inventory
 
 Pokud samozřejmě chceš něco ze zásob koupit, musíš vložit do prvního okénka jeho cenu. V našem případě, musíme dát jeden diamant, abychom koupili 32 kůže.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 Poté klikneme na 32 kůže, za které my platíme a obchod bude proveden.
 

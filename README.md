@@ -1,7 +1,7 @@
 ---
+description: Úvodní stránka SuroCraft wiki
 cover: .gitbook/assets/Screenshot_555.png
 coverY: 0
-description: Úvodní stránka SuroCraft wiki
 ---
 
 # 📘 ÚVOD
@@ -48,7 +48,7 @@ Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\
 | Java    |   1.18 - 1.18.2   | mc.surocraft.eu   | 25565 |
 | Bedrock | 1.17.40 - 1.18.12 | mcbe.surocraft.eu | 19132 |
 
-Připojením na server souhlasíš s našimi [pravidly](server/rules.md).
+Připojením na server souhlasíš s našimi [pravidly](server/rules/).
 
 {% hint style="info" %}
 Nevíš jak se připojit na 'speciální' server s herní konzolí?\
@@ -92,4 +92,4 @@ Náš server se potom dostane na vyšší příčky a může se dostat mezi zná
 
 Nebojte se, noví hráči ti akorát zlepší hru.\
 Můžeme tím rozšířit naši komunitu a tak ji zachovat aktivní, rozšiřovat obchody (viz. [Shopkeepers](t/shopkeepers.md)) a trochu si více rozradostnit radost z hraní.\
-Pokud nový hráč ti nějak začne kazit hru _(to je_ [_pravidlo_](server/rules.md#griefing) _mimochodem)_ neváhej založit [**ticket**](t/uzitecne.md#ticket). [Ukládáme data ](server/rules.md#ukladane-data-o-hracich)o činnosti hráčů ve hře a tak zjistíme, kdo ti někdo něco rozbil a dokonce i kdy.
+Pokud nový hráč ti nějak začne kazit hru _(to je_ [_pravidlo_](server/rules/#griefing) _mimochodem)_ neváhej založit [**ticket**](t/uzitecne.md#ticket). [Ukládáme data ](server/rules/#ukladane-data-o-hracich)o činnosti hráčů ve hře a tak zjistíme, kdo ti někdo něco rozbil a dokonce i kdy.
