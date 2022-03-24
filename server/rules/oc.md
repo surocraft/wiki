@@ -6,11 +6,11 @@ description: Seznam obecných pravidel pro všechny platformy a jejich uživatel
 
 ## 1.1 Chování ke [staff](../staff.md) <a href="#1.1" id="1.1"></a>
 
-### 1.1.1 Respektování [staff](../staff.md) <a href="#1.1" id="1.1"></a>
+### 1.1.1 Respektování [staff](../staff.md) <a href="#1.1.1" id="1.1.1"></a>
 
 Hráči jsou povinni respektovat rozhodnutí [admin teamu SuroCraft](../staff.md) a postupovat podle jejich nařízení k lepšímu průběhu řešení problémů na serveru. Nevhodné chování ke [staff](../staff.md) je trestáno.
 
-### 1.1.2 Poskytování informací [staff](../staff.md) <a href="#1.1" id="1.1"></a>
+### 1.1.2 Poskytování informací [staff](../staff.md) <a href="#1.1.2" id="1.1.2"></a>
 
 K co nejjednoduššímu řešení problémů na serveru je nutné poskytovat [admin teamu](../staff.md) pouze pravdu a rozvíjet obsah zpráv co nejvíce. Lhaní naším zaměstnancům není prospěšné a pravda se později odhalí.
 
@@ -43,6 +43,6 @@ Je zakázáno odesílat objemný tok textu a opakované posílání totožné zp
 
 Buď ohleduplný k ostatním členům. Snaž se neobtěžovat, zbytečně neoznačovat ostatní členy a nevyvolávat zbytečné konflikty. Přísně trestáme rasismus, xenofobii, šikanu, diskriminaci. Nemůžeme vám přikazovat ať se držíte společně se všemi hráči a vycházet s nimi dobře. Ale je důležité respektovat toto základní chování.
 
-### 1.2.4 Vulgarita, Mluva <a href="#1.2.4" id="1.2.4"></a>
+### 1.2.5 Vulgarita, Mluva <a href="#1.2.5" id="1.2.5"></a>
 
 Snažme se vyjadřovat co nejméně vulgárně, a tak naznačit světu, že jsme slušně vychováni. Sprostá mluva není zakázána, ale omezena. Jakékoliv přehánění vulgarity bude trestáno.
