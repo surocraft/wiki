@@ -1,7 +1,5 @@
 ---
 description: Stručný seznam užitečných odkazů
-cover: ../.gitbook/assets/banner3-odkazy.png
-coverY: 0
 ---
 
 # 🌐 Odkazy a další

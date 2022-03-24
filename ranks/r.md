@@ -1,7 +1,5 @@
 ---
 description: Seznam SuroCraft ranků a jejich jednotlivých výhod
-cover: ../.gitbook/assets/banner3-ranky.png
-coverY: 0
 ---
 
 # ⭐ Ranky a jejich výhody

@@ -1,7 +1,5 @@
 ---
 description: Seznam často kladených otázek
-cover: .gitbook/assets/banner3-faq.png
-coverY: 0
 ---
 
 # ❓ FAQ

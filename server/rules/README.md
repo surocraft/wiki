@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/banner3-pravidla.png
-coverY: 0
----
-
 # 📕 Pravidla
 
 ## Pravidla

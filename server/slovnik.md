@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/banner3-slovníček.png
-coverY: 0
----
-
 # 📖 Slovníček
 
 ## Orgány serveru
