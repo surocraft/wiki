@@ -10,22 +10,22 @@ description: >-
 
 Shopkeepeři jsou vesničani, či jiné entity, přes které se dá obchodovat jako s normální vesničanem, akorát ty obchody si můžete nastavit a vytvořit tak vlastní obchod na systému vlastního vesničana. Na této stránce také najdete [tutoriál](shopkeepers.md#tutorial), jak ho můžete vytvořit.
 
-![Obchodové menu Shopkeepera (Java Edition)](../.gitbook/assets/sc\_shopkeeper\_robert.png)
+![Obchodové menu Shopkeepera (Java Edition)](<../.gitbook/assets/image (2).png>)
 
 Vypadá vlastně úplně stejně jako normální vesničan.\
 Dáte jeden dia, získáte stak ([?](https://minecraft.fandom.com/wiki/Inventory#Slots)) vlny. Pokud zboží dojde, zobrazí se u jednotlivých obchodů křížek, který znamená, že nelze obchodovat - došli zásoby.
 
-![Ukázka došlého zboží](../.gitbook/assets/sc\_shopkeepers-trades.png)
+![Ukázka došlého zboží](<../.gitbook/assets/image (4).png>)
 
 Pokud samozřejmě chceš něco ze zásob koupit, musíš vložit do prvního okénka jeho cenu. V našem případě, musíme dát jeden diamant, abychom koupili 32 kůže.
 
-![](../.gitbook/assets/sc\_shopkeepers-vymena.png)
+![](<../.gitbook/assets/image (5).png>)
 
 Poté klikneme na 32 kůže, za které my platíme a obchod bude proveden.
 
 #### GIF Ukázka
 
-![](../.gitbook/assets/sc\_shopkeeper\_igor.gif)
+![](../.gitbook/assets/ezgif.com-gif-maker1.gif)
 
 ## Návod <a href="#tutorial" id="tutorial"></a>
 
@@ -68,7 +68,7 @@ Zde můžeš upravit vesničanovu profesi, vzhled, věk, jméno a další.
 Po spawnutí obchodníka je možné vstoupit do menu úpravy pomocí **plížení** (`shift`) a kliknutí **pravým tlačítkem** (na telefonu mířit na vesničana a podržet displej) na vesničana.
 
 V **menu úprav** je možné nastavit jednotlivé obchody. Tento obrázek (v angličtině) ti umožní orientaci v menu.\
-![](../.gitbook/assets/sc\_shopkeepers-nastaveni.png)\
+![](<../.gitbook/assets/image (6).png>)\
 Při výměnném typu obchodu přidáváme do řádku (**result**) předmět, nebo blok, který prodáváme.\
 Do třetího řádku (**Cost 1**) vkládáme hlavní cenu. Například nějaké diamanty.\
 Druhý řádek (**Cost 2**) umožňuje nastavit dokonce ještě další cenu pro získání produktu.

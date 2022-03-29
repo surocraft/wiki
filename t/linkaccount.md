@@ -17,7 +17,7 @@ Ale co když hraješ na pc a někdy si zahraješ i na mobilu?\
 
 #### Otevři v internetovém prohlížeči stránku [link.geysermc.org](https://link.geysermc.org/start.html)
 
-![](../.gitbook/assets/sc\_geyser-linkaccounts.png)
+![](../.gitbook/assets/image.png)
 
 * Pokud máš propojený java účet s Microsoft účtem, zvol '**Online linking**' a řiď se instrukcemi z webu.
 * Pokud ne a máš pořád Mojang účet, zvol možnost '**Server linking**'.\

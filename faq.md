@@ -24,7 +24,7 @@ Ano. Je možné si propojit Bedrock ([?](server/slovnik.md#edition)) a Java ([?]
 
 ### "Jak se dostanu na survival?"
 
-Všechno celé je survival. Po prvním připojení se objevíš na našem spawnu. Potom musíš pěšky odejít a najít si svojí krajinu. No a nebo hlasuj ([**↗**](https://minecraftpocket-servers.com/server/113005/vote/)) pro server a použij příkaz `/tpr` ([?](t/uzitecne.md#tp)).
+Všechno celé je survival. Po prvním připojení se objevíš na našem spawnu. Potom musíš pěšky odejít a najít si svoji krajinu. No anebo hlasuj ([**↗**](https://minecraftpocket-servers.com/server/113005/vote/)) pro server a použij příkaz `/tpr` ([?](t/uzitecne.md#tp)).
 
 ### "Jak získám nějaký rank?"
 
@@ -67,7 +67,9 @@ Podporujeme tyto platební metody:
 * **Google Pay**
 * **Apple Pay**
 
-Po úspěšné platbě proběhnou kouzla. Přijde ti mail s oznámením o platbě. Poté dostaneš také vlastní roli na Discord serveru. No a nakonec, to nejhlavnější... dostaneš rank ve hře :smile:! Do minuty od zakoupení by jsi měl mít na 30 dnů svůj vlastní rank.
+Nabízíme ale také individuální řešení. O platbách různými metodami jsme ochotni konzultovat v ticketu ([?](t/uzitecne.md#ticket)), na [Discord serveru](server/slovnik.md#discord-server). Například **SMS platby**, **PaySafeCard kód** a případně další.
+
+Po úspěšné platbě proběhnou kouzla. Přijde ti mail s oznámením o platbě. Poté dostaneš také vlastní roli na Discord serveru. No a nakonec, to nejhlavnější... dostaneš rank ve hře :smile:! Do minuty od zakoupení bys měl mít na 30 dnů svůj vlastní rank.
 
 V jakémkoliv neznámém případě, náš neváhej kontaktovat na našem [Discord serveru](server/slovnik.md#discord-server), nejlépe založ ticket ([?](t/uzitecne.md#ticket)). Moc rádi a ochotně ti pomůžeme.
 

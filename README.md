@@ -1,6 +1,6 @@
 ---
 description: Úvodní stránka SuroCraft wiki
-cover: .gitbook/assets/Screenshot_555.png
+cover: .gitbook/assets/Screenshot_523.png
 coverY: 0
 ---
 
@@ -85,9 +85,11 @@ _****_[_**Přispět zde**_](https://linktr.ee/surocraft) (Podpora platebních ka
 Proč vlastně hlasovat?\
 Hlasováním pro SuroCraft získáš rank [**Wood**](ranks/r.md#wood) na 24h a také [kredity](server/slovnik.md#kredity)!
 
-**Hlasovat pro SuroCraft můžeš přímo** [**zde**](https://minecraftpocket-servers.com/server/113005/vote/)**!**
+**Hlasovat pro SuroCraft můžeš na:**\
+:one:Hlavní stránce [**zde**](https://minecraftpocket-servers.com/server/113005/vote)\
+:two:Druhé stránce [**zde**](https://minecraft-mp.com/server/300411/vote)****
 
-'Hlasování' je pro nás důležité.\
+'Hlasování' je pro nás důležité. :first\_place:\
 Náš server se potom dostane na vyšší příčky a může se dostat mezi známější a hledanější server pro získaní dalších hráčů a přátel!
 
 Nebojte se, noví hráči ti akorát zlepší hru.\
