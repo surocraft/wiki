@@ -179,7 +179,7 @@ Tam si můžeš v záložce kategorií zvolit [kategorii ranky](https://surocraf
 | Iron ![](<../.gitbook/assets/SC\_iron-rank (1).png>)                                                                                                     | 25Kč (\~ 1,02€)         | 30 dnů       |
 | <mark style="color:yellow;">Gold</mark> <mark style="color:orange;"></mark> ![](../.gitbook/assets/SC\_gold-rank.png)<mark style="color:orange;"></mark> | 50Kč (\~ 2,05€)         | 30 dnů       |
 | <mark style="color:blue;">Diamond</mark> ![](<../.gitbook/assets/SC\_diamond-rank (2).png>)<mark style="color:blue;"></mark>                             | 100Kč (\~ 4,09€)        | 30 dnů       |
-| <mark style="color:green;">Diamond</mark> ![](../.gitbook/assets/SC\_emerald-rank.png)<mark style="color:green;"></mark>                                 | 200Kč (\~ 8,19€)        | 30 dnů       |
+| <mark style="color:green;">Emerald</mark> ![](../.gitbook/assets/SC\_emerald-rank.png)<mark style="color:green;"></mark>                                 | 200Kč (\~ 8,19€)        | 30 dnů       |
 
 _Před zakoupením ranku je nutné souhlasit s podmínkami služeb._\
 _Ceny jsou uvedeny pouze v korunách českých (převod měn zařizuje platební brána)._
