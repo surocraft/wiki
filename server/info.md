@@ -52,3 +52,9 @@ Více o rancích na jiné stránce.
 {% endcontent-ref %}
 
 ****[**surocraft.craftingstore.net**](https://surocraft.craftingstore.net/category/275918)****
+
+## [E-Mail](mailto:business@surocraft.eu)
+
+Firemní mailová schránka.
+
+[business@surocraft.eu](mailto:business@surocraft.eu)

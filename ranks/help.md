@@ -49,3 +49,12 @@ Ten ale náš server nepodporuje. Nahraď do ho **ampersandem** - **&**.
 {% endhint %}
 
 Pokud si chceš nastavit přezdívku ve hře, můžeš kontaktovat [Petyho](../server/staff.md#petyxbron) na Discordu, nebo vytvořit [ticket](../t/uzitecne.md#ticket).
+
+### Barevná přezdívka
+
+* [x] **Rank Diamond+**
+
+Barevnou přezdívku si můžeš vyžádat od [staff](../server/staff.md), třeba v [ticketu](../t/uzitecne.md#ticket).\
+Nabízíme tyto barvy:
+
+![](../.gitbook/assets/MC\_colors.png)
