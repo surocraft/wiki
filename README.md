@@ -1,6 +1,6 @@
 ---
 description: Úvodní stránka SuroCraft wiki
-cover: .gitbook/assets/Screenshot_523.png
+cover: .gitbook/assets/SC_banner-night.png
 coverY: 0
 ---
 
