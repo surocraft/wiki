@@ -8,7 +8,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 ### Emerald ![](../.gitbook/assets/SC\_emerald-rank.png)
 
-* `/kit emerald` (Udělí ti ULTRA FLEX :sunglasses: nezískatelné nástroje a brnění)
+* `/kit emerald` (Udělí ti ULTRA FLEX :sunglasses: a OP nástroje s brněním)
 * `/spin` (Spustí animaci točení hráče, jako s trojzubcem)
 * `/fly`
 * Limit 20x home
@@ -36,7 +36,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 * DeadChest vypadá jako ender bedna, místo normální bedny
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
 * Barevná přezdívka ([?](help.md#barevna-prezdivka))
-* `/kit emerald` (Udělí ti ULTRA FLEX :sunglasses: nezískatelné nástroje a brnění)
+* `/kit emerald` (Udělí ti ULTRA FLEX :sunglasses: a OP nástroje s brněním)
 * `/spin` (Spustí animaci točení hráče, jako s trojzubcem)
 * Limit 20x home
 * Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
