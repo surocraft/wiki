@@ -10,6 +10,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 * `/kit emerald` (Udělí ti ULTRA FLEX :sunglasses: nezískatelné nástroje a brnění)
 * `/spin` (Spustí animaci točení hráče, jako s trojzubcem)
+* `/fly`
 * Limit 20x home
 * Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
 * Limit 10 rezidencí ([?](../t/res.md))
