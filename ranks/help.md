@@ -54,7 +54,11 @@ Pokud si chceš nastavit přezdívku ve hře, můžeš kontaktovat [Petyho](../s
 
 * [x] **Rank Diamond+**
 
-Barevnou přezdívku si můžeš vyžádat od [staff](../server/staff.md), třeba v [ticketu](../t/uzitecne.md#ticket).\
-Nabízíme tyto barvy:
+Barvu přezdívky si můžeš změnit pomocí nového příkazu **`/barva`**.\
+Můžeš použít například: `/barva a` `/barva 4` `/barva f`
+
+Alternativně si můžeš změnu barvy herní přezdívky vyžádat od [staff](../server/staff.md), třeba v [ticketu](../t/uzitecne.md#ticket).
+
+Nabízíme tyto barvy: (zadávej bez znaku `&`)
 
 ![](../.gitbook/assets/MC\_colors.png)
