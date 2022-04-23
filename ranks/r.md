@@ -6,7 +6,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 ## Výhody
 
-### Emerald ![](../.gitbook/assets/SC\_emerald-rank.png)
+### Emerald <img src="../.gitbook/assets/SC_emerald-rank.png" alt="" data-size="line">
 
 * `/kit emerald` (Udělí ti ULTRA FLEX :sunglasses: a OP nástroje s brněním)
 * `/spin` (Spustí animaci točení hráče, jako s trojzubcem)
@@ -20,7 +20,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 <details>
 
-<summary>Zobrazit všechny výhody Emerald Ranku <img src="../.gitbook/assets/SC_emerald-rank.png" alt=""></summary>
+<summary>Zobrazit všechny výhody Emerald Ranku <img src="../.gitbook/assets/SC_emerald-rank.png" alt="" data-size="line"></summary>
 
 * `/back` (Vrátí tě na místo, kde jsi umřel, nebo odkud si byl naposledy teleportován)
 * `/hat` (Drž v ruce blok, který si chceš nasadit na hlavu)
@@ -46,7 +46,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 </details>
 
-### Diamond ![](../.gitbook/assets/SC\_diamond-rank.png)
+### Diamond <img src="../.gitbook/assets/SC_diamond-rank.png" alt="" data-size="line">
 
 * `/back` (Vrátí tě na místo, kde jsi umřel, nebo odkud si byl naposledy teleportován)
 * `/hat` (Drž v ruce blok, který si chceš nasadit na hlavu)
@@ -63,7 +63,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 <details>
 
-<summary>Zobrazit všechny výhody Diamond Ranku <img src="../.gitbook/assets/SC_diamond-rank.png" alt=""></summary>
+<summary>Zobrazit všechny výhody Diamond Ranku <img src="../.gitbook/assets/SC_diamond-rank.png" alt="" data-size="line"></summary>
 
 * `/back` (Vrátí tě na místo, kde jsi umřel, nebo odkud si byl naposledy teleportován)
 * `/hat` (Drž v ruce blok, který si chceš nasadit na hlavu)
@@ -88,7 +88,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 </details>
 
-### Gold ![](<../.gitbook/assets/SC\_gold-rank (1).png>)
+### Gold <img src="../.gitbook/assets/SC_gold-rank (1).png" alt="" data-size="line">
 
 * `/enderchest` (Otevře ender bednu)
 * `/anvil` (Otevře kovadlinu)
@@ -102,7 +102,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 <details>
 
-<summary>Zobrazit všechny výhody Gold Ranku <img src="../.gitbook/assets/SC_gold-rank (1).png" alt=""></summary>
+<summary>Zobrazit všechny výhody Gold Ranku <img src="../.gitbook/assets/SC_gold-rank (1).png" alt="" data-size="line"></summary>
 
 * `/anvil` (Otevře kovadlinu)
 * `/enderchest` (Otevře ender bednu)
@@ -120,7 +120,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 </details>
 
-### Iron ![](../.gitbook/assets/SC\_iron-rank.png)
+### Iron <img src="../.gitbook/assets/SC_iron-rank.png" alt="" data-size="line">
 
 * `/kit iron` (Udělí ti Iron kit nástroje a brnění)
 * `/nick` (Změní ti jméno v chatu)
@@ -134,7 +134,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 <details>
 
-<summary>Zobrazit všechny výhody Iron Ranku <img src="../.gitbook/assets/SC_iron-rank.png" alt=""></summary>
+<summary>Zobrazit všechny výhody Iron Ranku <img src="../.gitbook/assets/SC_iron-rank.png" alt="" data-size="line"></summary>
 
 * `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
 * `/end` ([?](../t/uzitecne.md#tp))
@@ -149,7 +149,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 </details>
 
-### Wood ![](<../.gitbook/assets/SC\_wood-rank (1).png>)
+### Wood <img src="../.gitbook/assets/SC_wood-rank (1).png" alt="" data-size="line">
 
 **Rank za vote** ([?](../#vote)).
 
@@ -174,13 +174,13 @@ Tam si můžeš v záložce kategorií zvolit [kategorii ranky](https://surocraf
 
 #### CENY RANKŮ
 
-| **Rank**                                                                                                                                                 | **Cena**                | **Platnost** |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------ |
-| <mark style="color:orange;">Wood</mark> <mark style="color:green;"></mark> ![](../.gitbook/assets/SC\_wood-rank.png)<mark style="color:green;"></mark>   | Za vote ([?](../#vote)) | 24 hodin     |
-| Iron ![](<../.gitbook/assets/SC\_iron-rank (1).png>)                                                                                                     | 25Kč (\~ 1,02€)         | 30 dnů       |
-| <mark style="color:yellow;">Gold</mark> <mark style="color:orange;"></mark> ![](../.gitbook/assets/SC\_gold-rank.png)<mark style="color:orange;"></mark> | 50Kč (\~ 2,05€)         | 30 dnů       |
-| <mark style="color:blue;">Diamond</mark> ![](<../.gitbook/assets/SC\_diamond-rank (2).png>)<mark style="color:blue;"></mark>                             | 100Kč (\~ 4,09€)        | 30 dnů       |
-| <mark style="color:green;">Emerald</mark> ![](../.gitbook/assets/SC\_emerald-rank.png)<mark style="color:green;"></mark>                                 | 200Kč (\~ 8,19€)        | 30 dnů       |
+| **Rank**                                                                                                                                                                               | **Cena**                | **Platnost** |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------ |
+| <mark style="color:orange;">Wood</mark> <mark style="color:green;"></mark> <img src="../.gitbook/assets/SC_wood-rank.png" alt="" data-size="line"><mark style="color:green;"></mark>   | Za vote ([?](../#vote)) | 24 hodin     |
+| Iron <img src="../.gitbook/assets/SC_iron-rank (1).png" alt="" data-size="line">                                                                                                       | 25Kč (\~ 1,02€)         | 30 dnů       |
+| <mark style="color:yellow;">Gold</mark> <mark style="color:orange;"></mark> <img src="../.gitbook/assets/SC_gold-rank.png" alt="" data-size="line"><mark style="color:orange;"></mark> | 50Kč (\~ 2,05€)         | 30 dnů       |
+| <mark style="color:blue;">Diamond</mark> <img src="../.gitbook/assets/SC_diamond-rank (2).png" alt="" data-size="line"><mark style="color:blue;"></mark>                               | 100Kč (\~ 4,09€)        | 30 dnů       |
+| <mark style="color:green;">Emerald</mark> <img src="../.gitbook/assets/SC_emerald-rank.png" alt="" data-size="line"><mark style="color:green;"></mark>                                 | 200Kč (\~ 8,19€)        | 30 dnů       |
 
 _Před zakoupením ranku je nutné souhlasit s podmínkami služeb._\
 _Ceny jsou uvedeny pouze v korunách českých (převod měn zařizuje platební brána)._

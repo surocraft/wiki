@@ -8,6 +8,10 @@ description: Návod a krátké vysvětlení na výtahy - bloky, které umožňuj
 
 {% embed url="https://www.youtube.com/watch?v=DUolycWIaKw" %}
 
+{% hint style="warning" %}
+**Příkaz `/elevator create` byl zrušen a je podporována jen manuální tvorba.**
+{% endhint %}
+
 ### Jak fungují? <a href="#how" id="how"></a>
 
 Není to žádná stoupající a klesající plošina jako v reálném životě. Je to jednodušší. Výtah tu funguje jako teleportace mezi dvěma nebo více [určitými](elevator.md#kombinace) bloky.
