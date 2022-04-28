@@ -41,7 +41,9 @@ __[Instagram <img src="../.gitbook/assets/icon_Instagram.png" alt="" data-size="
 _velký eventer, hráčská asistence a hráč s nejvíce nahranými hodinami_\
 __[Instagram <img src="../.gitbook/assets/icon_Instagram.png" alt="" data-size="line">](https://instagram.com/lukas\_polivka)
 
->
+> Ahoj jmenuji se Lukáš, je mi 20 let. Na serveru hraji pod přezdívkou - CzechBurger. Mojí prací na serveru je udržovat a starat se o chod serveru jak po komunitní tak po funkční stránce. Hraji jen na tomto MC serveru na kterém bych do konce sezóny chtěl nahrát 1 000 hodin. Jsem pouze mobilní (Bedrock) hráč. Krom MC občas hraji Counter-Strike, World of Tanks. Mezi moje zájmy patří hraní her a ježdění na kole. \
+> Těším se na vás na SuroCraftu,\
+> CzechBurger :)
 
 ## K čemu existuje staff serveru?
 
