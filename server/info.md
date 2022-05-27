@@ -18,9 +18,10 @@ Na tomto odkaze můžeš hlasovat pro náš server a tak získat zdarma [Wood ra
 
 ****[**l.surocraft.eu/vote1**](https://minecraftpocket-servers.com/server/113005/vote)****
 
-Můžeš využít i další stránku, která je určena pro Java servery. Pokud si již hlasoval na té první, nedostaneš [Wood rank](../ranks/r.md#wood), ale aspoň se ti přičte další 1 [Kredit](slovnik.md#kredity).
+Můžeš využít i další stránky, které je určené pro Java servery. Pokud si již hlasoval na té první, nedostaneš [Wood rank](../ranks/r.md#wood), ale přičte se ti další 1 [Kredit](slovnik.md#kredity).
 
-****[**l.surocraft.eu/vote2**](https://minecraft-mp.com/server/300411/vote/)****
+****[**l.surocraft.eu/vote2**](https://minecraft-mp.com/server/300411/vote/)****\
+****[**l.surocraft.eu/vote3**](http://l.surocraft.eu/vote3)****
 
 ## [Dokumentace serveru](https://wiki.petyxbron.cz)
 
@@ -35,7 +36,7 @@ Nahráváme zde různé novinky a obrázky ze serveru.
 
 ****[**@surocraft.eu**](https://www.instagram.com/surocraft.eu/)****
 
-## [DynMapa](https://map.surocraft.eu)
+## [DynMapa](https://map.surocraft.eu/)
 
 DynMapa zobrazuje mapu našeho survival světa ze serveru.\
 Najdeš zde pohybující se hráče, rezidence a pozemky na spawnu.

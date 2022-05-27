@@ -34,7 +34,7 @@ __[Instagram <img src="../.gitbook/assets/icon_Instagram.png" alt="" data-size="
 _stavitelka, hráčská podpora a kreativní tvůrce_\
 __[Instagram <img src="../.gitbook/assets/icon_Instagram.png" alt="" data-size="line">](https://www.instagram.com/vaclavikovanikol/)
 
->
+> Zdravím, jmenuji se Nikola, ve hře hraji pod jménem o0\_Psychogirl\_0o. Je mi 17 let. Jsem z Ostravy i když to nemusí být z mého hlasu znát. Hraji na Javě. Kromě Minecraftu si s radostí zahraji i jiné hry typu CS:GO, Dead by Daylight, Phasmophobia, Rocket League. Mimo hraní her, taky ráda vařím, peču, kreslím, zpívám a sleduji filmy. 😉
 
 ### CzechBurger <img src="https://mc-heads.net/head/8d3b8c4976210b4482c2b92f32d8f8612f66215b7dabb7f1401bdb08e575efeb/" alt="" data-size="line">
 
