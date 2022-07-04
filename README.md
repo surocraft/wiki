@@ -43,10 +43,10 @@ Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\
 **Java Edice** je pouze pro operační systémy Windows, macOS a Linux.\
 **Bedrock Edice** je určená pro mobilní zařízení a herní konzole. (Mezi nejznámější patří PE - Pocket Edition)
 
-| EDICE   |       VERZE       | ADRESA SERVERU    |  PORT |
-| ------- | :---------------: | ----------------- | :---: |
-| Java    |   1.18 - 1.18.2   | mc.surocraft.eu   | 25565 |
-| Bedrock | 1.17.40 - 1.18.12 | mcbe.surocraft.eu | 19132 |
+| EDICE   |      VERZE     | ADRESA SERVERU    |  PORT |
+| ------- | :------------: | ----------------- | :---: |
+| Java    |      1.19      | mc.surocraft.eu   | 25565 |
+| Bedrock | 1.19. - 1.19.2 | mcbe.surocraft.eu | 19132 |
 
 Připojením na server souhlasíš s našimi [pravidly](server/rules/).
 

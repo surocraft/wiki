@@ -31,7 +31,7 @@ Laicky - Geyser je plugin na serveru který umožňuje Bedrock hráčům hrát n
 Geyser je proxy, který vytvaří most nad propastí mezi servery Minecraft: Bedrock Edition a Minecraft: Java Edition. Konečným cílem tohoto projektu je umožnit uživatelům Minecraft: Bedrock Edition připojit se k serverům Minecraft: Java Edition tak hladce, jak je to jen možné, a umožnit tak skutečnou platformu.
 
 Geyser je middleware, který překládá všechny příchozí a odchozí pakety. Geyser funguje jako samostatný proxy, což znamená, že jej můžete použít k připojení k jakémukoli modernímu serveru Minecraft Java.\
-Více na [geysermc.org](https://geysermc.org).
+Více na [geysermc.org](https://geysermc.org/).
 
 ### S5, S6, S7
 
@@ -39,7 +39,7 @@ Co znamenají zkratky `S6`, `S7`, `S8` atd. ?\
 Jsou to zkratky pro sezónu serveru, která se mění podle resetu serveru.\
 Většinou se jedná o vydání nové Minecraft verze.
 
-Aktuálně (Únor 2022) je sezóna SuroCraftu 7. To znamená, že právě probíhá 7 sezóna.\
+Aktuálně (Červenec 2022) je sezóna SuroCraftu 8. To znamená, že právě probíhá 8. sezóna.\
 _Velké číslo, že?_
 
 Používáme je v orientaci mezi každou sezónou, třeba když si posíláme screenshoty. Je dobré vědět, v jaké sezóně to bylo.
