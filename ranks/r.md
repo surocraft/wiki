@@ -6,7 +6,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 ## Výhody
 
-### Redstone <img src="../.gitbook/assets/SC_redstone-rank.png" alt="" data-size="line">
+### Redstone <img src="../.gitbook/assets/SC_rank-redstone.png" alt="" data-size="line">
 
 * **JIŽ BRZY VÍCE** (Na ranku pořád pracujeme a budeme přidávat ty nejlepší výhody)
 * `/kit redstone` (Udělí ti ULTRA FLEX :sunglasses: a OP 💎 nástroje s brněním \[získatelné v survivalu])
@@ -21,7 +21,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 <details>
 
-<summary>Zobrazit všechny výhody Redstone Ranku <img src="../.gitbook/assets/SC_redstone-rank.png" alt="" data-size="line"></summary>
+<summary>Zobrazit všechny výhody Redstone Ranku <img src="../.gitbook/assets/SC_rank-redstone.png" alt="" data-size="line"></summary>
 
 * `/back` (Vrátí tě na místo, kde jsi umřel, nebo odkud si byl naposledy teleportován)
 * `/hat` (Drž v ruce blok, který si chceš nasadit na hlavu)
@@ -47,7 +47,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 </details>
 
-### Emerald <img src="../.gitbook/assets/SC_emerald-rank.png" alt="" data-size="line">
+### Emerald <img src="../.gitbook/assets/SC_rank-emerald.png" alt="" data-size="line">
 
 * `/fly`
 * `/seed`
@@ -60,7 +60,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 <details>
 
-<summary>Zobrazit všechny výhody Emerald Ranku <img src="../.gitbook/assets/SC_emerald-rank.png" alt="" data-size="line"></summary>
+<summary>Zobrazit všechny výhody Emerald Ranku <img src="../.gitbook/assets/SC_rank-emerald.png" alt="" data-size="line"></summary>
 
 * `/back` (Vrátí tě na místo, kde jsi umřel, nebo odkud si byl naposledy teleportován)
 * `/hat` (Drž v ruce blok, který si chceš nasadit na hlavu)
@@ -84,7 +84,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 </details>
 
-### Diamond <img src="../.gitbook/assets/SC_diamond-rank.png" alt="" data-size="line">
+### Diamond <img src="../.gitbook/assets/SC_rank-diamond.png" alt="" data-size="line">
 
 * `/back` (Vrátí tě na místo, kde jsi umřel, nebo odkud si byl naposledy teleportován)
 * `/hat` (Drž v ruce blok, který si chceš nasadit na hlavu)
@@ -100,7 +100,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 <details>
 
-<summary>Zobrazit všechny výhody Diamond Ranku <img src="../.gitbook/assets/SC_diamond-rank.png" alt="" data-size="line"></summary>
+<summary>Zobrazit všechny výhody Diamond Ranku <img src="../.gitbook/assets/SC_rank-diamond.png" alt="" data-size="line"></summary>
 
 * `/back` (Vrátí tě na místo, kde jsi umřel, nebo odkud si byl naposledy teleportován)
 * `/hat` (Drž v ruce blok, který si chceš nasadit na hlavu)
@@ -124,7 +124,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 </details>
 
-### Gold <img src="../.gitbook/assets/SC_gold-rank.png" alt="" data-size="line">
+### Gold <img src="../.gitbook/assets/SC_rank-gold.png" alt="" data-size="line">
 
 * `/enderchest` (Otevře ender bednu)
 * `/anvil` (Otevře kovadlinu)
@@ -139,7 +139,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 <details>
 
-<summary>Zobrazit všechny výhody Gold Ranku <img src="../.gitbook/assets/SC_gold-rank.png" alt="" data-size="line"></summary>
+<summary>Zobrazit všechny výhody Gold Ranku <img src="../.gitbook/assets/SC_rank-gold.png" alt="" data-size="line"></summary>
 
 * `/anvil` (Otevře kovadlinu)
 * `/enderchest` (Otevře ender bednu)
@@ -158,7 +158,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 </details>
 
-### Iron <img src="../.gitbook/assets/SC_iron-rank.png" alt="" data-size="line">
+### Iron <img src="../.gitbook/assets/SC_rank-iron.png" alt="" data-size="line">
 
 * `/kit iron` (Udělí ti Iron kit nástroje a brnění)
 * `/nick` (Změní ti jméno v chatu)
@@ -173,7 +173,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 <details>
 
-<summary>Zobrazit všechny výhody Iron Ranku <img src="../.gitbook/assets/SC_iron-rank.png" alt="" data-size="line"></summary>
+<summary>Zobrazit všechny výhody Iron Ranku <img src="../.gitbook/assets/SC_rank-iron.png" alt="" data-size="line"></summary>
 
 * `/tpa` (Zeptat se hráče, jestli se můžeš za ním teleportovat)
 * `/end` ([?](../t/uzitecne.md#tp))
@@ -189,7 +189,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 </details>
 
-### Wood <img src="../.gitbook/assets/SC_wood-rank.png" alt="" data-size="line">
+### Wood <img src="../.gitbook/assets/SC_rank-wood.png" alt="" data-size="line">
 
 **Rank za vote** ([?](../#vote)).
 
@@ -216,12 +216,12 @@ Tam si můžeš v záložce kategorií zvolit [kategorii ranky](https://surocraf
 
 | **Rank**                                                                                                             | **Cena**                | **Platnost** |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------ |
-| <mark style="color:orange;">Wood</mark> <img src="../.gitbook/assets/SC_wood-rank.png" alt="" data-size="line">      | Za vote ([?](../#vote)) | 24 hodin     |
-| Iron <img src="../.gitbook/assets/SC_iron-rank.png" alt="" data-size="line">                                         | _Aktuálně neprodejné_   | 30 dní       |
-| <mark style="color:yellow;">Gold</mark> <img src="../.gitbook/assets/SC_gold-rank.png" alt="" data-size="line">      | 50 Kč (\~ 2 €)          | 30 dní       |
-| <mark style="color:blue;">Diamond</mark> <img src="../.gitbook/assets/SC_diamond-rank.png" alt="" data-size="line">  | 100 Kč (\~ 4 €)         | 30 dní       |
-| <mark style="color:green;">Emerald</mark> <img src="../.gitbook/assets/SC_emerald-rank.png" alt="" data-size="line"> | 200 Kč (\~ 8 €)         | 30 dní       |
-| <mark style="color:red;">Redstone</mark> <img src="../.gitbook/assets/SC_redstone-rank.png" alt="" data-size="line"> | 350 Kč (\~ 15 €)        | 30 dní       |
+| <mark style="color:orange;">Wood</mark> <img src="../.gitbook/assets/SC_rank-wood.png" alt="" data-size="line">      | Za vote ([?](../#vote)) | 24 hodin     |
+| Iron <img src="../.gitbook/assets/SC_rank-iron.png" alt="" data-size="line">                                         | _Aktuálně neprodejné_   | 30 dní       |
+| <mark style="color:yellow;">Gold</mark> <img src="../.gitbook/assets/SC_rank-gold.png" alt="" data-size="line">      | 50 Kč (\~ 2 €)          | 30 dní       |
+| <mark style="color:blue;">Diamond</mark> <img src="../.gitbook/assets/SC_rank-diamond.png" alt="" data-size="line">  | 100 Kč (\~ 4 €)         | 30 dní       |
+| <mark style="color:green;">Emerald</mark> <img src="../.gitbook/assets/SC_rank-emerald.png" alt="" data-size="line"> | 200 Kč (\~ 8 €)         | 30 dní       |
+| <mark style="color:red;">Redstone</mark> <img src="../.gitbook/assets/SC_rank-redstone.png" alt="" data-size="line"> | 350 Kč (\~ 15 €)        | 30 dní       |
 
 _Před zakoupením ranku je nutné souhlasit s podmínkami služeb._\
 _Ceny jsou uvedeny pouze v korunách českých (převod měn zařizuje platební brána)._

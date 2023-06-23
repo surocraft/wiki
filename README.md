@@ -1,6 +1,6 @@
 ---
 description: Úvodní stránka SuroCraft wiki
-cover: .gitbook/assets/Screenshot_693.png
+cover: .gitbook/assets/SC_banner4.png
 coverY: 0
 ---
 
@@ -67,13 +67,13 @@ Připojení s různými módy a neoficiálními klienty je nutné konzultovat se
 
 {% tabs %}
 {% tab title="Java Edition" %}
-![](.gitbook/assets/Screenshot\_485.png)
+![](.gitbook/assets/SC\_join-java.png)
 {% endtab %}
 
 {% tab title="Bedrock Edition" %}
 <div align="left">
 
-<img src=".gitbook/assets/Screenshot_492.png" alt="">
+<img src=".gitbook/assets/SC_join-bedrock.png" alt="">
 
 </div>
 {% endtab %}
