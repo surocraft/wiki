@@ -4,7 +4,11 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 # ⭐ Ranky a jejich výhody
 
-## Výhody
+## TABULKA VÝHOD
+
+<table data-full-width="true"><thead><tr><th width="217">Funkce</th><th align="center">Wood</th><th align="center">Iron</th><th align="center">Gold</th><th align="center">Diamond</th><th align="center">Emerald</th><th align="center">Redstone</th></tr></thead><tbody><tr><td>Počet homes</td><td align="center">1</td><td align="center">3</td><td align="center">5</td><td align="center">8</td><td align="center">20</td><td align="center">50</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td align="center">1</td><td align="center">2</td><td align="center">4</td><td align="center">10</td><td align="center">∞</td><td align="center">∞</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td align="center">1</td><td align="center">2</td><td align="center">4</td><td align="center">5</td><td align="center">7</td><td align="center">10</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td align="center">100²</td><td align="center">300²</td><td align="center">600²</td><td align="center">700²</td><td align="center">1000²</td><td align="center">2000²</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td align="center">3 h</td><td align="center">10 h</td><td align="center">12 h</td><td align="center">24 h</td><td align="center">48 h</td><td align="center">120 h</td></tr><tr><td>Příkaz <code>/fly</code></td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Příkaz <code>/back</code></td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Imunita proti AFK kick</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Příkaz <code>/nick</code></td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr></tbody></table>
+
+_Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, pod tlačítkem._
 
 ### Redstone <img src="../.gitbook/assets/SC_rank-redstone.png" alt="" data-size="line">
 
@@ -12,11 +16,10 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 * `/kit redstone` (Udělí ti ULTRA FLEX :sunglasses: a OP 💎 nástroje s brněním \[získatelné v survivalu])
 * `/spin` (Spustí animaci točení hráče, jako s trojzubcem)
 * Bez cooldownu na `/pvpset`
-* Limit 50x home
-* Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
-* Limit 10 rezidencí ([?](../t/res.md))
-* Max. velikost rezidence 2000x2000
-* 120 hodin na vyzvednutí DeathChest
+* Možnost přenastavit spawner vejcem
+
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>50</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>Neomezený</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>10</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>2000 x 2000</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>120 hodin</td></tr></tbody></table>
+
 * Výhody z předchozích ranků (viz. zobrazení všech výhod Redstone Ranku)
 
 <details>
@@ -39,10 +42,13 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 * `/kit redstone`(Udělí ti ULTRA FLEX :sunglasses: a OP nástroje s brněním)
 * `/spin` (Spustí animaci točení hráče, jako s trojzubcem)
 * Imunita na vyhození při AFK
+* Možnost vytěžit spawner se silk touchem (100% šance)
+* Možnost vytěžit spawner výbuchem TNT (10% šance)
+* Možnost přenastavit spawner vejcem
 * Limit 50x home
 * Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
 * Limit 10 rezidencí ([?](../t/res.md))
-* Max. velikost rezidence 2000x2000
+* Max. velikost rezidence 2000 x 2000
 * 120 hodin na vyzvednutí DeadChest
 
 </details>
@@ -50,12 +56,9 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 ### Emerald <img src="../.gitbook/assets/SC_rank-emerald.png" alt="" data-size="line">
 
 * `/fly`
-* `/seed`
-* Limit 20x home
-* Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
-* Limit 7 rezidencí ([?](../t/res.md))
-* Max. velikost rezidence 1000x1000
-* 48 hodin na vyzvednutí DeathChest
+
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>20</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>Neomezený</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>7</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>1000 x 1000</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>48 hodin</td></tr></tbody></table>
+
 * Výhody z předchozích ranků (viz. zobrazení všech výhod Emerald Ranku)
 
 <details>
@@ -76,10 +79,12 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
 * Barevná přezdívka ([?](help.md#barevna-prezdivka))
 * Imunita na vyhození při AFK
+* Možnost vytěžit spawner se silk touchem (100% šance)
+* Možnost vytěžit spawner výbuchem TNT (10% šance)
 * Limit 20x home
 * Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
 * Limit 7 rezidencí ([?](../t/res.md))
-* Max. velikost rezidence 1000x1000
+* Max. velikost rezidence 1000 x 1000
 * 48 hodin na vyzvednutí DeadChest
 
 </details>
@@ -89,13 +94,12 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 * `/back` (Vrátí tě na místo, kde jsi umřel, nebo odkud si byl naposledy teleportován)
 * `/hat` (Drž v ruce blok, který si chceš nasadit na hlavu)
 * `/seed`
+* `/trash`
 * Barevná přezdívka ([?](help.md#barevna-prezdivka))
-* Limit 8x home
-* Limit 10 Shopkeeperů ([?](../t/shopkeepers.md))
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
-* Limit 5 rezidencí ([?](../t/res.md))
-* Max. velikost rezidence 700x700
-* 24 hodin na vyzvednutí DeathChest
+
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>8</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>10</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>5</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>700 x 700</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>24 hodin</td></tr></tbody></table>
+
 * Výhody z předchozích ranků (viz. zobrazení všech výhod Diamond Ranku)
 
 <details>
@@ -115,11 +119,13 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
 * Barevná přezdívka ([?](help.md#barevna-prezdivka))
 * Imunita na vyhození při AFK
+* Možnost vytěžit spawner se silk touchem (100% šance)
+* Možnost vytěžit spawner výbuchem TNT (10% šance)
 * Limit 8x home
 * Limit 10 Shopkeeperů ([?](../t/shopkeepers.md))
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
 * Limit 5 rezidencí ([?](../t/res.md))
-* Max. velikost rezidence 700x700
+* Max. velikost rezidence 700 x 700
 * 24 hodin na vyzvednutí DeadChest
 
 </details>
@@ -130,11 +136,11 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 * `/anvil` (Otevře kovadlinu)
 * `/stonecutter` (Otevře kameník)
 * Imunita na vyhození při AFK
-* Limit 5x home
-* Limit 4 Shopkeepeři ([?](../t/shopkeepers.md))
-* Limit 4 rezidence ([?](../t/res.md))
-* Max. velikost rezidence 600x600
-* 12 hodin na vyzvednutí DeathChest
+* Možnost vytěžit spawner se silk touchem (100% šance)
+* Možnost vytěžit spawner výbuchem TNT (10% šance)
+
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>5</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>4</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>4</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>600 x 600</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>12 hodin</td></tr></tbody></table>
+
 * Výhody z předchozích ranků (viz. zobrazení všech výhod Gold Ranku)
 
 <details>
@@ -150,10 +156,12 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 * `/nick` (Změní ti jméno v chatu)
 * `/workbench` (Otevře crafting table 3x3)
 * Imunita na vyhození při AFK
+* Možnost vytěžit spawner se silk touchem (100% šance)
+* Možnost vytěžit spawner výbuchem TNT (10% šance)
 * Limit 5x home
 * Limit 4 Shopkeepeři ([?](../t/shopkeepers.md))
 * Limit 4 rezidence ([?](../t/res.md))
-* Max. velikost rezidence 600x600
+* Max. velikost rezidence 600 x 600
 * 12 hodin na vyzvednutí DeadChest
 
 </details>
@@ -163,12 +171,9 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 * `/kit iron` (Udělí ti Iron kit nástroje a brnění)
 * `/nick` (Změní ti jméno v chatu)
 * `/workbench` (Otevře crafting table 3x3)
-* Vyhození po hodině AFK
-* Limit 3x home
-* Limit 2 Shopkeepeři ([?](../t/shopkeepers.md))
-* Limit 2 rezidence ([?](../t/res.md))
-* Max. velikost rezidence 300x300
-* 10 hodin na vyzvednutí DeathChest
+
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>3</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>2</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>2</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>300 x 300</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>10 hodin</td></tr></tbody></table>
+
 * Výhody z předchozích ranků (viz. zobrazení všech výhod Iron Ranku)
 
 <details>
@@ -184,7 +189,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 * Limit 3x home
 * Limit 2 Shopkeepeři ([?](../t/shopkeepers.md))
 * Limit 2 rezidence ([?](../t/res.md))
-* Max. velikost rezidence 300x300
+* Max. velikost rezidence 300 x 300
 * 10 hodin na vyzvednutí DeadChest
 
 </details>
@@ -201,18 +206,15 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 * `/end` ([?](../t/uzitecne.md#tp))
 * `/tpr` ([?](../t/uzitecne.md#tp))
 * Vyhození po hodině AFK
-* 1x home postel
-* Limit 1 Shopkeeper ([?](../t/shopkeepers.md))
-* Limit 1 rezidence ([?](../t/res.md))
-* Max. velikost rezidence 100x100
-* 3 hodiny na vyzvednutí DeathChest
+
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>1 (postel)</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>1</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>1</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>100 x 100</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>3 hodin</td></tr></tbody></table>
 
 ## Jak získat ranky <a href="#prices" id="prices"></a>
 
 Stačí navštívit naší stránku s obchodem - [surocraft.craftingstore.net](https://surocraft.craftingstore.net/) nebo [surocraft.eu/shop/](https://surocraft.eu/shop/)\
 Tam si můžeš v záložce kategorií zvolit [kategorii ranky](https://surocraft.craftingstore.net/category/275918) a vybrat si svůj vyhovující rank.
 
-#### CENY RANKŮ
+### CENY RANKŮ
 
 | **Rank**                                                                                                             | **Cena**                | **Platnost** |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------ |
@@ -225,6 +227,8 @@ Tam si můžeš v záložce kategorií zvolit [kategorii ranky](https://surocraf
 
 _Před zakoupením ranku je nutné souhlasit s podmínkami služeb._\
 _Ceny jsou uvedeny pouze v korunách českých (převod měn zařizuje platební brána)._
+
+### OSTATNÍ RANKY
 
 <details>
 

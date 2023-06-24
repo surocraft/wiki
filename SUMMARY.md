@@ -16,7 +16,7 @@
 ## Ranky <a href="#ranks" id="ranks"></a>
 
 * [⭐ Ranky a jejich výhody](ranks/r.md)
-* [⭐ Návod k výhodám](ranks/help.md)
+* [⭐ Návody k výhodám](ranks/help.md)
 
 ## Návody <a href="#t" id="t"></a>
 

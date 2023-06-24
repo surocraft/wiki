@@ -1,8 +1,8 @@
 ---
-description: Návod k výhodám SuroCraft rankům
+description: Návody k výhodám SuroCraft rankům
 ---
 
-# ⭐ Návod k výhodám
+# ⭐ Návody k výhodám
 
 ## Příkazy
 
