@@ -4,7 +4,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 # ⭐ Ranky a jejich výhody
 
-## TABULKA VÝHOD
+## TABULKA VÝHOD <a href="#tabulka" id="tabulka"></a>
 
 <table data-full-width="true"><thead><tr><th width="217">Funkce</th><th align="center">Wood</th><th align="center">Iron</th><th align="center">Gold</th><th align="center">Diamond</th><th align="center">Emerald</th><th align="center">Redstone</th></tr></thead><tbody><tr><td>Počet homes</td><td align="center">1</td><td align="center">3</td><td align="center">5</td><td align="center">8</td><td align="center">20</td><td align="center">50</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td align="center">1</td><td align="center">2</td><td align="center">4</td><td align="center">10</td><td align="center">∞</td><td align="center">∞</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td align="center">1</td><td align="center">2</td><td align="center">4</td><td align="center">5</td><td align="center">7</td><td align="center">10</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td align="center">100²</td><td align="center">300²</td><td align="center">600²</td><td align="center">700²</td><td align="center">1000²</td><td align="center">2000²</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td align="center">3 h</td><td align="center">10 h</td><td align="center">12 h</td><td align="center">24 h</td><td align="center">48 h</td><td align="center">120 h</td></tr><tr><td>Příkaz <code>/fly</code></td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Příkaz <code>/back</code></td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Imunita proti AFK kick</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Příkaz <code>/nick</code></td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr></tbody></table>
 
@@ -214,7 +214,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 Stačí navštívit naší stránku s obchodem - [surocraft.craftingstore.net](https://surocraft.craftingstore.net/) nebo [surocraft.eu/shop/](https://surocraft.eu/shop/)\
 Tam si můžeš v záložce kategorií zvolit [kategorii ranky](https://surocraft.craftingstore.net/category/275918) a vybrat si svůj vyhovující rank.
 
-### CENY RANKŮ
+### CENY RANKŮ <a href="#ceny" id="ceny"></a>
 
 | **Rank**                                                                                                             | **Cena**                | **Platnost** |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------ |
@@ -228,7 +228,7 @@ Tam si můžeš v záložce kategorií zvolit [kategorii ranky](https://surocraf
 _Před zakoupením ranku je nutné souhlasit s podmínkami služeb._\
 _Ceny jsou uvedeny pouze v korunách českých (převod měn zařizuje platební brána)._
 
-### OSTATNÍ RANKY
+### OSTATNÍ RANKY <a href="#ostatni" id="ostatni"></a>
 
 <details>
 
