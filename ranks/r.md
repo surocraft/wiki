@@ -6,7 +6,7 @@ description: Seznam SuroCraft ranků a jejich jednotlivých výhod
 
 ## TABULKA VÝHOD <a href="#tabulka" id="tabulka"></a>
 
-<table data-full-width="true"><thead><tr><th width="217">Funkce</th><th align="center">Wood</th><th align="center">Iron</th><th align="center">Gold</th><th align="center">Diamond</th><th align="center">Emerald</th><th align="center">Redstone</th></tr></thead><tbody><tr><td>Počet homes</td><td align="center">1</td><td align="center">3</td><td align="center">5</td><td align="center">8</td><td align="center">20</td><td align="center">50</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td align="center">1</td><td align="center">2</td><td align="center">4</td><td align="center">10</td><td align="center">∞</td><td align="center">∞</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td align="center">1</td><td align="center">2</td><td align="center">4</td><td align="center">5</td><td align="center">7</td><td align="center">10</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td align="center">100²</td><td align="center">300²</td><td align="center">600²</td><td align="center">700²</td><td align="center">1000²</td><td align="center">2000²</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td align="center">3 h</td><td align="center">10 h</td><td align="center">12 h</td><td align="center">24 h</td><td align="center">48 h</td><td align="center">120 h</td></tr><tr><td>Příkaz <code>/fly</code></td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Příkaz <code>/back</code></td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Imunita proti AFK kick</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Příkaz <code>/nick</code></td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="217">Funkce</th><th align="center">Wood</th><th align="center">Iron</th><th align="center">Gold</th><th align="center">Diamond</th><th align="center">Emerald</th><th align="center">Redstone</th></tr></thead><tbody><tr><td>Počet homes</td><td align="center">1</td><td align="center">3</td><td align="center">5</td><td align="center">8</td><td align="center">20</td><td align="center">50</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td align="center">1</td><td align="center">2</td><td align="center">4</td><td align="center">10</td><td align="center">∞</td><td align="center">∞</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td align="center">1</td><td align="center">2</td><td align="center">4</td><td align="center">5</td><td align="center">7</td><td align="center">10</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td align="center">100²</td><td align="center">300²</td><td align="center">600²</td><td align="center">700²</td><td align="center">1000²</td><td align="center">2000²</td></tr><tr><td>Počet pozemků</td><td align="center">1</td><td align="center">1</td><td align="center">2</td><td align="center">2</td><td align="center">3</td><td align="center">4</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td align="center">3 h</td><td align="center">10 h</td><td align="center">12 h</td><td align="center">24 h</td><td align="center">48 h</td><td align="center">120 h</td></tr><tr><td>Příkaz <code>/fly</code></td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Příkaz <code>/back</code></td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Imunita proti AFK kick</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Příkaz <code>/nick</code></td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr></tbody></table>
 
 _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, pod tlačítkem._
 
@@ -18,7 +18,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 * Bez cooldownu na `/pvpset`
 * Možnost přenastavit spawner vejcem
 
-<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>50</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>Neomezený</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>10</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>2000 x 2000</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>120 hodin</td></tr></tbody></table>
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>50</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>Neomezený</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>10</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>2000 x 2000</td></tr><tr><td>Počet pozemků</td><td>4</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>120 hodin</td></tr></tbody></table>
 
 * Výhody z předchozích ranků (viz. zobrazení všech výhod Redstone Ranku)
 
@@ -48,6 +48,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 * Limit 50x home
 * Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
 * Limit 10 rezidencí ([?](../t/res.md))
+* Limit 4 pozemky
 * Max. velikost rezidence 2000 x 2000
 * 120 hodin na vyzvednutí DeadChest
 
@@ -57,7 +58,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 
 * `/fly`
 
-<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>20</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>Neomezený</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>7</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>1000 x 1000</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>48 hodin</td></tr></tbody></table>
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>20</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>Neomezený</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>7</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>1000 x 1000</td></tr><tr><td>Počet pozemků</td><td>3</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>48 hodin</td></tr></tbody></table>
 
 * Výhody z předchozích ranků (viz. zobrazení všech výhod Emerald Ranku)
 
@@ -84,6 +85,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 * Limit 20x home
 * Neomezený počet Shopkeeperů ([?](../t/shopkeepers.md))
 * Limit 7 rezidencí ([?](../t/res.md))
+* Limit 3 pozemky
 * Max. velikost rezidence 1000 x 1000
 * 48 hodin na vyzvednutí DeadChest
 
@@ -98,7 +100,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 * Barevná přezdívka ([?](help.md#barevna-prezdivka))
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
 
-<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>8</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>10</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>5</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>700 x 700</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>24 hodin</td></tr></tbody></table>
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>8</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>10</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>5</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>700 x 700</td></tr><tr><td>Počet pozemků</td><td>2</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>24 hodin</td></tr></tbody></table>
 
 * Výhody z předchozích ranků (viz. zobrazení všech výhod Diamond Ranku)
 
@@ -125,6 +127,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 * Limit 10 Shopkeeperů ([?](../t/shopkeepers.md))
 * Možnost psát barevně do chatu ([?](help.md#psani-barevne-do-chatu))
 * Limit 5 rezidencí ([?](../t/res.md))
+* Limit 3 pozemky
 * Max. velikost rezidence 700 x 700
 * 24 hodin na vyzvednutí DeadChest
 
@@ -139,7 +142,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 * Možnost vytěžit spawner se silk touchem (100% šance)
 * Možnost vytěžit spawner výbuchem TNT (10% šance)
 
-<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>5</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>4</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>4</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>600 x 600</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>12 hodin</td></tr></tbody></table>
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>5</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>4</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>4</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>600 x 600</td></tr><tr><td>Počet pozemků</td><td>2</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>12 hodin</td></tr></tbody></table>
 
 * Výhody z předchozích ranků (viz. zobrazení všech výhod Gold Ranku)
 
@@ -161,6 +164,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 * Limit 5x home
 * Limit 4 Shopkeepeři ([?](../t/shopkeepers.md))
 * Limit 4 rezidence ([?](../t/res.md))
+* Limit 2 pozemky
 * Max. velikost rezidence 600 x 600
 * 12 hodin na vyzvednutí DeadChest
 
@@ -172,7 +176,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 * `/nick` (Změní ti jméno v chatu)
 * `/workbench` (Otevře crafting table 3x3)
 
-<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>3</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>2</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>2</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>300 x 300</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>10 hodin</td></tr></tbody></table>
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>3</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>2</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>2</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>300 x 300</td></tr><tr><td>Počet pozemků</td><td>1</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>10 hodin</td></tr></tbody></table>
 
 * Výhody z předchozích ranků (viz. zobrazení všech výhod Iron Ranku)
 
@@ -189,6 +193,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 * Limit 3x home
 * Limit 2 Shopkeepeři ([?](../t/shopkeepers.md))
 * Limit 2 rezidence ([?](../t/res.md))
+* Limit 1 pozemky
 * Max. velikost rezidence 300 x 300
 * 10 hodin na vyzvednutí DeadChest
 
@@ -207,7 +212,7 @@ _Tabulka nevyznačuje všechny výhody. Ty jsou dostupné pod každým rankem, p
 * `/tpr` ([?](../t/uzitecne.md#tp))
 * Vyhození po hodině AFK
 
-<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>1 (postel)</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>1</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>1</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>100 x 100</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>3 hodin</td></tr></tbody></table>
+<table><thead><tr><th width="289">Funkce</th><th>Počet / Limit</th></tr></thead><tbody><tr><td>Počet homes</td><td>1 (postel)</td></tr><tr><td>Počet shopkeeperů (<a href="../t/shopkeepers.md">?</a>)</td><td>1</td></tr><tr><td>Počet rezidencí (<a href="../t/res.md">?</a>)</td><td>1</td></tr><tr><td>Velikost rezidence (<a href="../t/res.md">?</a>)</td><td>100 x 100</td></tr><tr><td>Počet pozemků</td><td>1</td></tr><tr><td>Čas na vyzvednutí DeathChest</td><td>3 hodin</td></tr></tbody></table>
 
 ## Jak získat ranky <a href="#prices" id="prices"></a>
 
