@@ -1,7 +1,7 @@
 ---
 description: Úvodní stránka SuroCraft wiki
-cover: .gitbook/assets/SC_banner4.png
-coverY: 0
+cover: .gitbook/assets/SC_banner5.jpg
+coverY: 41.25388601036269
 ---
 
 # 📘 ÚVOD
@@ -12,6 +12,14 @@ Zde by jsi měl najít všechny důležité odpovědi.
 Samozřejmě, pokud je nenajdete, neváhejte založit [**ticket**](t/uzitecne.md#ticket) na [**Discord serveru**](https://discord.gg/W4yguRbT34).
 
 {% hint style="info" %}
+**Nezapomeň navštívit naší užitečnou** [**webovou stránku**](https://surocraft.eu/)**.**
+{% endhint %}
+
+{% hint style="info" %}
+**Najdi chyby ve wiki,** [**nahlaš je nám**](t/uzitecne.md#ticket) **a získej odměnu!**
+{% endhint %}
+
+{% hint style="info" %}
 **Už si dnes hlasoval pro server? Ne?! Hlasuj ihned** [**zde**](./#vote) **a získej odměnu!**
 {% endhint %}
 
@@ -20,21 +28,27 @@ Samozřejmě, pokud je nenajdete, neváhejte založit [**ticket**](t/uzitecne.md
 Jsme primární survival server. Vše funguje převážně vanilkově. _Hmmm mňam..._\
 Ale aby jsme si hru trochu zlepšili a více se bavili, máme tu pár funkcí, které jsou super!
 
-#### Funkce na našem serveru, které mění gameplay:
+#### Hlavní funkce na našem serveru, které mění gameplay:
 
-* [**BlockLocker**](t/blocklocker.md) - zabezpečení beden a více bloků
-* **Coordinates** - příkaz `/coords` pro zobrazení souřadnic na java edici ([?](server/slovnik.md#edition))
+Bedny
+
+* **Bedny** - loot bedny na spawnu
+* [**BlockLocker**](t/blocklocker.md) - zabezpečení beden a ostatních bloků
+* **Coordinates** - příkaz `/coords` pro zobrazení souřadnic
 * **DailyRewards** - denní odměny
-* **DeadChest** - posmrtná bedna s inventářem
-* [**Elevator**](t/elevator.md) - výtahy
+* **DeathChest** - posmrtná bedna s inventářem
+* **Dynmap** - webová dynmapa pro zobrazení světů a online hráčů
 * **Geyser** - podpora Bedrock hráčů
-* **GSit** - sedání, lehání a plazení na jakémkoliv místě
-* **Heads** - loot hlav mobů a hráčů při zabití
-* **LootCrates** - loot bedny na spawnu
-* [**Pozemky**](t/arm.md) - pozemky na spawnu
-* [**Residence**](t/res.md) - pozemky hráčů po světě
+* **GSit** - přidání sezení, lehání, plazení a dalších do hry
+* **Hlavy** - loot hlav mobů při zabití
+* **Parkour** - parkour mapy
+* [**Pozemky**](t/lands.md) - místa pro obchody
+* [**Residence**](t/rezidence.md) - chráněné oblasti hráčů po světech
 * [**Shopkeepers**](t/shopkeepers.md) - vlastní vesničani pro obchodování
-* **TreeGravity** - zničení stromu jedním blokem
+* **SilkSpanwers** - možnost vytěžení spawnerů silk touchem
+* **Sleep-most** - umožnení přeskočení noci pomocí jen určitého počtu hráčů
+* **TreeCapitator** - zničení stromu jedním blokem
+* [**Výtahy**](t/vytahy.md) - výtahy pro rychlý přesun
 * **WorldBorder** - nastavení hranice světů
 
 ## Připojení na server <a href="#connect" id="connect"></a>
@@ -52,10 +66,10 @@ _Nejaktualizovanější informace najdeš na našem webu_ [_zde_](https://surocr
 <table data-header-hidden><thead><tr><th>EDICE</th><th align="center">Verze</th><th align="center">IP</th><th width="200">PORT</th></tr></thead><tbody><tr><td><strong>EDICE</strong></td><td align="center"><strong>VERZE</strong></td><td align="center"><strong>ADRESA SERVERU</strong></td><td><strong>PORT</strong></td></tr><tr><td>Java</td><td align="center">1.7 a novější</td><td align="center">mc.surocraft.eu</td><td>25565</td></tr><tr><td>Bedrock</td><td align="center">1.20 a novější</td><td align="center">mcbe.surocraft.eu</td><td>19132</td></tr></tbody></table>
 
 Pro Java Edition hráče doporučujeme používat verzi 1.17 či vyšší pro lepší kompatibilitu.\
-Připojením na server souhlasíš s našimi [pravidly](server/rules/).
+Připojením na server souhlasíš s našimi [pravidly](server/pravidla/).
 
 {% hint style="info" %}
-Nevíš jak se připojit na 'speciální' server s herní konzolí?\
+Nevíš jak se připojit na ostatní servery s herní konzolí?\
 Vyzkoušej aplikaci [**MC Server Connector**](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector) pro **Android**.
 {% endhint %}
 
@@ -81,17 +95,13 @@ Připojení s různými módy a neoficiálními klienty je nutné konzultovat se
 
 ## Přispět <a href="#donate" id="donate"></a>
 
-_**Líbí se ti naše práce? Rád hraješ na serveru?**_ _**Podpoř nás prosím!**_
-
-_Platit můžeš službou PayPal, nebo platební kartou._ _Je možnost i poslat peníze na bankovní účet zmíněný dole._
-
-[_**Přispět zde**_](https://linktr.ee/surocraft) (Podpora platebních karet, PayPal)\
+_**Líbí se ti naše práce? Rád hraješ na serveru?**_ _**Podpoř nás prosím!**_\
 [_**Zakoupit si Rank**_](https://surocraft.craftingstore.net/category/275918) (Podpora kreditních a debetních karet, Google Pay, Apple Pay, PayPal)
 
 ## Hlasování pro Server <a href="#vote" id="vote"></a>
 
 Proč vlastně hlasovat?\
-Hlasováním pro SuroCraft získáš rank [**Wood**](ranks/r.md#wood) na 24h a také [kredity](server/slovnik.md#kredity)!
+Hlasováním pro SuroCraft získáš rank [**Wood**](ranky/seznam.md#wood) na 24 hodin a také [kredity](server/slovnicek.md#kredity)!
 
 **Hlasovat pro SuroCraft můžeš na:**\
 :one:Hlavní stránce [**zde**](http://l.surocraft.eu/vote1)\
@@ -103,4 +113,4 @@ Náš server se potom dostane na vyšší příčky a může se dostat mezi zná
 
 Nebojte se, noví hráči ti akorát zlepší hru.\
 Můžeme tím rozšířit naši komunitu a tak ji zachovat aktivní, rozšiřovat obchody (viz. [Shopkeepers](t/shopkeepers.md)) a trochu si více rozradostnit radost z hraní.\
-Pokud nový hráč ti nějak začne kazit hru _(to je_ [_pravidlo_](server/rules/#griefing) _mimochodem)_ neváhej založit [**ticket**](t/uzitecne.md#ticket). [Ukládáme data ](server/rules/#ukladane-data-o-hracich)o činnosti hráčů ve hře a tak zjistíme, kdo ti někdo něco rozbil a dokonce i kdy.
+Pokud nový hráč ti nějak začne kazit hru _(to je_ [_pravidlo_](server/pravidla/#griefing) _mimochodem)_ neváhej založit [**ticket**](t/uzitecne.md#ticket). [Ukládáme data ](server/pravidla/#ukladane-data-o-hracich)o činnosti hráčů ve hře a tak zjistíme, kdo ti někdo něco rozbil a dokonce i kdy.

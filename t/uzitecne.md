@@ -11,7 +11,7 @@ description: Užitečné příkazy a triky jak si zlepšit hru
 * [x] Rank Hráč+ pro `/spawn`
 * [x] Rank Wood+ pro `/tpr`
 
-Pro ulehčení práce vaším kostičkovaným nohám jsme přidali příkazy na rychlé přesuny. Týká se to příkazu `/spawn` a `/tpr.` `/spawn` je povolený pro všechny, ale `/tpr` je povolen pouze za vote (rank [Wood](../ranks/r.md#wood) nebo vyšší).
+Pro ulehčení práce vaším kostičkovaným nohám jsme přidali příkazy na rychlé přesuny. Týká se to příkazu `/spawn` a `/tpr.` `/spawn` je povolený pro všechny, ale `/tpr` je povolen pouze za vote (rank [Wood](../ranky/seznam.md#wood) nebo vyšší).
 
 Logicky, `/spawn` příkaz tě portne na spawn. Na spawnu máme obchody a výstavku. Jedná se tak o "Serverové tržiště", či "Serverové Náměstí".
 
@@ -22,7 +22,7 @@ Příkaz `/tpr` tě náhodně portne po světě (Pro rozmístění pro survival)
 * [x] **Pouze Bedrock hráči**
 * [x] **Rank Hráč+**
 
-Každý uživatel Bedrock edice ([?](../server/slovnik.md#bedrock-java-edition)) může ve hře použít příkaz `/geyser offhand`\
+Každý uživatel Bedrock edice ([?](../server/slovnicek.md#bedrock-java-edition)) může ve hře použít příkaz `/geyser offhand`\
 Po použití příkazu se aktuální předmět nebo blok přesune do druhé ruky.
 
 ![](../.gitbook/assets/ezgif.com-gif-maker.gif)
@@ -38,7 +38,7 @@ Nevíš jak kontaktovat [staff](../server/staff.md) (Admin Team)? Zde máš náv
 #### 1. Připojení k Discordu <a href="#discord-connect" id="discord-connect"></a>
 
 Nejdříve se musíš připojit na Discord server. Odkaz [**zde**](https://discord.gg/W4yguRbT34).\
-Pokud si tak ještě neudělal, přečti si [pravidla serveru](../server/rules/).
+Pokud si tak ještě neudělal, přečti si [pravidla serveru](../server/pravidla/).
 
 #### 2. Založení ticketu v kanále <a href="#ticket-create" id="ticket-create"></a>
 

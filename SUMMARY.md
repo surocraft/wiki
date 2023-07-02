@@ -5,25 +5,25 @@
 
 ## Server
 
-* [📕 Pravidla](server/rules/README.md)
-  * [1⃣ Obecné](server/rules/oc.md)
-  * [2⃣ Discord](server/rules/dc.md)
-  * [3⃣ Minecraft](server/rules/mc.md)
-* [📖 Slovníček](server/slovnik.md)
-* [🌐 Odkazy a další](server/info.md)
+* [📕 Pravidla](server/pravidla/README.md)
+  * [1⃣ Obecné](server/pravidla/oc.md)
+  * [2⃣ Discord](server/pravidla/dc.md)
+  * [3⃣ Minecraft](server/pravidla/mc.md)
+* [📖 Slovníček](server/slovnicek.md)
+* [🌐 Odkazy a další](server/odkazy.md)
 * [👮 Staff](server/staff.md)
 
-## Ranky <a href="#ranks" id="ranks"></a>
+## Ranky
 
-* [⭐ Ranky a jejich výhody](ranks/r.md)
-* [⭐ Návody k výhodám](ranks/help.md)
+* [⭐ Ranky a jejich výhody](ranky/seznam.md)
+* [⭐ Návody k výhodám](ranky/navody.md)
 
 ## Návody <a href="#t" id="t"></a>
 
 * [Užitečné](t/uzitecne.md)
-* [Rezidence](t/res.md)
-* [Pozemky](t/arm.md)
+* [Rezidence](t/rezidence.md)
+* [Pozemky](t/lands.md)
 * [Propojení účtů](t/linkaccount.md)
 * [Shopkeepers](t/shopkeepers.md)
 * [BlockLocker](t/blocklocker.md)
-* [Výtahy](t/elevator.md)
+* [Výtahy](t/vytahy.md)

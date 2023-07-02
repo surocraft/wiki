@@ -57,4 +57,4 @@ _Navazuje na pravidlo_ [_2.4.1_](dc.md#2.4.1)_._
 
 _Souvisí s pravidly_ [_1.2.3_](oc.md#1.2.3) _a_ [_1.2.4_](oc.md#1.2.4)_._\
 Přílišné označování (také označováno jako mentions nebo pings) je na našem Discord serveru přísně zakázáno, kvůli morálce a komunitnímu chování. Jedná se totiž o rušení či otravování.\
-Označování jako samotné není zakázáno, ale jeho přílišné používání, jako třeba 3x nebo vícekrát za sebou je už trestné. Jedná se tak i u rolí hráčů, [ranků](../../ranks/r.md) nebo třeba i [staff](../staff.md).
+Označování jako samotné není zakázáno, ale jeho přílišné používání, jako třeba 3x nebo vícekrát za sebou je už trestné. Jedná se tak i u rolí hráčů, [ranků](../../ranky/seznam.md) nebo třeba i [staff](../staff.md).

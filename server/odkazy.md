@@ -8,7 +8,7 @@ description: Stručný seznam užitečných odkazů
 
 Nejdůležitější odkaz. Spoustu dalších informací najdeš zrovna tam.
 
-Chceš ještě víc přesvědčit? Dobře, tak se podívej na další [stránku](slovnik.md#discord-server), kde popisuji co náš Discord server přesně obsahuje.
+Chceš ještě víc přesvědčit? Dobře, tak se podívej na další [stránku](slovnicek.md#discord-server), kde popisuji co náš Discord server přesně obsahuje.
 
 #### [dsc.gg/surocraft](https://dsc.gg/surocraft)
 
@@ -22,11 +22,11 @@ Nově píšeme pro vás příspěvky na [blog](https://surocraft.eu/blog)!
 
 ## [Hlasovat pro server](https://minecraftpocket-servers.com/server/113005/vote/)
 
-Na tomto odkaze můžeš hlasovat pro náš server a tak získat zdarma [Wood rank](../ranks/r.md#wood) se spousty super výhodami a to za pusinku!
+Na tomto odkaze můžeš hlasovat pro náš server a tak získat zdarma [Wood rank](../ranky/seznam.md#wood) se spousty super výhodami a to za pusinku!
 
 [**l.surocraft.eu/vote1**](http://l.surocraft.eu/vote1)
 
-Můžeš využít i další stránky, které jsou určené pro Java servery. Pokud si již hlasoval na té první, nedostaneš [Wood rank](../ranks/r.md#wood), ale přičte se ti další 1 [Kredit](slovnik.md#kredity) za každý další jeden hlas.
+Můžeš využít i další stránky, které jsou určené pro Java servery. Pokud si již hlasoval na té první, nedostaneš [Wood rank](../ranky/seznam.md#wood), ale přičte se ti další 1 [Kredit](slovnicek.md#kredity) za každý další jeden hlas.
 
 [**l.surocraft.eu/vote2**](http://l.surocraft.eu/vote2)\
 [**l.surocraft.eu/vote3**](http://l.surocraft.eu/vote3)
@@ -56,8 +56,8 @@ Najdeš zde pohybující se hráče, rezidence a pozemky na spawnu.
 Na našem "e-shopu" můžeš najít ranky, které ti dají výhody ve hře.\
 Více o rancích na jiné stránce.
 
-{% content-ref url="../ranks/r.md" %}
-[r.md](../ranks/r.md)
+{% content-ref url="../ranky/seznam.md" %}
+[seznam.md](../ranky/seznam.md)
 {% endcontent-ref %}
 
 [**surocraft.craftingstore.net**](https://surocraft.craftingstore.net/category/275918)

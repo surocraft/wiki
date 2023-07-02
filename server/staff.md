@@ -1,5 +1,5 @@
 ---
-description: Seznam a představení SuroCraft administrátorské týmu
+description: Seznam a představení staff týmu SuroCraft
 ---
 
 # 👮 Staff
@@ -33,4 +33,4 @@ _stavitel, mini-šéf hráčské podpory a milovník dinosaurů_\
 
 ## K čemu existuje staff serveru?
 
-Staff je na Minecraft serveru důležitý, aby někdo o ten server pečoval a aktivně pomáhal hráčům. Společně opravujeme chyby (tzv. bugy) a snažíme se vám zpříjemňovat hru, třeba eventy ([?](slovnik.md#eventy-udalosti))!
+Staff je na Minecraft serveru důležitý, aby někdo o ten server pečoval a aktivně pomáhal hráčům. Společně opravujeme chyby (tzv. bugy) a snažíme se vám zpříjemňovat hru, třeba eventy ([?](slovnicek.md#eventy-udalosti))!

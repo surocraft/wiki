@@ -8,12 +8,12 @@ description: Seznam obecných pravidel pro všechny platformy a jejich uživatel
 
 ### 1.1.1 Respektování [staff](../staff.md) <a href="#1.1.1" id="1.1.1"></a>
 
-Hráči jsou povinni respektovat rozhodnutí [staff teamu SuroCraft](../staff.md) a postupovat podle jejich nařízení k lepšímu průběhu řešení problémů na serveru. Nevhodné chování ke [staff](../staff.md) je trestáno.\
+Hráči jsou povinni respektovat rozhodnutí [staff týmu SuroCraft](../staff.md) a postupovat podle jejich nařízení k lepšímu průběhu řešení problémů na serveru. Nevhodné chování ke [staff](../staff.md) je trestáno.\
 Také se počítá s tím, že hráč nebude staff nevhodně poučovat k jinému pracovnímu postupu. Pokud [staff](../staff.md) neuvede v individuálním případě jinak, hráč nesmí aktivně zasahovat do práce admina.
 
 ### 1.1.2 Poskytování informací [staff](../staff.md) <a href="#1.1.2" id="1.1.2"></a>
 
-K co nejjednoduššímu řešení problémů na serveru je nutné poskytovat [staff teamu](../staff.md) pouze pravdu a rozvíjet obsah zpráv co nejvíce. Lhaní naším zaměstnancům není prospěšné a pravda se později odhalí.
+K co nejjednoduššímu řešení problémů na serveru je nutné poskytovat [staff týmu](../staff.md) pouze pravdu a rozvíjet obsah zpráv co nejvíce. Lhaní naším zaměstnancům není prospěšné a pravda se později odhalí.
 
 ## 1.2 Chování a komunikace <a href="#1.2" id="1.2"></a>
 

@@ -14,7 +14,7 @@ description: Návod a krátké vysvětlení na výtahy - bloky, které umožňuj
 
 ### Jak fungují? <a href="#how" id="how"></a>
 
-Není to žádná stoupající a klesající plošina jako v reálném životě. Je to jednodušší. Výtah tu funguje jako teleportace mezi dvěma nebo více [určitými](elevator.md#kombinace) bloky.
+Není to žádná stoupající a klesající plošina jako v reálném životě. Je to jednodušší. Výtah tu funguje jako teleportace mezi dvěma nebo více [určitými](vytahy.md#kombinace) bloky.
 
 <div align="left">
 

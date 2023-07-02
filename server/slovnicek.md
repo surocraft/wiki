@@ -14,7 +14,7 @@ Každý z členů staff ([?](staff.md#proc-je-na-serveru-staff)) pořádá jedno
 
 Eventy na Minecraft serverech jsou takové menší události, kde se hodně hráčů sejde dohromady a dělají se zábavné aktivity. Většinou se jedná o minihry ([?](https://minecraft.fandom.com/wiki/Minigames)), např. známé Dropper, Parkour, Bludiště atd.
 
-Kdy přesně probíhá event? Časy eventů zveřejňujeme na našem Discord serveru ([?](slovnik.md#discord-server)), většinou v kanále s novinkami, nebo jen tak v chatu. Ale neváhej se klidně zeptat, rádi ti odpovíme, protože chápeme, že některé informace se můžou ztratit mezi dalšími.
+Kdy přesně probíhá event? Časy eventů zveřejňujeme na našem Discord serveru ([?](slovnicek.md#discord-server)), většinou v kanále s novinkami, nebo jen tak v chatu. Ale neváhej se klidně zeptat, rádi ti odpovíme, protože chápeme, že některé informace se můžou ztratit mezi dalšími.
 
 ### Dynmapa
 
@@ -46,7 +46,7 @@ Používáme je v orientaci mezi každou sezónou, třeba když si posíláme sc
 
 ### Kredity
 
-Kredity jsou naše herní měna. Lze je získat i zdarma. Za každý [hlas](../#vote) totiž nedostaneš jenom rank [Wood](../ranks/r.md#wood), ale i 1K (kredit). Kredity si také můžeš vyměňovat mezi ostatními, příkazem `/pay <hráč> <částka>`.
+Kredity jsou naše herní měna. Lze je získat i zdarma. Za každý [hlas](../#vote) totiž nedostaneš jenom rank [Wood](../ranky/seznam.md#wood), ale i 1K (kredit). Kredity si také můžeš vyměňovat mezi ostatními, příkazem `/pay <hráč> <částka>`.
 
 Touto měnou se dají zakoupit pozemky na spawnu, primárně určené pro obchody a nebo Iron Rank a to za 30 kreditů.
 
@@ -69,7 +69,7 @@ Tehdy se Microsoft spíše zaměřil na **Bedrock Edici**, kam byl později při
 
 #### Jakou verzi podporuje tedy SuroCraft?
 
-Překvapivě, díky pluginu Geyser ([?](slovnik.md#geyser)), můžete na SuroCraftu hrát s **Bedrock** i **Java** edicí.\
+Překvapivě, díky pluginu Geyser ([?](slovnicek.md#geyser)), můžete na SuroCraftu hrát s **Bedrock** i **Java** edicí.\
 Je možné si dokonce oba účty propojit pro snadnější hraní. Více o propojení účtech [zde](../t/linkaccount.md).
 
 {% hint style="info" %}
@@ -98,7 +98,7 @@ SuroCraft má příkaz `/afk` který sám dá vědět do chatu ostatním hráč�
 
 ### BRB
 
-**BRB** je zkratka pro **B**e **R**ight **B**ack. Je dost synonymní se zkratkou **AFK** ([?](slovnik.md#afk)) ale přímo znamená **Hned se vrátím**, což rovnou dává najevo že budeš zpět za chvilku.
+**BRB** je zkratka pro **B**e **R**ight **B**ack. Je dost synonymní se zkratkou **AFK** ([?](slovnicek.md#afk)) ale přímo znamená **Hned se vrátím**, což rovnou dává najevo že budeš zpět za chvilku.
 
 ### NPC
 
