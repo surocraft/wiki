@@ -52,7 +52,7 @@ Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\
 **Java Edice** je pouze pro operační systémy Windows, macOS a Linux.\
 **Bedrock Edice** je určená pro mobilní zařízení a herní konzole. (Mezi nejznámější patří PE - Pocket Edition)
 
-<table data-header-hidden><thead><tr><th>EDICE</th><th align="center">Verze</th><th align="center">IP</th><th width="200">PORT</th></tr></thead><tbody><tr><td><strong>EDICE</strong></td><td align="center"><strong>VERZE</strong></td><td align="center"><strong>ADRESA SERVERU</strong></td><td><strong>PORT</strong></td></tr><tr><td>Java</td><td align="center">1.7 a novější</td><td align="center">mc.surocraft.eu</td><td>25565</td></tr><tr><td>Bedrock</td><td align="center">1.19.80 a novější</td><td align="center">mc.surocraft.eu</td><td>19132</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th>EDICE</th><th align="center">Verze</th><th align="center">IP</th><th width="200">PORT</th></tr></thead><tbody><tr><td><strong>EDICE</strong></td><td align="center"><strong>VERZE</strong></td><td align="center"><strong>ADRESA SERVERU</strong></td><td><strong>PORT</strong></td></tr><tr><td>Java</td><td align="center">1.7 a novější</td><td align="center">mc.surocraft.eu</td><td>25565</td></tr><tr><td>Bedrock</td><td align="center">1.19.80 a novější</td><td align="center">mcbe.surocraft.eu</td><td>19132</td></tr></tbody></table>
 
 Pro Java Edition hráče doporučujeme používat verzi 1.17 či vyšší pro lepší kompatibilitu.\
 Připojením na server souhlasíš s našimi [pravidly](server/rules/).
@@ -76,7 +76,7 @@ Připojení s různými módy a neoficiálními klienty je nutné konzultovat se
 {% tab title="Bedrock Edition" %}
 <div align="left">
 
-<img src=".gitbook/assets/ps2_326.png" alt="">
+<img src=".gitbook/assets/Screenshot_492.png" alt="">
 
 </div>
 {% endtab %}
