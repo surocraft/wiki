@@ -39,16 +39,13 @@ Co znamenají zkratky `S6`, `S7`, `S8` atd. ?\
 Jsou to zkratky pro sezónu serveru, která se mění podle resetu serveru.\
 Většinou se jedná o vydání nové Minecraft verze.
 
-Aktuálně (Červenec 2022) je sezóna SuroCraftu 8. To znamená, že právě probíhá 8. sezóna.\
-_Velké číslo, že?_
-
 Používáme je v orientaci mezi každou sezónou, třeba když si posíláme screenshoty. Je dobré vědět, v jaké sezóně to bylo.
 
 ### Kredity
 
 Kredity jsou naše herní měna. Lze je získat i zdarma. Za každý [hlas](../#vote) totiž nedostaneš jenom rank [Wood](../ranky/seznam.md#wood), ale i 1K (kredit). Kredity si také můžeš vyměňovat mezi ostatními, příkazem `/pay <hráč> <částka>`.
 
-Touto měnou se dají zakoupit pozemky na spawnu, primárně určené pro obchody a nebo Iron Rank a to za 30 kreditů.
+Touto měnou se dají zakoupit pozemky na spawnu, primárně určené pro obchody a nebo Iron Rank a to za 70 kreditů.
 
 ## Fajn vědět
 

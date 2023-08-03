@@ -224,7 +224,7 @@ Tam si můžeš v záložce kategorií zvolit [kategorii ranky](https://surocraf
 | **Rank**                                                                                                             | **Cena**                | **Platnost** |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------ |
 | <mark style="color:orange;">Wood</mark> <img src="../.gitbook/assets/SC_rank-wood.png" alt="" data-size="line">      | Za vote ([?](../#vote)) | 24 hodin     |
-| Iron <img src="../.gitbook/assets/SC_rank-iron.png" alt="" data-size="line">                                         | _Aktuálně neprodejné_   | 30 dní       |
+| Iron <img src="../.gitbook/assets/SC_rank-iron.png" alt="" data-size="line">                                         | 70 K (herní měna)       | 30 dní       |
 | <mark style="color:yellow;">Gold</mark> <img src="../.gitbook/assets/SC_rank-gold.png" alt="" data-size="line">      | 50 Kč (\~ 2 €)          | 30 dní       |
 | <mark style="color:blue;">Diamond</mark> <img src="../.gitbook/assets/SC_rank-diamond.png" alt="" data-size="line">  | 100 Kč (\~ 4 €)         | 30 dní       |
 | <mark style="color:green;">Emerald</mark> <img src="../.gitbook/assets/SC_rank-emerald.png" alt="" data-size="line"> | 200 Kč (\~ 8 €)         | 30 dní       |

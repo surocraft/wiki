@@ -13,7 +13,7 @@ Rezidence je vlastně pozemek umístěny kdekoliv na světě. Slouží k označe
 Označení **res** je zkratka pro **rezidenci**.
 {% endhint %}
 
-{% embed url="https://youtu.be/CaSxLwY0tqY" %}
+{% embed url="https://youtu.be/CaSxLwY0tqY" fullWidth="true" %}
 YouTube video tutoriál na vytvoření vlastní rezidence
 {% endembed %}
 
