@@ -43,9 +43,9 @@ Používáme je v orientaci mezi každou sezónou, třeba když si posíláme sc
 
 ### Kredity
 
-Kredity jsou naše herní měna. Lze je získat i zdarma. Za každý [hlas](../#vote) totiž nedostaneš jenom rank [Wood](../ranky/seznam.md#wood), ale i 1K (kredit). Kredity si také můžeš vyměňovat mezi ostatními, příkazem `/pay <hráč> <částka>`.
+Kredity jsou naše herní měna. Lze je získat i zdarma. Za každý [hlas](../#vote) totiž nedostaneš jenom rank [Wood](../ranky/seznam.md#wood), ale i 2 K (kredit). Kredity si také můžeš vyměňovat mezi ostatními, příkazem `/pay <hráč> <částka>`.
 
-Touto měnou se dají zakoupit pozemky na spawnu, primárně určené pro obchody a nebo Iron Rank a to za 70 kreditů.
+Touto měnou se dají zakoupit pozemky na spawnu, primárně určené pro obchody a nebo Iron Rank a to za 300 Kreditů.
 
 ## Fajn vědět
 
