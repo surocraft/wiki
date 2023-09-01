@@ -4,23 +4,83 @@ description: Seznam často kladených otázek
 
 # ❓ FAQ
 
-#### Obsah (seznam nadpisů)
+<details>
+
+<summary><strong>Obsah (seznam nadpisů)</strong></summary>
+
+
 
 * [Máte Discord server?](faq.md#mate-discord-server)
+
+<!---->
+
 * [Kdo patří do týmu SuroCraft?](faq.md#kdo-patri-do-tymu-surocraft)
+
+<!---->
+
 * [Kde mohu nahlásit nějakého člena serveru, či staff?](faq.md#kde-mohu-nahlasit-nejakeho-clena-serveru-ci-staff)
+
+<!---->
+
 * [Mohu si nějak propojit Bedrock účet s Java?](faq.md#mohu-si-nejak-propojit-bedrock-ucet-s-java)
+
+<!---->
+
 * [Jak se dostanu na survival?](faq.md#jak-se-dostanu-na-survival)
+
+<!---->
+
 * [Jak získám nějaký rank?](faq.md#jak-ziskam-nejaky-rank)
+
+<!---->
+
 * [Jak zjistím svůj nahraný čas?](faq.md#jak-zjistim-svuj-nahrany-cas)
+
+<!---->
+
 * [Mohu se stát staff členem?](faq.md#mohu-se-stat-staff-clenem)
+
+<!---->
+
 * [Kdy bývají eventy?](faq.md#kdy-byvaji-eventy)
+
+<!---->
+
 * [Kdo server vlastní?](faq.md#kdo-server-vlastni)
+
+<!---->
+
 * [Jak získám pozemek pro obchod?](faq.md#jak-ziskam-pozemek-pro-obchod)
+
+<!---->
+
 * [Jak si koupím vlastní rank?](faq.md#jak-si-koupim-vlastni-rank)
+
+<!---->
+
 * [Jak si vytvořím a nastavím vlastního Shopkeepera?](faq.md#jak-si-vytvorim-a-nastavim-vlastniho-shopkeepera)
+
+<!---->
+
 * [Jak si nastavím vlastní rezidenci?](faq.md#jak-si-nastavim-vlastni-rezidenci)
+
+<!---->
+
 * [Proč si nemůžu nastavit v rezidenci move vlajku?](faq.md#proc-si-nemuzu-nastavit-v-rezidenci-move-vlajku)
+
+<!---->
+
+* [Mohu získat YouTube (influencer) rank?](faq.md#mohu-ziskat-youtube-influencer-rank)
+
+<!---->
+
+* [Můžu začít od znova? Můžu si nechat resetovat data?](faq.md#muzu-zacit-od-znova-muzu-si-nechat-resetovat-data)
+
+<!---->
+
+* [Proč nepodporujete warez?](faq.md#proc-nepodporujete-warez)
+
+</details>
 
 ### Máte Discord server?
 
@@ -117,3 +177,16 @@ Najdeš tam i video-návod, který je hezky vysvětlený a sestavený jedinečn�
 Vlajka `move` u rezidencí je nově se sezónou 9 zrušena. Neplánujeme její přidání zpět.\
 Je to kvůli tomu, aby se mohl jakýkoliv hráč volně pohybovat ve světě například s elytry. Zároveň je pozitivní uvolnit možnost ostatním hráčům prohlížet si vaši tvorbu.\
 Není známý důvod, proč by `move` vlajka měla vlastně být přidána zpět. Stačí si nastavit build, `destroy` a `container` vlajky, které jsou pro zabezpečení rezidencí nejdůležitější.
+
+### **Mohu získat YouTube (influencer) rank?**
+
+Ano, stačí když splníš [podmínky pro rank](https://wiki.surocraft.eu/ranky/seznam#youtube-rank). Následně stačí [kontaktovat staff](t/uzitecne.md#ticket).
+
+### Můžu začít od znova? Můžu si nechat resetovat data?
+
+Ano, tato možnost tu existuje. Stačí [požádat staff](t/uzitecne.md#ticket). Můžeme vyresetovat **hráčské data** (inventář, pozice, ender chestka, homes, kredity...), **achievementy**, **rezidence** a další na požádání. Stavby a jiné úpravy světa budou záchovány.
+
+### Proč nepodporujete warez?
+
+Připojení s tzv. "warez" - tedy neoriginálními (neoficiálními) kopiemi hry Minecraft není povoleno. Především kvůli tomu, že používání těchto verzi her může vést k negativním právnickým potížím, kvůli tomu, že je vyvojáři hry zakazují a je tím pádem hraní tímto způsobem nelegální.\
+Zároveň je to velká ochrana serveru před hráči, kteří mají zájem podvádět.
