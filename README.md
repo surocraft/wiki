@@ -63,7 +63,7 @@ Server je dostupný pro Minecraft: **Bedrock Edition** a **Java Edition**\
 
 _Nejaktualizovanější informace najdeš na našem webu_ [_zde_](https://surocraft.eu/#join)_._
 
-<table data-header-hidden><thead><tr><th>EDICE</th><th align="center">VERZE</th><th align="center">IP</th><th width="200">PORT</th></tr></thead><tbody><tr><td><strong>EDICE</strong></td><td align="center"><strong>VERZE</strong></td><td align="center"><strong>IP ADRESA</strong></td><td><strong>PORT</strong></td></tr><tr><td>Java</td><td align="center">1.9 a novější</td><td align="center">mc.surocraft.eu</td><td>25565</td></tr><tr><td>Bedrock</td><td align="center">1.20 a novější</td><td align="center">mc.surocraft.eu</td><td>19132</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th>EDICE</th><th align="center">VERZE</th><th align="center">IP</th><th width="200">PORT</th></tr></thead><tbody><tr><td><strong>EDICE</strong></td><td align="center"><strong>VERZE</strong></td><td align="center"><strong>IP ADRESA</strong></td><td><strong>PORT</strong></td></tr><tr><td>Java</td><td align="center">1.9 a novější</td><td align="center">mc.surocraft.eu</td><td>25565</td></tr><tr><td>Bedrock</td><td align="center">1.20.40 a novější</td><td align="center">mc.surocraft.eu</td><td>19132</td></tr></tbody></table>
 
 Pro Java Edition hráče doporučujeme používat verzi 1.17 či vyšší pro lepší kompatibilitu.\
 Připojením na server souhlasíš s našimi [pravidly](server/pravidla/).
