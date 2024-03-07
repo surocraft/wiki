@@ -6,9 +6,9 @@
 ## Server
 
 * [📕 Pravidla](server/pravidla/README.md)
-  * [1⃣ Obecné](server/pravidla/oc.md)
-  * [2⃣ Discord](server/pravidla/dc.md)
-  * [3⃣ Minecraft](server/pravidla/mc.md)
+  * [1️⃣ Obecné](server/pravidla/oc.md)
+  * [2️⃣ Discord](server/pravidla/dc.md)
+  * [3️⃣ Minecraft](server/pravidla/mc.md)
 * [📖 Slovníček](server/slovnicek.md)
 * [🌐 Odkazy a další](server/odkazy.md)
 * [👮 Staff](server/staff.md)
