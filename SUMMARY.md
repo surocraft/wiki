@@ -10,7 +10,8 @@
   * [2️⃣ Discord](server/pravidla/dc.md)
   * [3️⃣ Minecraft](server/pravidla/mc.md)
 * [📖 Slovníček](server/slovnicek.md)
-* [⚔️ Civilizace](server/civ.md)
+* [⚔️ Civilizace](server/civ/README.md)
+  * [1️⃣ CIV 01](server/civ/01.md)
 * [🌐 Odkazy a další](server/odkazy.md)
 * [👮 Staff](server/staff.md)
 
