@@ -42,7 +42,7 @@ Pokud si tak ještě neudělal, přečti si [pravidla serveru](../server/pravidl
 
 #### 2. Založení ticketu v kanále <a href="#ticket-create" id="ticket-create"></a>
 
-Běž v Discord serveru do kanálu **#ticket**, zde uvidíš zprávu pod které je tlačítko. Na to klikneš a vytvoří se nový kanál, tam si můžeme začít psát.
+Běž na náš [Discord server](https://dsc.gg/surocraft) do kanálu [**#ticket**](https://discord.com/channels/812280438490923048/862805973490991105), kdeuvidíš zprávu pod kterou je tlačítko. Na to klikneš a vytvoří se nový kanál, tam si můžeme začít psát.
 
 <div align="left">
 
