@@ -25,6 +25,7 @@
 * [Užitečné](navody/uzitecne.md)
 * [Rezidence](navody/rezidence.md)
 * [Pozemky](navody/lands.md)
+* [🌟 Custom enchanty](navody/custom-enchanty.md)
 * [Propojení účtů](navody/linkaccount.md)
 * [Shopkeepers](navody/shopkeepers.md)
 * [BlockLocker](navody/blocklocker.md)
