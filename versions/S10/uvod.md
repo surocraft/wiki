@@ -15,7 +15,7 @@ head:
 # 📘 ÚVOD
 
 Tato wiki slouží k usnadnění tvého hledání a zároveň k uvolnění času našeho staff týmu.\
-Zde by jsi měl najít všechny důležité odpovědi.
+Zde by jsi měl(a) najít všechny důležité odpovědi.
 
 Samozřejmě, pokud je nenajdete, neváhejte založit [**ticket**](navody/uzitecne.md#ticket) na [**Discord serveru**](https://dsc.gg/surocraft).
 

@@ -25,7 +25,7 @@ hero:
           link: ./uvod
         - theme: alt
           text: Jak se připojit
-          link: ./server/pravidla
+          link: ./t/join
         - theme: alt
           text: Dynmapa
           link: http://map.surocraft.eu:25554/
@@ -35,7 +35,7 @@ features:
       title: SUROCRAFT GALAXY
       details: <u>Nejnovější</u> SuroCraft projekt.<br>Výkonný <u>Minecraft Forge</u> server.<br>Až <mark>140+</mark> módů, <mark>25+</mark> přihlášených hráčů.
       linkText: Galaxy
-      link: ../s9
+      link: ./uvod
     - icon: ⚔️
       title: SEASON X
       details: Poslední odehraná sezóna <u>SMP serveru</u>.<br>Prostě ten <u>nejlepší multiplayer survival</u>.<br>Podívej se do <mark>historie</mark>!

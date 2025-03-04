@@ -158,7 +158,7 @@ Podporujeme tyto platební metody:
 
 Nabízíme ale také individuální řešení. O platbách různými metodami jsme ochotni konzultovat v ticketu ([?](t/uzitecne.md#ticket)), na [Discord serveru](server/slovnicek.md#discord-server). Například **SMS platby**, **PaySafeCard kód** a případně další.
 
-Po úspěšné platbě proběhnou kouzla. Přijde ti mail s oznámením o platbě. Poté dostaneš také vlastní roli na Discord serveru. No a nakonec, to nejhlavnější... dostaneš rank ve hře :smile:! Do minuty od zakoupení bys měl mít na 30 dnů svůj vlastní rank.
+Po úspěšné platbě proběhnou kouzla. Přijde ti mail s oznámením o platbě. Poté dostaneš také vlastní roli na Discord serveru. No a nakonec, to nejhlavnější... dostaneš rank ve hře :smile:! Do minuty od zakoupení bys měl(a) mít na 30 dnů svůj vlastní rank.
 
 V jakémkoliv neznámém případě, náš neváhej kontaktovat na našem [Discord serveru](server/slovnicek.md#discord-server), nejlépe založ ticket ([?](t/uzitecne.md#ticket)). Moc rádi a ochotně ti pomůžeme.
 
