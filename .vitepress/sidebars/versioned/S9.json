@@ -1,0 +1,115 @@
+[
+	{
+		"text": "Domů - Sezóna 9",
+		"link": "/",
+		"items": [
+			{
+				"text": "📘 ÚVOD",
+				"link": "/uvod"
+			},
+			{
+				"text": "❓ FAQ",
+				"link": "/faq"
+			},
+			{
+				"text": "SERVER",
+				"collapsed": false,
+				"link": "/server/pravidla",
+				"items": [
+					{
+						"text": "📕 Pravidla",
+						"collapsed": true,
+						"link": "/server/pravidla",
+						"items": [
+							{
+								"text": "1️⃣ Obecné",
+								"link": "/server/pravidla/oc"
+							},
+							{
+								"text": "2️⃣ Discord",
+								"link": "/server/pravidla/dc"
+							},
+							{
+								"text": "3️⃣ Minecraft",
+								"link": "/server/pravidla/mc"
+							}
+						]
+					},
+					{
+						"text": "📖 Slovníček",
+						"link": "/server/slovnicek"
+					},
+					{
+						"text": "⚔️ Civilizace",
+						"collapsed": true,
+						"link": "/server/civ/",
+						"items": [
+							{
+								"text": "1️⃣ CIV 01",
+								"link": "/server/civ/01"
+							}
+						]
+					},
+					{
+						"text": "🌐 Odkazy a další",
+						"link": "/server/odkazy"
+					},
+					{
+						"text": "👮 Staff",
+						"link": "/server/staff"
+					}
+				]
+			},
+			{
+				"text": "RANKY",
+				"collapsed": false,
+				"link": "/ranky/seznam",
+				"items": [
+					{
+						"text": "⭐ Ranky a jejich výhody",
+						"link": "/ranky/seznam"
+					},
+					{
+						"text": "⭐ Návody k výhodám",
+						"link": "/ranky/navody"
+					}
+				]
+			},
+			{
+				"text": "NÁVODY",
+				"collapsed": false,
+				"link": "/t/uzitecne",
+				"items": [
+					{
+						"text": "Užitečné",
+						"link": "/t/uzitecne"
+					},
+					{
+						"text": "Rezidence",
+						"link": "/t/rezidence"
+					},
+					{
+						"text": "Pozemky",
+						"link": "/t/lands"
+					},
+					{
+						"text": "Propojení účtů",
+						"link": "/t/linkaccount"
+					},
+					{
+						"text": "Shopkeepers",
+						"link": "/t/shopkeepers"
+					},
+					{
+						"text": "Blocklocker",
+						"link": "/t/blocklocker"
+					},
+					{
+						"text": "Výtahy",
+						"link": "/t/vytahy"
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,20 @@
+{
+  "name": "surocraft-wiki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "author": "PetyXbron",
+  "license": "UNLICENSED",
+  "description": "",
+  "devDependencies": {
+    "vitepress": "^1.6.3",
+    "vitepress-plugin-tabs": "^0.6.0"
+  },
+  "dependencies": {
+    "vitepress-versioning-plugin": "github:GIScience/vitepress-versioning-plugin#fix-sidebar-rewrites"
+  }
+}
