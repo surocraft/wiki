@@ -31,16 +31,12 @@ Není na tom nic složitého, prostě proveď klasickou instalaci, nemůžeš ni
 
 ## 2. Instalace modpacku
 
-Aby ses mohl(a) připojit na **SuroCraft Galaxy**, potřebuješ ještě ty všechny módy. Ty máme i právě na **Modrinthu**, ale bohužel nám *ještě nepovolili sdílení* a proto se zatím musíme spokojit se stažením z **Google Drive**:
+Aby ses mohl(a) připojit na <mark>SuroCraft Galaxy</mark>, potřebuješ ještě ty všechny módy.  
+Modpack máme hostovaný na samotném Modrinthu, kde uvidíš přehled verzí, galerii a seznam všech módů (dependenceies).
 
-### [STÁHNOUT MODPACK (.mrpack)](https://drive.google.com/file/d/1JmVcQcj6GNttNrn7yBlqD2gUyZTjs2Vg/view?usp=sharing)
+### [STÁHNOUT MODPACK](https://modrinth.com/modpack/scgalaxy/version/latest)
 
-::: info
-<mark>Je možné, že na tebe vyskočí, že tento soubor nebylo možné zkontrolovat před viry.</mark>  
-Tohle zkrátka musíš odkliknout a ten risk podstoupit. Viry jsme samozřejmě nenahrávali, ale nemůžeme nic zaručit. Zatím nemáme od nikoho zkušenost ani zprávu, která by viry potvrzovala.
-:::
-
-Tenhle soubor je ve formátu <mark>.mrpack</mark>, tedy Modrinth modpack. Jedná se o jakýsi seznam módů a pár zvolených dat ze hry. Takže se vlastně nejedná o hotový modpack, ale v clientovi se módy sami stáhnou.
+Tenhle soubor je ve formátu <mark>.mrpack</mark>, tedy Modrinth modpack. Jedná se o formát seznamu módů a pár zvolených dat ze hry. Takže se vlastně nejedná o hotový modpack, ale v clientovi se módy sami stáhnou.
 
 ### Import modpacku
 
