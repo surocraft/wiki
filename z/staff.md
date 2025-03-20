@@ -36,7 +36,7 @@ Těším se na Tebe na serveru.
 
 ### Dominen <img src="https://mc-heads.net/head/eebfd5dafc2a4563b6297b55bf16a79e/" width="80px" height="80px" alt="">
 
-_stavitel a milovník dinosaurů_  
+_hlavní asistent a milovník dinosaurů_  
 [E-mail](mailto:dominen@surocraft.eu)  
 [Instagram](https://instagram.com/domiinen)
 
@@ -44,12 +44,9 @@ _stavitel a milovník dinosaurů_
 
 ### Smrtka\_sk <img src="https://mc-heads.net/head/be925d3cfe2efa25e254eb18f0d2130b522f8bebc60a54d04080cbe234154687/" width="80px" height="80px" alt="">
 
-_hlavní asistent, pomocník a hráč bez reálného života_  
+_hlavní stavitel, pomocník a hráč bez reálného života_  
 [E-mail](mailto:smrtka@surocraft.eu)  
 [Instagram](https://instagram.com/smrtka\_sk)
-
-> Ahoj ja som Smrtka. Mám 18 rokov a pochádzam zo Slovenska. Na servery hrám odzačiatku. Mam rád poriadok a dodržiavanie pravidiel. Miluju Popcorn 🍿❤️\
-> Nezabudni ma sledovať na mojom Instagrame - [@smrtka\_sk](https://www.instagram.com/smrtka\_sk/)
 
 ## Členové helper týmu
 
@@ -60,6 +57,11 @@ _hlavní hráčská podpora a milovník fotbalu_
 
 > Čus, ja jsem Mates, je mi 20 a na surocraftu hraju pomalu od jeho zacatku. Bydlim kousek od Ostravy, jsem hrac her (nejradsi csko, mc), ale zaroven miluju fotbal.
 
+### Jupe6030 <img src="https://mc-heads.net/head/dd7c87d6bde5456b89f07d7ee273b729/" width="80px" height="80px" alt="">
+
+_stavitel a bůh v survival stavbách_  
+[Instagram](https://www.instagram.com/matesos__/)
+
 ## K čemu existuje staff serveru?
 
-Staff je na Minecraft serveru důležitý, aby někdo o ten server pečoval a aktivně pomáhal hráčům. Společně opravujeme chyby (tzv. bugy) a snažíme se vám zpříjemňovat hru, třeba eventy ([?](slovnicek.md#eventy-udalosti))!
+Staff je na Minecraft serveru důležitý, aby někdo o ten server pečoval a aktivně pomáhal hráčům. Společně opravujeme chyby (tzv. bugy) a snažíme se vám zpříjemňovat hru, třeba eventy!
