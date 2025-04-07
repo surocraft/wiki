@@ -23,7 +23,7 @@ head:
 
 Pro hraní módovaného Minecraftu potřebuješ speciální program, který nahrazuje originální Minecraft Launcher.
 
-Pro zkušené hráče, používejte client, který vám vyhovuje. Pro ty nové, doporočujeme <mark>Modrinth</mark>. <mark>Modrinth</mark> není jen stárnka s módy, ale má i vlastního clienta:
+Pro zkušené hráče, používejte client, který vám vyhovuje. Pro ty nové, doporučujeme <mark>Modrinth</mark>. <mark>Modrinth</mark> není jen stránka s módy, ale má i vlastního clienta:
 
 ### [STÁHNOUT MODRINTH CLIENT](https://modrinth.com/app)
 
@@ -40,7 +40,7 @@ Tenhle soubor je ve formátu <mark>.mrpack</mark>, tedy Modrinth modpack. Jedná
 
 ### Import modpacku
 
-Většinou stačí jen na <mark>.mrpack</mark> soubor dvakrát kliknout, nebo prostě otevřít přes Modrinth a stahování s instalací se zahají samo.
+Většinou stačí jen na <mark>.mrpack</mark> soubor dvakrát kliknout, nebo prostě otevřít přes Modrinth a stahování s instalací se zahájí samo.
 
 Pokud by ti tohle nešlo, otevři Modrinth client, klikni na plus vlevo a zaklikni import ze souboru.
 
