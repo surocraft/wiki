@@ -8,16 +8,16 @@ head:
       content: "#3a00ad"
   - - meta
     - name: og:image
-      content: "/icon/s11.png"
+      content: "/icon/SC_galaxy.png"
 
 title: Home
 layout: home
 hero:
     name: SuroCraft
-    text: Season 11
+    text: Galaxy ✨
     tagline: Ten nejlepší Minecraft server
     image:
-      src: /icon/s11.png
+      src: /icon/SC_galaxy.png
       alt: SuroCraft logo
     actions:
         - theme: brand
@@ -47,4 +47,4 @@ features:
       linkText: JIŽ BRZY!
 ---
 
-<link rel="stylesheet" href="/style/s11.css">
+<link rel="stylesheet" href="/style/galaxy.css">

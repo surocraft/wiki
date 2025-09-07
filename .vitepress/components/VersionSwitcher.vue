@@ -32,13 +32,18 @@ const sortedVersions = computed(() => {
  */
 function versionedLink(version: string): string {
     let pathElementsToRemove = 1 //CHANGED FROM 2 TO 1
-    if (!currentVersion.value.includes('latest')) {
+    if (!currentVersion.value.includes('S11')) {
         pathElementsToRemove = 2 //CHANGED FROM 3 TO 2
     }
     const sitePath = router.route.path.split('/').slice(pathElementsToRemove).join('/')
 
+    console.log('currentVersion', currentVersion.value)
+    console.log('version', version)
+    console.log('router.route.path', router.route.path)
+    console.log('sitePath', sitePath)
+
     let returnPath = '/'
-    if (!version.includes('Galaxy')) { //(latest)
+    if (!version.includes('S11')) { //(latest)
         returnPath = `/${version}/`
     }
 

@@ -12,10 +12,10 @@ head:
       content: "/icon/SC_galaxy.png"
   - - link
     - rel: stylesheet
-    - href: /style/s11.css
+    - href: /style/galaxy.css
 ---
 
-<link rel="stylesheet" href="/style/s11.css">
+<link rel="stylesheet" href="/style/galaxy.css">
 
 # 👮 Staff
 

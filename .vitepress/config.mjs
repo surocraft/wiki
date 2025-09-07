@@ -36,7 +36,7 @@ export default async () => {
 		},
 
 		versioning: {
-			latestVersion: "Galaxy ✨",
+			latestVersion: "S11",
 			sidebars: {
 				processSidebarURLs: true,
 				sidebarPathResolver: (version) => `.vitepress/sidebars/versioned/${version}.json`,

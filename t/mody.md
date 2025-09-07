@@ -12,9 +12,9 @@ head:
       content: "/icon/SC_galaxy.png"
   - - link
     - rel: stylesheet
-    - href: /style/galaxy.css
+    - href: /style/s11.css
 ---
 
-<link rel="stylesheet" href="/style/galaxy.css">
+<link rel="stylesheet" href="/style/s11.css">
 
 Již brzy!
