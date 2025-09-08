@@ -15,6 +15,6 @@
     "vitepress-plugin-tabs": "^0.6.0"
   },
   "dependencies": {
-    "vitepress-versioning-plugin": "github:GIScience/vitepress-versioning-plugin#fix-sidebar-rewrites"
+    "vitepress-versioning-plugin": "^1.2.1"
   }
 }

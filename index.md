@@ -31,16 +31,16 @@ hero:
           link: http://map.surocraft.eu:25554/
 
 features:
-    - icon: ✨
-      title: SUROCRAFT GALAXY
-      details: <u>Nejnovější</u> SuroCraft projekt.<br>Výkonný <u>Minecraft Forge</u> server.<br>Až <mark>140+</mark> módů, <mark>25+</mark> přihlášených hráčů.
-      linkText: Galaxy
+    - icon: 🪐
+      title: ORBIS
+      details: Aktuální season našeho <u>SMP serveru</u>.<br>Prostě ten <u>nejlepší multiplayer survival</u>.<br>Už <mark>11.</mark> season s již <mark>150+</mark> připojenými účty.
+      linkText: Season 11
       link: ./uvod
-    - icon: ⚔️
-      title: SEASON X
-      details: Poslední odehraná sezóna <u>SMP serveru</u>.<br>Prostě ten <u>nejlepší multiplayer survival</u>.<br>Podívej se do <mark>historie</mark>!
-      linkText: Sezóna 10
-      link: ../S10
+    - icon: ✨
+      title: GALAXY
+      details: <u>Exluzivní</u> SuroCraft projekt.<br>Výkonný <u>Minecraft Forge</u> server.<br>Podívej se do <mark>historie</mark>!
+      linkText: Galaxy
+      link: ../galaxy
     - icon: 🖼️
       title: GALERIE
       details: Složka se všemi zveřejněnými <u>obrázky</u> ze SC.<br>Objevuj <mark>zážitky</mark> ze SuroCraftu!
