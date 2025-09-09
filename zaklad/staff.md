@@ -17,7 +17,7 @@ head:
 
 <link rel="stylesheet" href="/style/s11.css">
 
-# 👮 Staff
+# 👮 STAFF
 
 ## Členové staff týmu
 

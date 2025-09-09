@@ -60,7 +60,7 @@ export default async () => {
 		themeConfig: {
 			// https://vitepress.dev/reference/default-theme-config
 
-			logo: "/icon/surocraft.png",
+			logo: "/icon/surocraft2.png",
 
 			siteTitle: "SuroCraft",
 
@@ -115,44 +115,52 @@ export default async () => {
 			sidebar: {
 				'/': [
 					{
-						text: 'Domů - Galaxy', link: '/',
+						text: 'Domů - Season 11', link: '/',
 						items: [
 							{
-								"text": "📘 ÚVOD",
+								"text": "📘 Úvod",
 								"link": "/uvod"
+							},
+							{
+								"text": "📕 Pravidla",
+								"link": "/pravidla"
+							},
+							{
+								"text": "📗 Odkazy",
+								"link": "/odkazy"
 							},
 							{
 								"text": "ZÁKLAD",
 								"collapsed": false,
-								"link": "/z/pravidla",
+								"link": "/zaklad/pripojeni",
 								"items": [
 									{
-										"text": "📕 Pravidla",
-										"link": "/z/pravidla"
+										"text": "💻 Jak se připojit",
+										"link": "/zaklad/pripojeni"
 									},
 									{
-										"text": "🌐 Odkazy a další",
-										"link": "/z/odkazy"
+										"text": "⚙️ Seznam doplňků",
+										"link": "/zaklad/doplnky"
 									},
 									{
-										"text": "👮 Staff",
-										"link": "/z/staff"
+										"text": "👮 Náš staff",
+										"link": "/zaklad/staff"
 									}
 								]
 							},
 							{
 								"text": "NÁVODY",
 								"collapsed": false,
-								"link": "/t/join",
+								"link": "/navody/residence",
 								"items": [
 									{
-										"text": "💻 Jak se připojit",
-										"link": "/t/join"
+										"text": "🌍 Residence",
+										"link": "/navody/residence"
 									},
 									{
-										"text": "⚙️ Seznam módů",
-										"link": "/t/mody"
-									}
+										"text": "🎧 Voicechat",
+										"link": "/navody/voicechat"
+									},
 								]
 							},
 						]

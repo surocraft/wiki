@@ -25,10 +25,10 @@ hero:
           link: ./uvod
         - theme: alt
           text: Jak se připojit
-          link: ./t/join
+          link: ./zaklad/pripojeni
         - theme: alt
           text: Dynmapa
-          link: http://map.surocraft.eu:25554/
+          link: https://map.surocraft.eu
 
 features:
     - icon: 🪐
@@ -40,7 +40,7 @@ features:
       title: GALAXY
       details: <u>Exluzivní</u> SuroCraft projekt.<br>Výkonný <u>Minecraft Forge</u> server.<br>Podívej se do <mark>historie</mark>!
       linkText: Galaxy
-      link: ../galaxy
+      link: ../GX
     - icon: 🖼️
       title: GALERIE
       details: Složka se všemi zveřejněnými <u>obrázky</u> ze SC.<br>Objevuj <mark>zážitky</mark> ze SuroCraftu!

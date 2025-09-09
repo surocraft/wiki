@@ -1,5 +1,5 @@
 ---
-description: Módy
+description: Užitečné odkazy
 head:
   - - meta
     - name: og:site_name
@@ -16,5 +16,7 @@ head:
 ---
 
 <link rel="stylesheet" href="/style/s11.css">
+
+# 📗 ODKAZY
 
 Již brzy!
