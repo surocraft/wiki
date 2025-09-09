@@ -19,4 +19,7 @@ head:
 
 # 📗 ODKAZY
 
-Již brzy!
+> **DynMapa:** [map.surocraft.eu](https://map.surocraft.eu)  
+> **Discord:** [dsc.gg/surocraft](https://dsc.gg/surocraft)  
+> **Instagram:** [@surocraft](https://www.instagram.com/surocraft)  
+> **Příspěvky:** [opencollective.com/surocraft](https://opencollective.com/surocraft)

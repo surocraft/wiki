@@ -25,4 +25,11 @@ Vlastně aktuálně platí jen jedno:
 
 ### <mark>Chovej se k ostatním hezky, nikoho neobtěžuj a nekaž mu hru.</mark>
 
-Tímhle jednoduchým motem se řídíme při výběru na whitelist. Tohle pravidlo musí dodržovat všichni, a v případě jeho nedodržování může dojít k trestům: časovému zabanování v Minecraftu, odebrání z whitelistu Galaxy a zabanování na Discordu.
+Toto pravidlo musí dodržovat všichni, a v případě jeho nedodržování může dojít k trestům:
+- vyhození
+- dočasné ztlumení
+- ztlumení
+- dočasný ban
+- trvalý ban
+
+na obou platformách (Discord, Minecraft).
