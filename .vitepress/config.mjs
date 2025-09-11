@@ -80,6 +80,26 @@ export default async () => {
 			search: {
 				provider: 'local',
 				options: {
+					miniSearch: {
+						searchOptions: {
+							filter: (result) => {
+								const versions = ['S8', 'S9', 'S10', 'S11', 'GX'];
+
+								if (typeof window === 'undefined') return true;
+
+								const parts = window.location.pathname.split('/').filter(Boolean);
+								const current = (parts.length > 0 && versions.includes(parts[0])) ? parts[0] : 'S11';
+
+								const link = result.id || '';
+
+								if (current === 'S11') {
+									return !versions.filter(v => v !== 'S11').some(v => link.startsWith(`/${v}/`));
+								}
+
+								return link.startsWith(`/${current}/`);
+							}
+						}
+					},
 					locales: {
 						root: {
 							translations: {
