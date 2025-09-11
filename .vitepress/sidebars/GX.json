@@ -1,0 +1,46 @@
+[
+	{
+        "text": "Domů - Galaxy",
+		"link": "/",
+		"items": [
+            {
+                "text": "📘 ÚVOD",
+                "link": "/uvod"
+            },
+            {
+                "text": "ZÁKLAD",
+                "collapsed": false,
+                "link": "/z/pravidla",
+                "items": [
+                    {
+                        "text": "📕 Pravidla",
+                        "link": "/z/pravidla"
+                    },
+                    {
+                        "text": "🌐 Odkazy a další",
+                        "link": "/z/odkazy"
+                    },
+                    {
+                        "text": "👮 Staff",
+                        "link": "/z/staff"
+                    }
+                ]
+            },
+            {
+                "text": "NÁVODY",
+                "collapsed": false,
+                "link": "/t/join",
+                "items": [
+                    {
+                        "text": "💻 Jak se připojit",
+                        "link": "/t/join"
+                    },
+                    {
+                        "text": "⚙️ Seznam módů",
+                        "link": "/t/mody"
+                    }
+                ]
+            }
+        ]
+	}
+]

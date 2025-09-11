@@ -10,6 +10,14 @@ const props = defineProps<{
 
 const router = useRouter();
 
+const versionList = {
+    "S8": "Sezóna 8",
+    "S9": "Sezóna 9",
+    "S10": "Season 10",
+    "S11": "Season 11",
+    "GX": "Galaxy"
+}
+
 const sortedVersions = computed(() => {
     let versions = props.versioningPlugin.versions.toReversed();
     versions.push(props.versioningPlugin.latestVersion);
@@ -21,7 +29,7 @@ const sortedVersions = computed(() => {
     });
 
     return versions.map(version => ({
-        text: version.match(/^s(\d+)$/i) ? `Sezóna ${version.slice(1)}` : version,
+        text: versionList[version] || version,
         value: version
     }));
 });
@@ -32,13 +40,13 @@ const sortedVersions = computed(() => {
  */
 function versionedLink(version: string): string {
     let pathElementsToRemove = 1 //CHANGED FROM 2 TO 1
-    if (!currentVersion.value.includes('latest')) {
+    if (!currentVersion.value.includes('S11')) {
         pathElementsToRemove = 2 //CHANGED FROM 3 TO 2
     }
     const sitePath = router.route.path.split('/').slice(pathElementsToRemove).join('/')
 
     let returnPath = '/'
-    if (!version.includes('Galaxy')) { //(latest)
+    if (!version.includes('S11')) { //(latest)
         returnPath = `/${version}/`
     }
 

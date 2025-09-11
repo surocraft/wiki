@@ -2,6 +2,7 @@ import { loadEnv } from 'vitepress';
 import { fileURLToPath, URL } from 'node:url';
 import defineVersionedConfig from 'vitepress-versioning-plugin';
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs';
+import sidebarJson from './sidebars/S11.json';
 
 export default async () => {
 	const env = loadEnv("", process.cwd());
@@ -36,10 +37,10 @@ export default async () => {
 		},
 
 		versioning: {
-			latestVersion: "Galaxy ✨",
+			latestVersion: "S11",
 			sidebars: {
 				processSidebarURLs: true,
-				sidebarPathResolver: (version) => `.vitepress/sidebars/versioned/${version}.json`,
+				sidebarPathResolver: (version) => `.vitepress/sidebars/${version}.json`,
 				sidebarUrlProcessor: (url, version) => url.startsWith("http") ? url : `/${version}${url}`
 			},
 		},
@@ -60,7 +61,7 @@ export default async () => {
 		themeConfig: {
 			// https://vitepress.dev/reference/default-theme-config
 
-			logo: "/icon/surocraft.png",
+			logo: "/icon/surocraft2.png",
 
 			siteTitle: "SuroCraft",
 
@@ -113,51 +114,7 @@ export default async () => {
 			],
 
 			sidebar: {
-				'/': [
-					{
-						text: 'Domů - Galaxy', link: '/',
-						items: [
-							{
-								"text": "📘 ÚVOD",
-								"link": "/uvod"
-							},
-							{
-								"text": "ZÁKLAD",
-								"collapsed": false,
-								"link": "/z/pravidla",
-								"items": [
-									{
-										"text": "📕 Pravidla",
-										"link": "/z/pravidla"
-									},
-									{
-										"text": "🌐 Odkazy a další",
-										"link": "/z/odkazy"
-									},
-									{
-										"text": "👮 Staff",
-										"link": "/z/staff"
-									}
-								]
-							},
-							{
-								"text": "NÁVODY",
-								"collapsed": false,
-								"link": "/t/join",
-								"items": [
-									{
-										"text": "💻 Jak se připojit",
-										"link": "/t/join"
-									},
-									{
-										"text": "⚙️ Seznam módů",
-										"link": "/t/mody"
-									}
-								]
-							},
-						]
-					}
-				],
+				'/': sidebarJson,
 			},
 
 			socialLinks: [

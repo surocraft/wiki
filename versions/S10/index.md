@@ -17,7 +17,7 @@ hero:
     text: Season X
     tagline: Ten nejlepší Minecraft server
     image:
-      src: /icon/surocraft2.png
+      src: /icon/s10.png
       alt: SuroCraft logo
     actions:
         - theme: brand
