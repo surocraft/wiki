@@ -1,14 +1,10 @@
 ---
 head:
-  - - meta
-    - name: og:site_name
-      content: SuroCraft Galaxy
-  - - meta
-    - name: theme-color
-      content: "#3a00ad"
-  - - meta
-    - name: og:image
-      content: "/icon/SC_galaxy.png"
+  - [link, { rel: "icon", href: "/icon/SC_galaxy.png" }]
+  - [meta, { name: "og:site_name", content: "SuroCraft Wiki" }]
+  - [meta, { name: "theme-color", content: "#3a00ad" }]
+  - [meta, { name: "og:image", content: "/icon/SC_galaxy.png" }]
+  - [link, { rel: "stylesheet", href: "/style/gx.css" }]
 
 title: Home
 layout: home
@@ -46,5 +42,3 @@ features:
       details: Složka se všemi zveřejněnými <u>obrázky</u> ze SC.<br>Objevuj <mark>zážitky</mark> ze SuroCraftu!
       linkText: JIŽ BRZY!
 ---
-
-<link rel="stylesheet" href="/style/galaxy.css">

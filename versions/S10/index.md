@@ -1,14 +1,10 @@
 ---
 head:
-  - - meta
-    - name: og:site_name
-      content: SuroCraft Sezóna 10
-  - - meta
-    - name: theme-color
-      content: "#962c49"
-  - - meta
-    - name: og:image
-      content: "/icon/surocraft.png"
+  - [link, { rel: "icon", href: "/icon/s10.png" }]
+  - [meta, { name: "og:site_name", content: "SuroCraft Wiki" }]
+  - [meta, { name: "theme-color", content: "#3a00ad" }]
+  - [meta, { name: "og:image", content: "/icon/s10.png" }]
+  - [link, { rel: "stylesheet", href: "/style/s10.css" }]
 
 title: Home
 layout: home

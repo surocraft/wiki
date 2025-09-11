@@ -1,0 +1,16 @@
+:root {
+    --vp-c-brand-1: #666783 !important;
+    --vp-c-brand-2: #414254 !important;
+    --vp-c-brand-3: #666783 !important;
+    --vp-c-brand-soft: #19033e !important;
+}
+
+:root {
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg,
+            #d4d4d4 1%,
+            #000001) !important;
+
+    --vp-home-hero-image-background-image: url("/branding/space-bg.png");
+    --vp-home-hero-image-filter: blur(44px);
+}
