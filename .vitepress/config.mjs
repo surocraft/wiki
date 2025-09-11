@@ -2,6 +2,7 @@ import { loadEnv } from 'vitepress';
 import { fileURLToPath, URL } from 'node:url';
 import defineVersionedConfig from 'vitepress-versioning-plugin';
 import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs';
+import sidebarJson from './sidebars/S11.json';
 
 export default async () => {
 	const env = loadEnv("", process.cwd());
@@ -39,7 +40,7 @@ export default async () => {
 			latestVersion: "S11",
 			sidebars: {
 				processSidebarURLs: true,
-				sidebarPathResolver: (version) => `.vitepress/sidebars/versioned/${version}.json`,
+				sidebarPathResolver: (version) => `.vitepress/sidebars/${version}.json`,
 				sidebarUrlProcessor: (url, version) => url.startsWith("http") ? url : `/${version}${url}`
 			},
 		},
@@ -113,59 +114,7 @@ export default async () => {
 			],
 
 			sidebar: {
-				'/': [
-					{
-						text: 'Domů - Season 11', link: '/',
-						items: [
-							{
-								"text": "📘 Úvod",
-								"link": "/uvod"
-							},
-							{
-								"text": "📕 Pravidla",
-								"link": "/pravidla"
-							},
-							{
-								"text": "📗 Odkazy",
-								"link": "/odkazy"
-							},
-							{
-								"text": "ZÁKLAD",
-								"collapsed": false,
-								"link": "/zaklad/pripojeni",
-								"items": [
-									{
-										"text": "💻 Jak se připojit",
-										"link": "/zaklad/pripojeni"
-									},
-									{
-										"text": "⚙️ Seznam doplňků",
-										"link": "/zaklad/doplnky"
-									},
-									{
-										"text": "👮 Náš staff",
-										"link": "/zaklad/staff"
-									}
-								]
-							},
-							{
-								"text": "NÁVODY",
-								"collapsed": false,
-								"link": "/navody/residence",
-								"items": [
-									{
-										"text": "🌍 Residence",
-										"link": "/navody/residence"
-									},
-									{
-										"text": "🎧 Voicechat",
-										"link": "/navody/voicechat"
-									},
-								]
-							},
-						]
-					}
-				],
+				'/': sidebarJson,
 			},
 
 			socialLinks: [
