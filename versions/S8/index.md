@@ -46,6 +46,7 @@ features:
       link: ../S10
     - icon: 🖼️
       title: GALERIE
-      details: Složka se všemi zveřejněnými obrázky ze SC.<br>Objevuj zážitky ze SuroCraftu!
-      linkText: JIŽ BRZY!
+      details: Složka se všemi zveřejněnými <u>obrázky</u> ze SC.<br>Objevuj <mark>zážitky</mark> ze SuroCraftu!
+      linkText: Galerie
+      link: /galerie
 ---

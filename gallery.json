@@ -1,0 +1,289 @@
+[
+    {
+        "src": "/gallery/s6_banner.png",
+        "alt": "S6 Banner",
+        "description": "Oficiální banner pro sezónu 6",
+        "tags": ["banner"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s6_base_petyxbron.png",
+        "alt": "Base PetyXbron S6",
+        "description": "Základna hráče PetyXbron v sezóně 6",
+        "tags": ["base"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s6_pozemek_1.png",
+        "alt": "Pozemek S6",
+        "description": "Ukázka pozemku v sezóně 6",
+        "tags": ["pozemky"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s6_pozemky_1.png",
+        "alt": "Pozemky S6 (1)",
+        "description": "Pozemky spawn oblasti v sezóně 6",
+        "tags": ["pozemky"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s6_pozemky_2.png",
+        "alt": "Pozemky S6 (2)",
+        "description": "Další pohled na pozemky spawn oblasti v sezóně 6",
+        "tags": ["pozemky"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s6_pozemky_3.png",
+        "alt": "Pozemky S6 (3)",
+        "description": "Třetí pohled na pozemky spawn oblasti v sezóně 6",
+        "tags": ["pozemky"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s6_pozemky_4.png",
+        "alt": "Pozemky S6 (4)",
+        "description": "Čtvrtý pohled na pozemky spawn oblasti v sezóně 6",
+        "tags": ["pozemky"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s6_spawn_2.png",
+        "alt": "Spawn S6",
+        "description": "Spawn budova v sezóně 6",
+        "tags": ["spawn"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s7_banner.png",
+        "alt": "S7 Banner",
+        "description": "Oficiální banner pro sezónu 7",
+        "tags": ["banner"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_banner_zima.png",
+        "alt": "S7 Vánoční Banner",
+        "description": "Vánoční banner pro sezónu 7",
+        "tags": ["banner", "zimní"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_base_kawecki_1.png",
+        "alt": "Base Kawecki S7 (1)",
+        "description": "Základna hráče Kawecki v sezóně 7 - první pohled",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_base_kawecki_2.png",
+        "alt": "Base Kawecki S7 (2)",
+        "description": "Základna hráče Kawecki v sezóně 7 - druhý pohled",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_base_kawecki_4.png",
+        "alt": "Base Kawecki S7 (4)",
+        "description": "Základna hráče Kawecki v sezóně 7 - čtvrtý pohled",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_ocean_monument_1.png",
+        "alt": "Ocean Monument S7",
+        "description": "Ocean monument v sezóně 7",
+        "tags": ["mega"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_spawn_1.png",
+        "alt": "Spawn S7",
+        "description": "Spawn budova v sezóně 7",
+        "tags": ["spawn"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_spawn_pozemky_1.png",
+        "alt": "Spawn pozemky S7 (1)",
+        "description": "Pozemky kolem spawnu v sezóně 7",
+        "tags": ["pozemky"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_spawn_pozemky_2.png",
+        "alt": "Spawn pozemky S7 (2)",
+        "description": "Další pohled na pozemky kolem spawnu v sezóně 7",
+        "tags": ["pozemky"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_spawn_zima_1.png",
+        "alt": "Spawn Vánoce S7 (1)",
+        "description": "Vánoční výzdoba spawnu v sezóně 7",
+        "tags": ["spawn", "zimní"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_spawn_zima_2.png",
+        "alt": "Spawn Vánoce S7 (2)",
+        "description": "Další pohled na vánoční výzdobu spawnu v sezóně 7",
+        "tags": ["spawn", "zimní"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s8_banner.png",
+        "alt": "S8 Banner",
+        "description": "Oficiální banner pro sezónu 8",
+        "tags": ["banner"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_spawn_1.png",
+        "alt": "Spawn S8 (1)",
+        "description": "Spawn budova v sezóně 8",
+        "tags": ["spawn"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_spawn_2.png",
+        "alt": "Spawn S8 (2)",
+        "description": "Další pohled na spawn budovu v sezóně 8",
+        "tags": ["spawn"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_spawn_halloween_1.png",
+        "alt": "Spawn Halloween S8",
+        "description": "Halloween výzdoba spawnu v sezóně 8",
+        "tags": ["spawn", "halloween"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s10_spawn_1.png.jpg",
+        "alt": "Spawn S10",
+        "description": "Spawn budova v sezóně 10",
+        "tags": ["spawn"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s9_banner.jpg",
+        "alt": "SuroCraft Banner S9",
+        "description": "Jeden z oficiálních SuroCraft bannerů",
+        "tags": ["banner"],
+        "season": "S9"
+    },
+    {
+        "src": "/gallery/s6_generace.png",
+        "alt": "Generace S6",
+        "description": "Tehdejší módovaná generace",
+        "tags": [],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/event_halloween_1.png",
+        "alt": "Halloween event 1",
+        "description": "Výherci eventu, pořádaný Smrtkou, 30. 10. 2022",
+        "tags": ["event", "hráči"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/event_flyingmobs_1.png",
+        "alt": "Flying Mobs event 1",
+        "description": "Účastníci eventu, 11. 8. 2022",
+        "tags": ["event", "hráči"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/s7_spawn_velikonoce_1.png",
+        "alt": "Spawn Velikonoce S7",
+        "description": "Velikonoční výzdoba spawnu v sezóně 7",
+        "tags": ["spawn"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/event_sumo_1.png",
+        "alt": "Sumo event 1",
+        "description": "Výherci eventu, pořádaný Dominenem, 9. 4. 2022",
+        "tags": ["event", "hráči"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/event_deathrun_1.png",
+        "alt": "Death Run event 1",
+        "description": "Výherci eventu, pořádaný Smrtkou,27. 3. 2022",
+        "tags": ["event", "hráči"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/event_parkour_1.png",
+        "alt": "Parkour event 1 (1)",
+        "description": "Výherci eventu, pořádaný PetyXbronem, 13. 3. 2022",
+        "tags": ["event", "hráči"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/event_trident_2.png",
+        "alt": "Trident event 1 (2)",
+        "description": "Výherci eventu, pořádaný Dominenem, 13. 3. 2022",
+        "tags": ["event", "hráči"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/event_boatrace_1.png",
+        "alt": "Boat Race event 1",
+        "description": "Výherci eventu, pořádaný Smrtkou, 6. 2. 2022",
+        "tags": ["event", "hráči"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/event_spleef_1.png",
+        "alt": "Spleef event 1",
+        "description": "Výherci eventu, pořádaný Dominenem, 29. 1. 2022",
+        "tags": ["event", "hráči"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/s7_base_vivian_1.png",
+        "alt": "GraysKingdom S7 (1)",
+        "description": "Base VivianGray3681",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_base_vivian_2.png",
+        "alt": "GraysKingdom S7 (2)",
+        "description": "Base VivianGray3681",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_base_susenkovice_1.png",
+        "alt": "Sušenkovice S7",
+        "description": "Base Sehi06, Alexholoubek200",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_base_atomovybunkr_1.png",
+        "alt": "Atamový Bunkr 04 S7",
+        "description": "Base Dominen, Smrtka_sk, VikyDee",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/sy_base_monumentos_1.png",
+        "alt": "Monumentos",
+        "description": "Base MatesLPCZE, TornaldCZE",
+        "tags": ["base"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/sy_base_mendlovoudoli_1.png",
+        "alt": "Mendlovo Údolí",
+        "description": "Base PetyXbron, JendysCZ, ImMaky, Chedaros, LosKatrynos",
+        "tags": ["base"],
+        "season": ""
+    }
+]
