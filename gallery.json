@@ -285,5 +285,54 @@
         "description": "Base PetyXbron, JendysCZ, ImMaky, Chedaros, LosKatrynos",
         "tags": ["base"],
         "season": ""
+    },
+    {
+        "src": "/gallery/s7_base_ber1s_1.png",
+        "alt": "Ber1s S7",
+        "description": "Base Ber1s",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_base_sourjupiter_1.png",
+        "alt": "Eiffelova věž S7",
+        "description": "Base SourJupiter4247",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_base_proky_1.png",
+        "alt": "Pevnost S7",
+        "description": "Base CzProky22",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_base_predys_1.png",
+        "alt": "PredysCastle S7",
+        "description": "Base GeraltCZ5214/PredysCZ",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/sy_base_manicminer_1.png",
+        "alt": "Kamzik",
+        "description": "Base ManicMiner1984",
+        "tags": ["base"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s6_hraci_1.png",
+        "alt": "Řešení problému (1)",
+        "description": "V podzemí - BruticekSK, Smrtka_sk, ppman_SK",
+        "tags": ["hráči"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s6_hraci_2.png",
+        "alt": "Řešení problému (2)",
+        "description": "BruticekSK, Smrtka_sk, ppman_SK",
+        "tags": ["hráči"],
+        "season": "S6"
     }
 ]
