@@ -143,8 +143,8 @@ onUnmounted(() => {
                     <h4>{{ selectedImage.alt }}</h4>
                     <p>{{ selectedImage.description }}</p>
                     <div class="modal-tags">
-                        <span class="modal-season">{{ selectedImage.season }}</span>
-                        <span v-for="tag in selectedImage.tags" :key="tag" class="modal-tag">
+                        <span class="VPButton medium brand">{{ selectedImage.season }}</span>
+                        <span v-for="tag in selectedImage.tags" :key="tag" class="VPButton medium alt">
                             {{ tag }}
                         </span>
                     </div>

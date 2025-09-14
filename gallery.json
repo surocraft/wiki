@@ -51,7 +51,7 @@
     {
         "src": "/gallery/s6_spawn_2.png",
         "alt": "Spawn S6",
-        "description": "Spawn budova v sezóně 6",
+        "description": "Spawn v sezóně 6",
         "tags": ["spawn"],
         "season": "S6"
     },
@@ -91,16 +91,9 @@
         "season": "S7"
     },
     {
-        "src": "/gallery/s7_ocean_monument_1.png",
-        "alt": "Ocean Monument S7",
-        "description": "Ocean monument v sezóně 7",
-        "tags": ["mega"],
-        "season": "S7"
-    },
-    {
         "src": "/gallery/s7_spawn_1.png",
         "alt": "Spawn S7",
-        "description": "Spawn budova v sezóně 7",
+        "description": "Spawn v sezóně 7",
         "tags": ["spawn"],
         "season": "S7"
     },
@@ -142,7 +135,7 @@
     {
         "src": "/gallery/s8_spawn_1.png",
         "alt": "Spawn S8 (1)",
-        "description": "Spawn budova v sezóně 8",
+        "description": "Spawn v sezóně 8",
         "tags": ["spawn"],
         "season": "S8"
     },
@@ -163,7 +156,7 @@
     {
         "src": "/gallery/s10_spawn_1.png.jpg",
         "alt": "Spawn S10",
-        "description": "Spawn budova v sezóně 10",
+        "description": "Spawn v sezóně 10",
         "tags": ["spawn"],
         "season": "S10"
     },
@@ -301,7 +294,7 @@
         "season": "S7"
     },
     {
-        "src": "/gallery/s7_base_proky_1.png",
+        "src": "/gallery/s7_base_proky_1.jpg",
         "alt": "Pevnost S7",
         "description": "Base CzProky22",
         "tags": ["base"],
@@ -322,17 +315,325 @@
         "season": "S7"
     },
     {
-        "src": "/gallery/s6_hraci_1.png",
+        "src": "/gallery/s6_hraci_1.jpg",
         "alt": "Řešení problému (1)",
         "description": "V podzemí - BruticekSK, Smrtka_sk, ppman_SK",
         "tags": ["hráči"],
         "season": "S6"
     },
     {
-        "src": "/gallery/s6_hraci_2.png",
+        "src": "/gallery/s6_hraci_2.jpg",
         "alt": "Řešení problému (2)",
         "description": "BruticekSK, Smrtka_sk, ppman_SK",
         "tags": ["hráči"],
         "season": "S6"
+    },
+    {
+        "src": "/gallery/s10_spawn_halloween_1.jpg",
+        "alt": "Spawn Halloween S10 (1)",
+        "description": "Halloween výzdoba spawnu v sezóně 10",
+        "tags": ["spawn", "halloween"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_halloween_2.png",
+        "alt": "Spawn Halloween S10 (2)",
+        "description": "Halloween výzdoba spawnu v sezóně 10",
+        "tags": ["spawn", "halloween"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_halloween_3.jpg",
+        "alt": "Spawn Halloween S10 (3)",
+        "description": "Halloween výzdoba spawnu v sezóně 10",
+        "tags": ["spawn", "halloween"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_halloween_4.jpg",
+        "alt": "Spawn Halloween S10 (4)",
+        "description": "Halloween výzdoba spawnu v sezóně 10",
+        "tags": ["spawn", "halloween"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_halloween_5.jpg",
+        "alt": "Spawn Halloween S10 (5)",
+        "description": "Halloween výzdoba spawnu v sezóně 10",
+        "tags": ["spawn", "halloween"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_halloween_6.jpg",
+        "alt": "Spawn Halloween S10 (6)",
+        "description": "Halloween výzdoba spawnu v sezóně 10",
+        "tags": ["spawn", "halloween"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_halloween_7.png",
+        "alt": "Spawn Halloween S10 (7)",
+        "description": "Halloween výzdoba spawnu v sezóně 10",
+        "tags": ["spawn", "halloween"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_1.png",
+        "alt": "Spawn S10 (1)",
+        "description": "Spawn v sezóně 10",
+        "tags": ["spawn"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_2.jpg",
+        "alt": "Spawn S10 (2)",
+        "description": "Spawn v sezóně 10",
+        "tags": ["spawn", "hráči"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_3.jpg",
+        "alt": "Spawn S10 (3)",
+        "description": "Spawn v sezóně 10",
+        "tags": ["spawn"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_4.jpg",
+        "alt": "Spawn S10 (4)",
+        "description": "Spawn v sezóně 10",
+        "tags": ["spawn"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_5.png",
+        "alt": "Spawn S10 (5)",
+        "description": "Spawn v sezóně 10",
+        "tags": ["spawn"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_spawn_6.jpg",
+        "alt": "Spawn S10 (6)",
+        "description": "Spawn v sezóně 10",
+        "tags": ["spawn"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_banner.jpg",
+        "alt": "S10 Banner",
+        "description": "Oficiální banner pro sezónu 10",
+        "tags": ["spawn", "banner"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s9_banner_zima.png",
+        "alt": "S9 Vánoční Banner",
+        "description": "Vánoční banner pro sezónu 9",
+        "tags": ["spawn", "banner"],
+        "season": "S9"
+    },
+    {
+        "src": "/gallery/s9_spawn_zima_1.png",
+        "alt": "Spawn Vánoce S9 (1)",
+        "description": "Spawn v sezóně 9",
+        "tags": ["spawn", "zimní"],
+        "season": "S9"
+    },
+    {
+        "src": "/gallery/s9_spawn_zima_2.jpg",
+        "alt": "Spawn Vánoce S9 (2)",
+        "description": "Spawn v sezóně 9",
+        "tags": ["spawn", "zimní"],
+        "season": "S9"
+    },
+    {
+        "src": "/gallery/s9_spawn_1.png",
+        "alt": "Spawn S9 (1)",
+        "description": "Spawn v sezóně 9",
+        "tags": ["spawn"],
+        "season": "S9"
+    },
+    {
+        "src": "/gallery/s9_spawn_2.png",
+        "alt": "Spawn S9 (2)",
+        "description": "Spawn v sezóně 9",
+        "tags": ["spawn"],
+        "season": "S9"
+    },
+    {
+        "src": "/gallery/s9_spawn_3.png",
+        "alt": "Spawn S9 (3)",
+        "description": "Spawn v sezóně 9",
+        "tags": ["spawn"],
+        "season": "S9"
+    },
+    {
+        "src": "/gallery/s9_stats_1.png",
+        "alt": "Stats S9 (1)",
+        "description": "Stats v sezóně 9",
+        "tags": ["spawn", "stats", "hráči"],
+        "season": "S9"
+    },
+    {
+        "src": "/gallery/s9_pozemky_1.png",
+        "alt": "Pozemky S9 (1)",
+        "description": "Pozemky v sezóně 9",
+        "tags": ["pozemky"],
+        "season": "S9"
+    },
+    {
+        "src": "/gallery/s8_playtime_1.png",
+        "alt": "Playtime S8 (1)",
+        "description": "Playtime v sezóně 8",
+        "tags": ["playtime"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/event_spusteni_s9_1.png",
+        "alt": "Spuštění S9",
+        "description": "Spuštění sezóny 9 - 16. 6. 2023",
+        "tags": ["spawn", "event", "hráči"],
+        "season": "S9"
+    },
+    {
+        "src": "/gallery/event_anarchie_s8_1.jpg",
+        "alt": "Anarchie S8 (1)",
+        "description": "Anarchie sezóny 8 - 6. 6. 2023",
+        "tags": ["event", "hráči"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/event_anarchie_s8_2.jpg",
+        "alt": "Anarchie S8 (2)",
+        "description": "Anarchie sezóny 8 - 6. 6. 2023",
+        "tags": ["event"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/event_anarchie_s8_3.png",
+        "alt": "Anarchie S8 (3)",
+        "description": "Anarchie sezóny 8 - 6. 6. 2023",
+        "tags": ["event"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/event_anarchie_s8_4.jpg",
+        "alt": "Anarchie S8 (4)",
+        "description": "Anarchie sezóny 8 - 6. 6. 2023",
+        "tags": ["event"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/event_anarchie_s8_5.png",
+        "alt": "Anarchie S8 (5)",
+        "description": "Anarchie sezóny 8 - 6. 6. 2023",
+        "tags": ["event"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/event_olymp_1.png",
+        "alt": "Olymp event (1)",
+        "description": "Olymp event lobby",
+        "tags": ["event"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/event_olymp_2.png",
+        "alt": "Olymp event (2)",
+        "description": "Účastníci eventu, 13. 5. 2023",
+        "tags": ["event", "hráči"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s6_base_ber1s_1.png",
+        "alt": "Monument base S6 (1)",
+        "description": "Ber1sl, PetyXbron, PTCKarel, LosKatrynos, Dominen",
+        "tags": ["base", "mega"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s6_base_ber1s_2.png",
+        "alt": "Monument base S6 (2)",
+        "description": "Ber1sl, PetyXbron, PTCKarel, LosKatrynos, Dominen",
+        "tags": ["base", "mega"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s6_base_ber1s_3.png",
+        "alt": "Monument base S6 (3)",
+        "description": "Ber1sl, PetyXbron, PTCKarel, LosKatrynos, Dominen",
+        "tags": ["base", "mega"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s6_base_ber1s_4.png",
+        "alt": "Monument base S6 (4)",
+        "description": "Ber1sl, PetyXbron, PTCKarel, LosKatrynos, Dominen",
+        "tags": ["base", "mega"],
+        "season": "S6"
+    },
+    {
+        "src": "/gallery/s8_spawn_3.png",
+        "alt": "Spawn S8 (3)",
+        "description": "Spawn v sezóně 8",
+        "tags": ["spawn"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_spawn_4.png",
+        "alt": "Spawn S8 (4)",
+        "description": "Spawn v sezóně 8",
+        "tags": ["spawn"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_spawn_5.png",
+        "alt": "Spawn S8 (5)",
+        "description": "Spawn v sezóně 8",
+        "tags": ["spawn"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_spawn_6.png",
+        "alt": "Spawn S8 (6)",
+        "description": "Spawn v sezóně 8",
+        "tags": ["spawn"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_spawn_7.png",
+        "alt": "Spawn S8 (7)",
+        "description": "Spawn v sezóně 8",
+        "tags": ["spawn"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_spawn_zima_1.png",
+        "alt": "Spawn Vánoce S8 (1)",
+        "description": "Vánoční výzdoba spawnu v sezóně 8",
+        "tags": ["spawn", "zimní"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_spawn_zima_2.png",
+        "alt": "Spawn Vánoce S8 (2)",
+        "description": "Vánoční výzdoba spawnu v sezóně 8",
+        "tags": ["spawn", "zimní"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_spawn_zima_3.png",
+        "alt": "Spawn Vánoce S8 (3)",
+        "description": "Vánoční výzdoba spawnu v sezóně 8",
+        "tags": ["spawn", "zimní"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_spawn_zima_4.png",
+        "alt": "Spawn Vánoce S8 (4)",
+        "description": "Vánoční výzdoba spawnu v sezóně 8",
+        "tags": ["spawn", "zimní"],
+        "season": "S8"
     }
 ]
