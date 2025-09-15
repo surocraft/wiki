@@ -635,5 +635,145 @@
         "description": "Vánoční výzdoba spawnu v sezóně 8",
         "tags": ["spawn", "zimní"],
         "season": "S8"
+    },
+    {
+        "src": "/gallery/s10_playtime_1.png",
+        "alt": "Playtime S10 (1)",
+        "description": "Playtime v sezóně 10",
+        "tags": ["playtime"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_base_seezy626.png",
+        "alt": "\"Seezyho díra\" S10",
+        "description": "Hráče Seezy626 v sezóně 10",
+        "tags": ["base"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/event_anarchie_s10_1.png",
+        "alt": "Anarchie S10 (1)",
+        "description": "Anarchie sezóny 10",
+        "tags": ["event"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_hraci_1.png",
+        "alt": "Hráči S10 (1)",
+        "description": "Sunka01, Smrtka_sk, Pohodovej_rybar",
+        "tags": ["hráči"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s7_hraci_1.png",
+        "alt": "Hráči S7 (1)",
+        "description": "CzProky22, PetyXbron, CzechBurger, RichardB09, Gamyngwoods1079, Dominen, Hestre",
+        "tags": ["hráči"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_pozemek_1.png",
+        "alt": "Pozemek Vivian S7",
+        "description": "VivianGray3681",
+        "tags": ["pozemky"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/s7_pozemek_2.png",
+        "alt": "Pozemek CzechBurger S7",
+        "description": "CzechBurger",
+        "tags": ["pozemky"],
+        "season": "S7"
+    },
+    {
+        "src": "/gallery/event_parkour_2.png",
+        "alt": "Parkour event 1 (2)",
+        "description": "Hráči na parkour eventu, pořádaný PetyXbronem, 13. 3. 2022",
+        "tags": ["event", "hráči"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/event_party_1.png",
+        "alt": "Party event 1 (2)",
+        "description": "Hráči na Party eventu, pořádáný CPS",
+        "tags": ["event", "hráči"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/event_party_2.png",
+        "alt": "Party event 1 (2)",
+        "description": "Party event, pořádáný CPS",
+        "tags": ["event", "hráči"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/event_party_3.png",
+        "alt": "Party event 1 (3)",
+        "description": "Party event, pořádáný CPS",
+        "tags": ["event"],
+        "season": ""
+    },
+    {
+        "src": "/gallery/s11_spawn_1.png",
+        "alt": "Spawn S11 (1)",
+        "description": "Spawn v sezóně 11",
+        "tags": ["spawn"],
+        "season": "S11"
+    },
+    {
+        "src": "/gallery/s11_spawn_2.png",
+        "alt": "Spawn S11 (2)",
+        "description": "Spawn v sezóně 11",
+        "tags": ["spawn"],
+        "season": "S11"
+    },
+    {
+        "src": "/gallery/s11_spawn_3.png",
+        "alt": "Spawn S11 (3)",
+        "description": "Spawn v sezóně 11",
+        "tags": ["spawn"],
+        "season": "S11"
+    },
+    {
+        "src": "/gallery/s11_spawn_4.png",
+        "alt": "Spawn S11 (4)",
+        "description": "Spawn v sezóně 11",
+        "tags": ["spawn"],
+        "season": "S11"
+    },
+    {
+        "src": "/gallery/s10_base_smrtka_1.png",
+        "alt": "Base Smrtka a Mates S10",
+        "description": "Base hráčů Smrtka_sk a matesos__",
+        "tags": ["base"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_base_smrtka_2.png",
+        "alt": "Base Smrtka a Mates S10",
+        "description": "Base hráčů Smrtka_sk a matesos__",
+        "tags": ["base"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_base_smrtka_3.png",
+        "alt": "Base Smrtka a Mates S10",
+        "description": "Base hráčů Smrtka_sk a matesos__",
+        "tags": ["base"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s10_hraci_2.png",
+        "alt": "Hráči S10 (2)",
+        "description": "Sunka01, Smrtka_sk",
+        "tags": ["hráči"],
+        "season": "S10"
+    },
+    {
+        "src": "/gallery/s9_pozemek_1.png",
+        "alt": "Pozemek Smrtka S9",
+        "description": "Smrtka_sk",
+        "tags": ["pozemky"],
+        "season": "S9"
     }
 ]
