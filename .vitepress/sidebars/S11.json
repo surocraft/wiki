@@ -48,6 +48,10 @@
                         "link": "/navody/residence"
                     },
                     {
+                        "text": "💸 Pozemky",
+                        "link": "/navody/pozemky"
+                    },
+                    {
                         "text": "🔗 Propojení účtů",
                         "link": "/navody/propojeni"
                     },

@@ -775,5 +775,33 @@
         "description": "Smrtka_sk",
         "tags": ["pozemky"],
         "season": "S9"
+    },
+    {
+        "src": "/gallery/s8_pozemky_1.png",
+        "alt": "Pozemky S8 (1)",
+        "description": "Pozemky v sezóně 8",
+        "tags": ["pozemky"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_pozemek_1.png",
+        "alt": "Tesco (1)",
+        "description": "Arnie, mammaly, sleek, katryn, seezy, misko, chaos, Erik, mischelka, kawecki, galaxy, greeny, domc4, monipai",
+        "tags": ["pozemky"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_pozemek_2.png",
+        "alt": "Tesco (2)",
+        "description": "Arnie, mammaly, sleek, katryn, seezy, misko, chaos, Erik, mischelka, kawecki, galaxy, greeny, domc4, monipai",
+        "tags": ["pozemky"],
+        "season": "S8"
+    },
+    {
+        "src": "/gallery/s8_pozemek_3.png",
+        "alt": "Tesco (3)",
+        "description": "Arnie, mammaly, sleek, katryn, seezy, misko, chaos, Erik, mischelka, kawecki, galaxy, greeny, domc4, monipai",
+        "tags": ["pozemky"],
+        "season": "S8"
     }
 ]
